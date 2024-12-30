@@ -1593,3 +1593,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [30Dec2024 04:06:30.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-138, y=57, z=38}
 [30Dec2024 04:06:39.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-136, y=56, z=36}
 [30Dec2024 04:06:47.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-139, y=57, z=38}
+[30Dec2024 04:07:05.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=70, z=-40} BlockPos{x=-140, y=56, z=36}
+[30Dec2024 04:07:05.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=70, z=-40} BlockPos{x=-140, y=57, z=36}
+[30Dec2024 04:07:07.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=70, z=-40} BlockPos{x=-141, y=57, z=36}
+[30Dec2024 04:07:08.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=70, z=-40} BlockPos{x=-140, y=57, z=36}
+[30Dec2024 04:07:18.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-133, y=57, z=36}
+[30Dec2024 04:07:18.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-133, y=57, z=36}
+[30Dec2024 04:07:23.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=70, z=-40} BlockPos{x=-141, y=57, z=36}
+[30Dec2024 04:07:23.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dieggox lost connection: Disconnected
+[30Dec2024 04:07:23.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox left the game
+[30Dec2024 04:07:23.929] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dieggox
+[30Dec2024 04:07:27.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=73, z=-35} BlockPos{x=-133, y=57, z=36}
+[30Dec2024 04:07:46.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AVich0 lost connection: Disconnected
+[30Dec2024 04:07:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AVich0 left the game
+[30Dec2024 04:07:46.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AVich0
+[30Dec2024 04:07:48.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dieggox[/127.168.124.62:38785] logged in with entity id 5735 at (-136.6901199632106, 57.0, 36.20317530049048)
+[30Dec2024 04:07:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox joined the game
+[30Dec2024 04:07:48.854] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to dieggox
+[30Dec2024 04:07:49.057] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from dieggox
+[30Dec2024 04:07:49.058] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dieggox (18)
+[30Dec2024 04:07:49.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dieggox
+[30Dec2024 04:08:04.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[30Dec2024 04:08:05.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[30Dec2024 04:08:05.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dieggox (0f3211e8-4d23-38e7-b372-0df7b8283720) successfully connected to voice chat
+[30Dec2024 04:08:08.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AVich0[/127.210.101.129:58653] logged in with entity id 5829 at (-136.32556906839775, 57.0, 33.878799086518335)
+[30Dec2024 04:08:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AVich0 joined the game
+[30Dec2024 04:08:08.379] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to AVich0
+[30Dec2024 04:08:08.559] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from AVich0
+[30Dec2024 04:08:08.560] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AVich0 (18)
+[30Dec2024 04:08:08.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AVich0
+[30Dec2024 04:08:20.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bd8c12cf-7463-341d-bba0-fbc579e7e685
+[30Dec2024 04:08:21.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bd8c12cf-7463-341d-bba0-fbc579e7e685
+[30Dec2024 04:08:21.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AVich0 (bd8c12cf-7463-341d-bba0-fbc579e7e685) successfully connected to voice chat
+[30Dec2024 04:08:30.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dieggox lost connection: Disconnected
+[30Dec2024 04:08:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox left the game
+[30Dec2024 04:08:30.179] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dieggox
+[30Dec2024 04:09:22.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-127, y=56, z=31}
+[30Dec2024 04:09:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Poyo has made the advancement [Isn't It Iron Pick]
+[30Dec2024 04:10:10.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=58, z=32}
+[30Dec2024 04:10:10.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-126, y=58, z=32}
+[30Dec2024 04:10:12.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=57, z=32}
+[30Dec2024 04:10:12.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-126, y=57, z=32}
+[30Dec2024 04:10:14.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=58, z=32}
+[30Dec2024 04:10:14.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-126, y=58, z=32}
+[30Dec2024 04:10:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AVich0 a server operator
+[30Dec2024 04:10:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made dieggox a server operator
+[30Dec2024 04:12:02.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dieggox[/127.168.124.62:51837] logged in with entity id 7237 at (-137.69999998807907, 57.0, 35.78250701840926)
+[30Dec2024 04:12:02.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox joined the game
+[30Dec2024 04:12:02.684] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to dieggox
+[30Dec2024 04:12:03.541] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from dieggox
+[30Dec2024 04:12:03.586] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dieggox (18)
+[30Dec2024 04:12:03.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dieggox
+[30Dec2024 04:12:17.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[30Dec2024 04:12:18.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[30Dec2024 04:12:18.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dieggox (0f3211e8-4d23-38e7-b372-0df7b8283720) successfully connected to voice chat
