@@ -1,0 +1,17 @@
+{
+	id: "273f0815-8e33-34db-93ce-e92fc8751b21"
+	type: "player"
+	player_name: "Poyo"
+	ranks: {
+		273f0815-8e33-34db-93ce-e92fc8751b21: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Poyo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
