@@ -1903,3 +1903,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [30Dec2024 05:37:27.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Poyo lost connection: Disconnected
 [30Dec2024 05:37:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Poyo left the game
 [30Dec2024 05:37:27.630] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Poyo
+[30Dec2024 05:40:18.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox succumbed to infection.
+[30Dec2024 05:40:21.313] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Dec2024 05:42:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox has made the advancement [Little chemist]
+[30Dec2024 05:43:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AVich0 has made the advancement [Isn't It Iron Pick]
+[30Dec2024 05:44:16.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=63, z=60} BlockPos{x=-108, y=62, z=59}
+[30Dec2024 05:44:16.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=63, z=60} BlockPos{x=-108, y=62, z=59}
