@@ -20305,3 +20305,302 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [30Dec2024 06:06:35.289] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-138.15, y=63.00, z=41.10] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-138.15, y=63.00, z=41.10]
 [30Dec2024 06:06:35.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-138.15, y=63.00, z=41.10] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-212.30, y=14.00, z=42.70]
 [30Dec2024 06:07:25.331] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[30Dec2024 06:08:33.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 7
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: 29687 handling client fire request
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 6
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: 29687 - obtained hit result in 0ms
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: 29687 obtained hit results
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30e5c029
+[30Dec2024 06:08:49.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.61] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.61]
+[30Dec2024 06:08:49.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.61] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: 30080 handling client fire request
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 5
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: 30080 - obtained hit result in 0ms
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: 30080 obtained hit results
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58c533c1
+[30Dec2024 06:08:50.080] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.66] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.66]
+[30Dec2024 06:08:50.081] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.66] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: 30580 handling client fire request
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 4
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: 30580 - obtained hit result in 0ms
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: 30580 obtained hit results
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7db8d27e
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.93] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.93]
+[30Dec2024 06:08:50.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=41.93] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:51.032] [Server thread/DEBUG] [pointblank/]: 31032 handling client fire request
+[30Dec2024 06:08:51.032] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 3
+[30Dec2024 06:08:51.033] [Server thread/DEBUG] [pointblank/]: 31033 - obtained hit result in 1ms
+[30Dec2024 06:08:51.033] [Server thread/DEBUG] [pointblank/]: 31033 obtained hit results
+[30Dec2024 06:08:51.033] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c5af7c4
+[30Dec2024 06:08:51.033] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70]
+[30Dec2024 06:08:51.033] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:51.527] [Server thread/DEBUG] [pointblank/]: 31527 handling client fire request
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 2
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: 31528 - obtained hit result in 0ms
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: 31528 obtained hit results
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@626c5e2
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.60, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.60, z=42.70]
+[30Dec2024 06:08:51.528] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.60, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:51.883] [Server thread/DEBUG] [pointblank/]: 31883 handling client fire request
+[30Dec2024 06:08:51.883] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 1
+[30Dec2024 06:08:51.883] [Server thread/DEBUG] [pointblank/]: 31883 - obtained hit result in 0ms
+[30Dec2024 06:08:51.883] [Server thread/DEBUG] [pointblank/]: 31883 obtained hit results
+[30Dec2024 06:08:51.883] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c41be94
+[30Dec2024 06:08:51.884] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70]
+[30Dec2024 06:08:51.885] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: 32283 handling client fire request
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1874131836 to 0
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: 32283 - obtained hit result in 0ms
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: 32283 obtained hit results
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29faf37b
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70]
+[30Dec2024 06:08:52.283] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-206.30, y=4.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-213.74, y=23.00, z=42.65]
+[30Dec2024 06:09:32.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:09:32.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:09:41.938] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 7
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: 86233 handling client fire request
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 6
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: 86233 - obtained hit result in 0ms
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: 86233 obtained hit results
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@58451c7d
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-190.70, y=1.00, z=51.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-190.70, y=1.00, z=51.30]
+[30Dec2024 06:09:46.233] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-190.70, y=1.00, z=51.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-208.66, y=18.50, z=42.90]
+[30Dec2024 06:09:56.931] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 7
+[30Dec2024 06:10:09.733] [Server thread/DEBUG] [pointblank/]: 9733 handling client fire request
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 6
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: 9734 - obtained hit result in 0ms
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: 9734 obtained hit results
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@797ec151
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-184.78, y=3.00, z=46.30]
+[30Dec2024 06:10:09.734] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15]
+[30Dec2024 06:10:10.783] [Server thread/DEBUG] [pointblank/]: 10783 handling client fire request
+[30Dec2024 06:10:10.783] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 5
+[30Dec2024 06:10:10.784] [Server thread/DEBUG] [pointblank/]: 10784 - obtained hit result in 1ms
+[30Dec2024 06:10:10.784] [Server thread/DEBUG] [pointblank/]: 10784 obtained hit results
+[30Dec2024 06:10:10.784] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ce7aea
+[30Dec2024 06:10:10.784] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.78, y=4.00, z=45.55]
+[30Dec2024 06:10:10.784] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15]
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: 11689 handling client fire request
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 4
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: 11689 - obtained hit result in 0ms
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: 11689 obtained hit results
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7e2c88d
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.37, y=4.00, z=47.38]
+[30Dec2024 06:10:11.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15]
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: 12280 handling client fire request
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 3
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: 12280 - obtained hit result in 0ms
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: 12280 obtained hit results
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@62834a3a
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.70, y=3.00, z=47.70]
+[30Dec2024 06:10:12.280] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15]
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: 13032 handling client fire request
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 2
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: 13032 - obtained hit result in 0ms
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: 13032 obtained hit results
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75e0fcf3
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.70, y=3.00, z=47.70]
+[30Dec2024 06:10:13.032] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.85, y=20.00, z=43.15]
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: 14482 handling client fire request
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 1
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: 14482 - obtained hit result in 0ms
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: 14482 obtained hit results
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56438e91
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.73, y=20.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.70, y=3.00, z=47.70]
+[30Dec2024 06:10:14.482] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.73, y=20.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-215.73, y=20.00, z=42.70]
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: 16732 handling client fire request
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 0
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: 16732 - obtained hit result in 0ms
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: 16732 obtained hit results
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6dd03fc3
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.26, y=19.00, z=42.14] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-186.70, y=3.00, z=47.30]
+[30Dec2024 06:10:16.732] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.26, y=19.00, z=42.14] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.26, y=19.00, z=42.14]
+[30Dec2024 06:10:19.678] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 7
+[30Dec2024 06:10:21.981] [Server thread/DEBUG] [pointblank/]: 21981 handling client fire request
+[30Dec2024 06:10:21.981] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 6
+[30Dec2024 06:10:21.981] [Server thread/DEBUG] [pointblank/]: 21981 - obtained hit result in 0ms
+[30Dec2024 06:10:21.982] [Server thread/DEBUG] [pointblank/]: 21982 obtained hit results
+[30Dec2024 06:10:21.982] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@305cb8d5
+[30Dec2024 06:10:21.983] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.46, y=19.00, z=41.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-198.24, y=4.00, z=40.22]
+[30Dec2024 06:10:21.983] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.46, y=19.00, z=41.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-216.46, y=19.00, z=41.70]
+[30Dec2024 06:10:26.530] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 7
+[30Dec2024 06:11:22.981] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[30Dec2024 06:13:45.331] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[30Dec2024 06:14:20.395] [Server thread/DEBUG] [pointblank/]: 60395 handling client fire request
+[30Dec2024 06:14:20.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 6
+[30Dec2024 06:14:20.395] [Server thread/DEBUG] [pointblank/]: 60395 - obtained hit result in 0ms
+[30Dec2024 06:14:20.395] [Server thread/DEBUG] [pointblank/]: 60395 obtained hit results
+[30Dec2024 06:14:20.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@471c9564
+[30Dec2024 06:14:20.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70]
+[30Dec2024 06:14:20.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: 60580 handling client fire request
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 5
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: 60580 - obtained hit result in 0ms
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: 60580 obtained hit results
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64174106
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70]
+[30Dec2024 06:14:20.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:20.786] [Server thread/DEBUG] [pointblank/]: 60786 handling client fire request
+[30Dec2024 06:14:20.786] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 4
+[30Dec2024 06:14:20.786] [Server thread/DEBUG] [pointblank/]: 60786 - obtained hit result in 0ms
+[30Dec2024 06:14:20.786] [Server thread/DEBUG] [pointblank/]: 60786 obtained hit results
+[30Dec2024 06:14:20.786] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5cda008
+[30Dec2024 06:14:20.787] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.58, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.58, z=42.70]
+[30Dec2024 06:14:20.787] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.58, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: 60933 handling client fire request
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 3
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: 60933 - obtained hit result in 0ms
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: 60933 obtained hit results
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@78137270
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.43, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.43, z=42.70]
+[30Dec2024 06:14:20.933] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.43, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:21.180] [Server thread/DEBUG] [pointblank/]: 61180 handling client fire request
+[30Dec2024 06:14:21.180] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 2
+[30Dec2024 06:14:21.180] [Server thread/DEBUG] [pointblank/]: 61180 - obtained hit result in 0ms
+[30Dec2024 06:14:21.180] [Server thread/DEBUG] [pointblank/]: 61180 obtained hit results
+[30Dec2024 06:14:21.180] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10b6409a
+[30Dec2024 06:14:21.181] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70]
+[30Dec2024 06:14:21.181] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:21.331] [Server thread/DEBUG] [pointblank/]: 61331 handling client fire request
+[30Dec2024 06:14:21.331] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 1
+[30Dec2024 06:14:21.331] [Server thread/DEBUG] [pointblank/]: 61331 - obtained hit result in 0ms
+[30Dec2024 06:14:21.331] [Server thread/DEBUG] [pointblank/]: 61331 obtained hit results
+[30Dec2024 06:14:21.331] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d71d6b4
+[30Dec2024 06:14:21.333] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70]
+[30Dec2024 06:14:21.333] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: 61484 handling client fire request
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 0
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: 61484 - obtained hit result in 0ms
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: 61484 obtained hit results
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21745f66
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70]
+[30Dec2024 06:14:21.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-205.30, y=5.00, z=42.70] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:24.083] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 7
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: 66881 handling client fire request
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 6
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: 66882 - obtained hit result in 0ms
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: 66882 obtained hit results
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@539f8704
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.67, y=8.58, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.67, y=8.58, z=42.30]
+[30Dec2024 06:14:26.882] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.67, y=8.58, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:27.082] [Server thread/DEBUG] [pointblank/]: 67082 handling client fire request
+[30Dec2024 06:14:27.083] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 5
+[30Dec2024 06:14:27.083] [Server thread/DEBUG] [pointblank/]: 67083 - obtained hit result in 0ms
+[30Dec2024 06:14:27.083] [Server thread/DEBUG] [pointblank/]: 67083 obtained hit results
+[30Dec2024 06:14:27.083] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@620da70b
+[30Dec2024 06:14:27.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.49, y=8.22, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.49, y=8.22, z=42.30]
+[30Dec2024 06:14:27.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.49, y=8.22, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:27.332] [Server thread/DEBUG] [pointblank/]: 67332 handling client fire request
+[30Dec2024 06:14:27.332] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 4
+[30Dec2024 06:14:27.332] [Server thread/DEBUG] [pointblank/]: 67332 - obtained hit result in 0ms
+[30Dec2024 06:14:27.332] [Server thread/DEBUG] [pointblank/]: 67332 obtained hit results
+[30Dec2024 06:14:27.333] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47b1446d
+[30Dec2024 06:14:27.333] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30]
+[30Dec2024 06:14:27.333] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:27.480] [Server thread/DEBUG] [pointblank/]: 67480 handling client fire request
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 3
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: 67481 - obtained hit result in 0ms
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: 67481 obtained hit results
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4aba0f75
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30]
+[30Dec2024 06:14:27.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:27.685] [Server thread/DEBUG] [pointblank/]: 67685 handling client fire request
+[30Dec2024 06:14:27.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 2
+[30Dec2024 06:14:27.685] [Server thread/DEBUG] [pointblank/]: 67685 - obtained hit result in 0ms
+[30Dec2024 06:14:27.685] [Server thread/DEBUG] [pointblank/]: 67685 obtained hit results
+[30Dec2024 06:14:27.685] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e5a863
+[30Dec2024 06:14:27.686] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30]
+[30Dec2024 06:14:27.686] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:27.880] [Server thread/DEBUG] [pointblank/]: 67880 handling client fire request
+[30Dec2024 06:14:27.880] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 1
+[30Dec2024 06:14:27.881] [Server thread/DEBUG] [pointblank/]: 67881 - obtained hit result in 0ms
+[30Dec2024 06:14:27.881] [Server thread/DEBUG] [pointblank/]: 67881 obtained hit results
+[30Dec2024 06:14:27.881] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67e434ce
+[30Dec2024 06:14:27.881] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30]
+[30Dec2024 06:14:27.881] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: 68031 handling client fire request
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 0
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: 68031 - obtained hit result in 0ms
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: 68031 obtained hit results
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2fa7fbc1
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30]
+[30Dec2024 06:14:28.031] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-202.30, y=8.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:32.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:14:32.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:14:35.134] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@50e449c3]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[30Dec2024 06:14:35.137] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3a600406
+[30Dec2024 06:14:35.140] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:14:35.140] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:14:35.190] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:14:35.190] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:14:38.633] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 7
+[30Dec2024 06:14:40.833] [Server thread/DEBUG] [pointblank/]: 80833 handling client fire request
+[30Dec2024 06:14:40.833] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 6
+[30Dec2024 06:14:40.834] [Server thread/DEBUG] [pointblank/]: 80834 - obtained hit result in 0ms
+[30Dec2024 06:14:40.834] [Server thread/DEBUG] [pointblank/]: 80834 obtained hit results
+[30Dec2024 06:14:40.834] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3aa01291
+[30Dec2024 06:14:40.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.34] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.34]
+[30Dec2024 06:14:40.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.34] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:41.036] [Server thread/DEBUG] [pointblank/]: 81036 handling client fire request
+[30Dec2024 06:14:41.036] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 5
+[30Dec2024 06:14:41.036] [Server thread/DEBUG] [pointblank/]: 81036 - obtained hit result in 0ms
+[30Dec2024 06:14:41.036] [Server thread/DEBUG] [pointblank/]: 81036 obtained hit results
+[30Dec2024 06:14:41.036] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13361805
+[30Dec2024 06:14:41.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.33] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.33]
+[30Dec2024 06:14:41.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.33] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: 81233 handling client fire request
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 4
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: 81233 - obtained hit result in 0ms
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: 81233 obtained hit results
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6af4cac4
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.31] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.31]
+[30Dec2024 06:14:41.233] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.31] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:41.432] [Server thread/DEBUG] [pointblank/]: 81432 handling client fire request
+[30Dec2024 06:14:41.432] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 3
+[30Dec2024 06:14:41.433] [Server thread/DEBUG] [pointblank/]: 81433 - obtained hit result in 0ms
+[30Dec2024 06:14:41.433] [Server thread/DEBUG] [pointblank/]: 81433 obtained hit results
+[30Dec2024 06:14:41.433] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@72a41c63
+[30Dec2024 06:14:41.433] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30]
+[30Dec2024 06:14:41.433] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: 81635 handling client fire request
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 2
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: 81635 - obtained hit result in 0ms
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: 81635 obtained hit results
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@653bbff9
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30] sends hit scan notification to ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30]
+[30Dec2024 06:14:41.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AVich0'/5829, l='ServerLevel[world]', x=-188.30, y=22.00, z=42.30] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-225.30, y=8.00, z=29.49]
+[30Dec2024 06:15:04.582] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 885105026 to 7
+[30Dec2024 06:15:25.188] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:15:25.188] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:15:37.286] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[30Dec2024 06:16:15.186] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:16:15.186] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: 96945 handling client fire request
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 6
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: 96946 - obtained hit result in 0ms
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: 96946 obtained hit results
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ec9ac90
+[30Dec2024 06:16:36.946] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-223.12, y=-11.88, z=42.59] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-223.12, y=-11.88, z=42.59]
+[30Dec2024 06:16:37.048] [Server thread/DEBUG] [pointblank/]: 97048 handling client fire request
+[30Dec2024 06:16:37.048] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 5
+[30Dec2024 06:16:37.048] [Server thread/DEBUG] [pointblank/]: 97048 - obtained hit result in 0ms
+[30Dec2024 06:16:37.049] [Server thread/DEBUG] [pointblank/]: 97049 obtained hit results
+[30Dec2024 06:16:37.049] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a9b638f
+[30Dec2024 06:16:37.049] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.68, y=-12.00, z=42.60] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.68, y=-12.00, z=42.60]
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: 97191 handling client fire request
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 4
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: 97191 - obtained hit result in 0ms
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: 97191 obtained hit results
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ea3a87b
+[30Dec2024 06:16:37.191] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.30, y=-11.25, z=42.62] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.30, y=-11.25, z=42.62]
+[30Dec2024 06:16:37.402] [Server thread/DEBUG] [pointblank/]: 97402 handling client fire request
+[30Dec2024 06:16:37.402] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 3
+[30Dec2024 06:16:37.403] [Server thread/DEBUG] [pointblank/]: 97403 - obtained hit result in 0ms
+[30Dec2024 06:16:37.403] [Server thread/DEBUG] [pointblank/]: 97403 obtained hit results
+[30Dec2024 06:16:37.403] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d9d633b
+[30Dec2024 06:16:37.404] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.12, y=-10.88, z=42.64] sends hit scan notification to ServerPlayer['dieggox'/7237, l='ServerLevel[world]', x=-222.12, y=-10.88, z=42.64]
+[30Dec2024 06:16:40.393] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1393452603 to 7
+[30Dec2024 06:17:05.185] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:17:05.186] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:17:55.190] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:17:55.191] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10

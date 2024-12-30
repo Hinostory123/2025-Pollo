@@ -1426,7 +1426,8 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "sandy_dirt": "2024-12-30 03:48:48 +0000",
-      "dirt": "2024-12-30 03:28:07 +0000"
+      "dirt": "2024-12-30 03:28:07 +0000",
+      "silt": "2024-12-30 06:09:51 +0000"
     },
     "done": false
   },
@@ -4349,6 +4350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-30 06:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-30 05:03:08 +0000"
@@ -4559,6 +4566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-30 06:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 05:18:52 +0000"
@@ -4604,6 +4617,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-30 05:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-30 06:13:35 +0000"
     },
     "done": true
   },
