@@ -4434,6 +4434,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 04:58:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 04:50:38 +0000"
@@ -4467,6 +4473,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-30 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 04:58:49 +0000"
     },
     "done": true
   },
@@ -4506,6 +4518,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-30 04:58:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 04:41:14 +0000"
@@ -4527,6 +4545,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 04:50:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-30 05:00:35 +0000"
     },
     "done": true
   },
@@ -4563,6 +4587,12 @@
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2024-12-30 04:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-30 05:00:35 +0000"
     },
     "done": true
   },
