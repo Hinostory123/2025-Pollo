@@ -1250,3 +1250,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [31Dec2024 19:14:48.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35811ms or 716 ticks behind
 [31Dec2024 19:15:39.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36254ms or 725 ticks behind
 [31Dec2024 19:16:35.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40702ms or 814 ticks behind
+[31Dec2024 19:17:33.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42606ms or 852 ticks behind
+[31Dec2024 19:18:36.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 48137ms or 962 ticks behind
+[31Dec2024 19:18:56.184] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[31Dec2024 19:19:41.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 50272ms or 1005 ticks behind
+[31Dec2024 19:20:49.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52720ms or 1054 ticks behind
+[31Dec2024 19:20:51.655] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[31Dec2024 19:22:02.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 58418ms or 1168 ticks behind
+[31Dec2024 19:23:16.950] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[31Dec2024 19:23:16.951] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[31Dec2024 19:23:17.464] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8831ca8d-5cfc-4567-b8ec-5751b0852142
+[31Dec2024 19:23:17.527] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cc34ab4e-675f-4205-9a59-23e6a71c58a3
+[31Dec2024 19:23:17.529] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/2025-Pollo/servidor_minecraft/./crash-reports/crash-2024-12-31_19.23.17-server.txt
+[31Dec2024 19:23:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 19:23:17.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 19:23:17.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Poyo lost connection: Disconnected
+[31Dec2024 19:23:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Poyo left the game
+[31Dec2024 19:23:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 19:23:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 19:23:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[31Dec2024 19:23:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[31Dec2024 19:23:18.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 19:23:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 19:23:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 19:23:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[31Dec2024 19:23:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[31Dec2024 19:23:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 19:23:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 19:23:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 19:23:18.598] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Dec2024 19:23:18.600] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Dec2024 19:23:18.602] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[31Dec2024 19:23:18.602] [Server thread/INFO] [Framework/]: Finished unloading server configs
