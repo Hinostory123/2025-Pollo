@@ -15284,3 +15284,259 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [31Dec2024 18:45:01.672] [Server thread/DEBUG] [pointblank/]: 1672 obtained hit results
 [31Dec2024 18:45:01.672] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4cf12146
 [31Dec2024 18:45:01.672] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-133.86, y=69.00, z=37.44] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-133.86, y=69.00, z=37.44]
+[31Dec2024 18:46:35.120] [Server thread/DEBUG] [pointblank/]: 95120 handling client fire request
+[31Dec2024 18:46:35.121] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 3
+[31Dec2024 18:46:35.121] [Server thread/DEBUG] [pointblank/]: 95121 - obtained hit result in 0ms
+[31Dec2024 18:46:35.121] [Server thread/DEBUG] [pointblank/]: 95121 obtained hit results
+[31Dec2024 18:46:35.121] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38f2822d
+[31Dec2024 18:46:35.121] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72]
+[31Dec2024 18:46:35.618] [Server thread/DEBUG] [pointblank/]: 95618 handling client fire request
+[31Dec2024 18:46:35.618] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 2
+[31Dec2024 18:46:35.618] [Server thread/DEBUG] [pointblank/]: 95618 - obtained hit result in 0ms
+[31Dec2024 18:46:35.618] [Server thread/DEBUG] [pointblank/]: 95618 obtained hit results
+[31Dec2024 18:46:35.618] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3877de46
+[31Dec2024 18:46:35.619] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72]
+[31Dec2024 18:46:36.124] [Server thread/DEBUG] [pointblank/]: 96124 handling client fire request
+[31Dec2024 18:46:36.124] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 1
+[31Dec2024 18:46:36.125] [Server thread/DEBUG] [pointblank/]: 96125 - obtained hit result in 0ms
+[31Dec2024 18:46:36.125] [Server thread/DEBUG] [pointblank/]: 96125 obtained hit results
+[31Dec2024 18:46:36.125] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7da6219a
+[31Dec2024 18:46:36.125] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72]
+[31Dec2024 18:46:36.678] [Server thread/DEBUG] [pointblank/]: 96678 handling client fire request
+[31Dec2024 18:46:36.678] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 0
+[31Dec2024 18:46:36.678] [Server thread/DEBUG] [pointblank/]: 96678 - obtained hit result in 0ms
+[31Dec2024 18:46:36.678] [Server thread/DEBUG] [pointblank/]: 96678 obtained hit results
+[31Dec2024 18:46:36.679] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f46e773
+[31Dec2024 18:46:36.680] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.32, y=63.00, z=37.72]
+[31Dec2024 18:46:37.227] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:47:39.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 18:47:39.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 18:48:13.876] [Server thread/DEBUG] [pointblank/]: 93876 handling client fire request
+[31Dec2024 18:48:13.876] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:48:13.876] [Server thread/DEBUG] [pointblank/]: 93876 - obtained hit result in 0ms
+[31Dec2024 18:48:13.876] [Server thread/DEBUG] [pointblank/]: 93876 obtained hit results
+[31Dec2024 18:48:13.876] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b12e6c5
+[31Dec2024 18:48:13.877] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.28, y=57.00, z=30.40] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.28, y=57.00, z=30.40]
+[31Dec2024 18:48:14.474] [Server thread/DEBUG] [pointblank/]: 94474 handling client fire request
+[31Dec2024 18:48:14.474] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:48:14.474] [Server thread/DEBUG] [pointblank/]: 94474 - obtained hit result in 0ms
+[31Dec2024 18:48:14.474] [Server thread/DEBUG] [pointblank/]: 94474 obtained hit results
+[31Dec2024 18:48:14.474] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@555f54dc
+[31Dec2024 18:48:14.475] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.31, y=57.00, z=30.31] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.31, y=57.00, z=30.31]
+[31Dec2024 18:48:15.475] [Server thread/DEBUG] [pointblank/]: 95475 handling client fire request
+[31Dec2024 18:48:15.476] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:48:15.476] [Server thread/DEBUG] [pointblank/]: 95476 - obtained hit result in 0ms
+[31Dec2024 18:48:15.476] [Server thread/DEBUG] [pointblank/]: 95476 obtained hit results
+[31Dec2024 18:48:15.476] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4062cf93
+[31Dec2024 18:48:15.477] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.53, y=57.00, z=29.36] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.53, y=57.00, z=29.36]
+[31Dec2024 18:48:52.322] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[31Dec2024 18:49:30.698] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:51:55.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[31Dec2024 18:52:13.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[31Dec2024 18:52:30.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[31Dec2024 18:52:48.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[31Dec2024 18:52:48.853] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[31Dec2024 18:52:48.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 18:52:48.886] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[31Dec2024 18:52:48.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 18:53:08.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
+[31Dec2024 18:53:13.754] [Server thread/DEBUG] [pointblank/]: 93754 handling client fire request
+[31Dec2024 18:53:13.754] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:53:13.755] [Server thread/DEBUG] [pointblank/]: 93755 - obtained hit result in 1ms
+[31Dec2024 18:53:13.755] [Server thread/DEBUG] [pointblank/]: 93755 obtained hit results
+[31Dec2024 18:53:13.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76f30fba
+[31Dec2024 18:53:13.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70]
+[31Dec2024 18:53:14.369] [Server thread/DEBUG] [pointblank/]: 94369 handling client fire request
+[31Dec2024 18:53:14.369] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:53:14.369] [Server thread/DEBUG] [pointblank/]: 94369 - obtained hit result in 0ms
+[31Dec2024 18:53:14.369] [Server thread/DEBUG] [pointblank/]: 94369 obtained hit results
+[31Dec2024 18:53:14.369] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b3b50ac
+[31Dec2024 18:53:14.370] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70]
+[31Dec2024 18:53:15.163] [Server thread/DEBUG] [pointblank/]: 95163 handling client fire request
+[31Dec2024 18:53:15.163] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:53:15.164] [Server thread/DEBUG] [pointblank/]: 95164 - obtained hit result in 0ms
+[31Dec2024 18:53:15.164] [Server thread/DEBUG] [pointblank/]: 95164 obtained hit results
+[31Dec2024 18:53:15.164] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a0b481c
+[31Dec2024 18:53:15.165] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-135.09, y=58.00, z=37.70]
+[31Dec2024 18:53:17.676] [Server thread/DEBUG] [pointblank/]: 97676 handling client fire request
+[31Dec2024 18:53:17.676] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 3
+[31Dec2024 18:53:17.676] [Server thread/DEBUG] [pointblank/]: 97676 - obtained hit result in 0ms
+[31Dec2024 18:53:17.676] [Server thread/DEBUG] [pointblank/]: 97676 obtained hit results
+[31Dec2024 18:53:17.676] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f7647d2
+[31Dec2024 18:53:17.677] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70]
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: 99606 handling client fire request
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 2
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: 99607 - obtained hit result in 0ms
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: 99607 obtained hit results
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34da09e5
+[31Dec2024 18:53:19.607] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70]
+[31Dec2024 18:53:20.271] [Server thread/DEBUG] [pointblank/]: 271 handling client fire request
+[31Dec2024 18:53:20.271] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 1
+[31Dec2024 18:53:20.272] [Server thread/DEBUG] [pointblank/]: 272 - obtained hit result in 0ms
+[31Dec2024 18:53:20.272] [Server thread/DEBUG] [pointblank/]: 272 obtained hit results
+[31Dec2024 18:53:20.272] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12ca1823
+[31Dec2024 18:53:20.272] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70]
+[31Dec2024 18:53:21.160] [Server thread/DEBUG] [pointblank/]: 1160 handling client fire request
+[31Dec2024 18:53:21.160] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 0
+[31Dec2024 18:53:21.160] [Server thread/DEBUG] [pointblank/]: 1160 - obtained hit result in 0ms
+[31Dec2024 18:53:21.160] [Server thread/DEBUG] [pointblank/]: 1160 obtained hit results
+[31Dec2024 18:53:21.160] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a526217
+[31Dec2024 18:53:21.161] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70]
+[31Dec2024 18:53:22.954] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:53:28.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5504ms or 110 ticks behind
+[31Dec2024 18:53:31.412] [Server thread/DEBUG] [pointblank/]: 11412 handling client fire request
+[31Dec2024 18:53:31.413] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:53:31.413] [Server thread/DEBUG] [pointblank/]: 11413 - obtained hit result in 0ms
+[31Dec2024 18:53:31.413] [Server thread/DEBUG] [pointblank/]: 11413 obtained hit results
+[31Dec2024 18:53:31.413] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ddae583
+[31Dec2024 18:53:31.414] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.48, y=58.00, z=37.70]
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: 13473 handling client fire request
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: 13473 - obtained hit result in 0ms
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: 13473 obtained hit results
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62226244
+[31Dec2024 18:53:33.473] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:34.395] [Server thread/DEBUG] [pointblank/]: 14395 handling client fire request
+[31Dec2024 18:53:34.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:53:34.396] [Server thread/DEBUG] [pointblank/]: 14396 - obtained hit result in 1ms
+[31Dec2024 18:53:34.396] [Server thread/DEBUG] [pointblank/]: 14396 obtained hit results
+[31Dec2024 18:53:34.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e78122e
+[31Dec2024 18:53:34.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:34.922] [Server thread/DEBUG] [pointblank/]: 14922 handling client fire request
+[31Dec2024 18:53:34.922] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 3
+[31Dec2024 18:53:34.922] [Server thread/DEBUG] [pointblank/]: 14922 - obtained hit result in 0ms
+[31Dec2024 18:53:34.922] [Server thread/DEBUG] [pointblank/]: 14922 obtained hit results
+[31Dec2024 18:53:34.922] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c473bcf
+[31Dec2024 18:53:34.923] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: 15353 handling client fire request
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 2
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: 15353 - obtained hit result in 0ms
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: 15353 obtained hit results
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46436134
+[31Dec2024 18:53:35.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:36.008] [Server thread/DEBUG] [pointblank/]: 16008 handling client fire request
+[31Dec2024 18:53:36.009] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 1
+[31Dec2024 18:53:36.009] [Server thread/DEBUG] [pointblank/]: 16009 - obtained hit result in 0ms
+[31Dec2024 18:53:36.009] [Server thread/DEBUG] [pointblank/]: 16009 obtained hit results
+[31Dec2024 18:53:36.009] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30287401
+[31Dec2024 18:53:36.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:36.640] [Server thread/DEBUG] [pointblank/]: 16640 handling client fire request
+[31Dec2024 18:53:36.640] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 0
+[31Dec2024 18:53:36.640] [Server thread/DEBUG] [pointblank/]: 16640 - obtained hit result in 0ms
+[31Dec2024 18:53:36.640] [Server thread/DEBUG] [pointblank/]: 16640 obtained hit results
+[31Dec2024 18:53:36.640] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2122c0a4
+[31Dec2024 18:53:36.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:38.104] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:53:40.398] [Server thread/DEBUG] [pointblank/]: 20398 handling client fire request
+[31Dec2024 18:53:40.398] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:53:40.398] [Server thread/DEBUG] [pointblank/]: 20398 - obtained hit result in 0ms
+[31Dec2024 18:53:40.398] [Server thread/DEBUG] [pointblank/]: 20398 obtained hit results
+[31Dec2024 18:53:40.398] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e226d8
+[31Dec2024 18:53:40.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:40.944] [Server thread/DEBUG] [pointblank/]: 20944 handling client fire request
+[31Dec2024 18:53:40.944] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:53:40.945] [Server thread/DEBUG] [pointblank/]: 20945 - obtained hit result in 1ms
+[31Dec2024 18:53:40.945] [Server thread/DEBUG] [pointblank/]: 20945 obtained hit results
+[31Dec2024 18:53:40.945] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@721cbf20
+[31Dec2024 18:53:40.945] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:41.499] [Server thread/DEBUG] [pointblank/]: 21499 handling client fire request
+[31Dec2024 18:53:41.500] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:53:41.500] [Server thread/DEBUG] [pointblank/]: 21500 - obtained hit result in 0ms
+[31Dec2024 18:53:41.500] [Server thread/DEBUG] [pointblank/]: 21500 obtained hit results
+[31Dec2024 18:53:41.500] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72e512c
+[31Dec2024 18:53:41.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:42.009] [Server thread/DEBUG] [pointblank/]: 22009 handling client fire request
+[31Dec2024 18:53:42.009] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 3
+[31Dec2024 18:53:42.009] [Server thread/DEBUG] [pointblank/]: 22009 - obtained hit result in 0ms
+[31Dec2024 18:53:42.009] [Server thread/DEBUG] [pointblank/]: 22009 obtained hit results
+[31Dec2024 18:53:42.009] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48436074
+[31Dec2024 18:53:42.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:42.588] [Server thread/DEBUG] [pointblank/]: 22588 handling client fire request
+[31Dec2024 18:53:42.589] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 2
+[31Dec2024 18:53:42.589] [Server thread/DEBUG] [pointblank/]: 22589 - obtained hit result in 0ms
+[31Dec2024 18:53:42.589] [Server thread/DEBUG] [pointblank/]: 22589 obtained hit results
+[31Dec2024 18:53:42.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16ea3df
+[31Dec2024 18:53:42.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:43.175] [Server thread/DEBUG] [pointblank/]: 23175 handling client fire request
+[31Dec2024 18:53:43.175] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 1
+[31Dec2024 18:53:43.175] [Server thread/DEBUG] [pointblank/]: 23175 - obtained hit result in 0ms
+[31Dec2024 18:53:43.175] [Server thread/DEBUG] [pointblank/]: 23175 obtained hit results
+[31Dec2024 18:53:43.175] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@668edb0c
+[31Dec2024 18:53:43.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:43.714] [Server thread/DEBUG] [pointblank/]: 23714 handling client fire request
+[31Dec2024 18:53:43.715] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 0
+[31Dec2024 18:53:43.715] [Server thread/DEBUG] [pointblank/]: 23715 - obtained hit result in 0ms
+[31Dec2024 18:53:43.715] [Server thread/DEBUG] [pointblank/]: 23715 obtained hit results
+[31Dec2024 18:53:43.715] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22c22749
+[31Dec2024 18:53:43.716] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:44.982] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:53:47.328] [Server thread/DEBUG] [pointblank/]: 27328 handling client fire request
+[31Dec2024 18:53:47.328] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:53:47.329] [Server thread/DEBUG] [pointblank/]: 27329 - obtained hit result in 0ms
+[31Dec2024 18:53:47.329] [Server thread/DEBUG] [pointblank/]: 27329 obtained hit results
+[31Dec2024 18:53:47.329] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1962ac8d
+[31Dec2024 18:53:47.329] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: 27854 handling client fire request
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: 27854 - obtained hit result in 0ms
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: 27854 obtained hit results
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32462c20
+[31Dec2024 18:53:47.854] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:48.539] [Server thread/DEBUG] [pointblank/]: 28539 handling client fire request
+[31Dec2024 18:53:48.539] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:53:48.539] [Server thread/DEBUG] [pointblank/]: 28539 - obtained hit result in 0ms
+[31Dec2024 18:53:48.539] [Server thread/DEBUG] [pointblank/]: 28539 obtained hit results
+[31Dec2024 18:53:48.539] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1210274a
+[31Dec2024 18:53:48.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: 29198 handling client fire request
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 3
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: 29199 - obtained hit result in 0ms
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: 29199 obtained hit results
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70df4041
+[31Dec2024 18:53:49.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:49.852] [Server thread/DEBUG] [pointblank/]: 29852 handling client fire request
+[31Dec2024 18:53:49.852] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 2
+[31Dec2024 18:53:49.852] [Server thread/DEBUG] [pointblank/]: 29852 - obtained hit result in 0ms
+[31Dec2024 18:53:49.852] [Server thread/DEBUG] [pointblank/]: 29852 obtained hit results
+[31Dec2024 18:53:49.852] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@173b0741
+[31Dec2024 18:53:49.853] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:50.482] [Server thread/DEBUG] [pointblank/]: 30482 handling client fire request
+[31Dec2024 18:53:50.482] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 1
+[31Dec2024 18:53:50.483] [Server thread/DEBUG] [pointblank/]: 30483 - obtained hit result in 1ms
+[31Dec2024 18:53:50.483] [Server thread/DEBUG] [pointblank/]: 30483 obtained hit results
+[31Dec2024 18:53:50.483] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e4278d8
+[31Dec2024 18:53:50.483] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:50.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6825ms or 136 ticks behind
+[31Dec2024 18:53:51.054] [Server thread/DEBUG] [pointblank/]: 31054 handling client fire request
+[31Dec2024 18:53:51.055] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 0
+[31Dec2024 18:53:51.055] [Server thread/DEBUG] [pointblank/]: 31055 - obtained hit result in 0ms
+[31Dec2024 18:53:51.055] [Server thread/DEBUG] [pointblank/]: 31055 obtained hit results
+[31Dec2024 18:53:51.055] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e89f791
+[31Dec2024 18:53:51.055] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-134.49, y=59.00, z=38.61]
+[31Dec2024 18:53:52.166] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 7
+[31Dec2024 18:54:13.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7958ms or 159 ticks behind
+[31Dec2024 18:54:36.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8021ms or 160 ticks behind
+[31Dec2024 18:55:03.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11723ms or 234 ticks behind
+[31Dec2024 18:55:11.611] [Server thread/DEBUG] [pointblank/]: 11611 handling client fire request
+[31Dec2024 18:55:11.612] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 6
+[31Dec2024 18:55:11.612] [Server thread/DEBUG] [pointblank/]: 11612 - obtained hit result in 0ms
+[31Dec2024 18:55:11.612] [Server thread/DEBUG] [pointblank/]: 11612 obtained hit results
+[31Dec2024 18:55:11.612] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@577fb2ab
+[31Dec2024 18:55:11.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.70, y=57.00, z=26.00] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.70, y=57.00, z=26.00]
+[31Dec2024 18:55:12.245] [Server thread/DEBUG] [pointblank/]: 12245 handling client fire request
+[31Dec2024 18:55:12.245] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 5
+[31Dec2024 18:55:12.245] [Server thread/DEBUG] [pointblank/]: 12245 - obtained hit result in 0ms
+[31Dec2024 18:55:12.245] [Server thread/DEBUG] [pointblank/]: 12245 obtained hit results
+[31Dec2024 18:55:12.245] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1570c35a
+[31Dec2024 18:55:12.246] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.73, y=57.00, z=26.21] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.73, y=57.00, z=26.21]
+[31Dec2024 18:55:12.883] [Server thread/DEBUG] [pointblank/]: 12883 handling client fire request
+[31Dec2024 18:55:12.883] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1722550855 to 4
+[31Dec2024 18:55:12.883] [Server thread/DEBUG] [pointblank/]: 12883 - obtained hit result in 0ms
+[31Dec2024 18:55:12.883] [Server thread/DEBUG] [pointblank/]: 12883 obtained hit results
+[31Dec2024 18:55:12.883] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b211705
+[31Dec2024 18:55:12.885] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.42, y=57.00, z=26.95] sends hit scan notification to ServerPlayer['Poyo'/153, l='ServerLevel[world]', x=-132.42, y=57.00, z=26.95]
+[31Dec2024 18:55:32.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14312ms or 286 ticks behind
+[31Dec2024 18:55:32.609] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[31Dec2024 18:56:06.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18558ms or 371 ticks behind
+[31Dec2024 18:56:25.733] [Server thread/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Dec2024 18:56:25.748] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
