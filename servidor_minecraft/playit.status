@@ -1,115 +1,1626 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734991369865 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735673386383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991372974 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673389486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991376084 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673392613 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991379152 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673395734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991382271 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673398834 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991385347 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673401972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991388419 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673405070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991391514 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673408169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991394604 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673411278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991397672 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673414385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991400751 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673417488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991403827 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673420561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991406900 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673423635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991409966 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673426736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991413255 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673429853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991416359 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673432959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991419562 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673436053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991422674 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673439129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991425756 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673442244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991428901 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673445371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991431966 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673448487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991435080 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673451625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734991438200 tunnel running, 1 tunnels registered
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673454752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673457831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673460916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673464010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673467094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673470176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673473283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673476437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673479519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673482657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673485756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673488873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673491984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673495112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673498239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673501360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673504495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673507593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673510716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673513913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673517033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673520197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673523306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673526438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673529570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673532690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673535810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673538934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673542063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673545166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673548254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673551354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673554477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673557616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673560722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673563842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673566981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673570091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673573275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673576454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673579568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673582660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673585755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673588891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673591999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673595549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673598668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673601766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673604894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673608100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673611188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673614271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673617367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673620496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673623625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673626767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673630026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673633136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673636325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673639734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673642853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673645977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673649082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673652235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673655377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673658514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673661635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673664796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673667908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673671032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673674134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673677266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673680393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673683543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673686657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673689771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673692905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673696072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673699328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673702475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673705606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673708805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673711927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673715023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673718111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673721268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673724385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673727510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673730661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673733763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673736851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673739958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673743094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673746236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673749375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673752485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673755808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673758918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673761999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673765090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673768199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673771329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673774451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673777603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673780707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673783820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673786917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673790041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673793142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673796239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673799360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673802467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673805559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673808687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673811768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673814885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673818000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673821091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673824220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673827332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673830626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673833780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673836868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673840006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673843131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673846222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673849349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673852468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673855556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673858748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673861874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673865018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673868126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673871348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673874475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673877872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673880983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673884128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673887432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673890567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673893651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673896776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673899852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673902985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673906103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673909237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673912380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673915584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673918683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673921784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673924943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673928032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673931161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673934294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673937429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673940579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673943666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673946755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673949831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673952961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673956052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673959152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673962260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673965388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673968460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673971541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673974670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673977804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673980940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673984054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673987193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673990614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673993747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673996901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735673999986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674003084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674006190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674009297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674012425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674015619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674018714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674022322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674025420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674028508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674031634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674034740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674037869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674040992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674044099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674047208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674050302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674053396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674056530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674059626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674062803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674065929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674069031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674072163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674075266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674078597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674081730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674084820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674087919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674091017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674094119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674097212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674100286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674103509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674106635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674109785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674112911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674116049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674119212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674122334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674125491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674128631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674131753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674134874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674138007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674141128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674144224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674147320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674150427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674153521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674156875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674159993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674163316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674166407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674169498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674172590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674175712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674178791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674181873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674184978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674188073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674191200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674194279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674197382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674200486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674203585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674206661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674209738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674212849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674215979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674219079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674222156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674225291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674228416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735674231526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+says-teams.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+news-cabinets.gl.at.ply.gg:3379 => 127.0.0.1:3379 (proto: Udp, port count: 1)
