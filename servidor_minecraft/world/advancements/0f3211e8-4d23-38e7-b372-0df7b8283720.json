@@ -6266,6 +6266,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-01-01 23:21:06 +0000"
@@ -6275,6 +6287,24 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-01 23:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
     },
     "done": true
   },
@@ -6320,6 +6350,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/moss_clump": {
     "criteria": {
       "has_copper_block": "2025-01-01 23:21:42 +0000"
@@ -6350,6 +6392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-01 23:16:50 +0000"
@@ -6365,6 +6413,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-01 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
     },
     "done": true
   },
@@ -6410,6 +6470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-01 23:21:06 +0000"
@@ -6419,6 +6485,18 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-01-01 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:39:00 +0000"
     },
     "done": true
   },
