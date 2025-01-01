@@ -71,6 +71,7 @@
       "minecraft:beach": "2024-12-23 22:26:10 +0000",
       "minecraft:river": "2024-12-30 03:00:20 +0000",
       "minecraft:forest": "2024-12-30 03:00:29 +0000",
+      "minecraft:ocean": "2025-01-01 23:00:49 +0000",
       "minecraft:plains": "2024-12-23 22:25:46 +0000"
     },
     "done": false
@@ -6015,6 +6016,24 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-31 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-01 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-01 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-01 23:06:22 +0000"
     },
     "done": true
   },
