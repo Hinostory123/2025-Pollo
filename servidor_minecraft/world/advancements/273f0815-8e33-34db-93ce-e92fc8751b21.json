@@ -114,6 +114,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-01-02 06:18:42 +0000",
       "minecraft:zombie": "2024-12-23 22:26:33 +0000",
       "minecraft:drowned": "2024-12-30 02:58:48 +0000",
       "minecraft:zombie_villager": "2024-12-30 03:34:06 +0000"
@@ -1238,6 +1239,7 @@
       "bread": "2024-12-23 22:26:39 +0000",
       "golden_apple": "2024-12-31 19:05:46 +0000",
       "rotten_flesh": "2024-12-30 03:23:52 +0000",
+      "enchanted_golden_apple": "2025-01-02 06:09:52 +0000",
       "carrot": "2024-12-30 02:26:52 +0000"
     },
     "done": false
@@ -6295,6 +6297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-02 06:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-02 03:35:53 +0000"
@@ -6481,6 +6489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 06:20:00 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-01-02 05:48:52 +0000"
@@ -6580,6 +6594,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-01-02 03:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 06:20:00 +0000"
     },
     "done": true
   },

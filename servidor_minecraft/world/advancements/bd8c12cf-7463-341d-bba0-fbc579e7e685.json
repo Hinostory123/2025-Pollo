@@ -1476,6 +1476,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-01-02 06:14:44 +0000",
       "minecraft:zombie": "2024-12-30 03:39:53 +0000",
       "minecraft:drowned": "2025-01-02 01:19:56 +0000",
       "minecraft:zombie_villager": "2025-01-02 01:19:46 +0000"
@@ -1485,6 +1486,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-30 04:53:16 +0000",
+      "baked_potato": "2025-01-02 05:57:34 +0000",
       "apple": "2024-12-30 04:01:26 +0000",
       "bread": "2024-12-30 03:44:27 +0000",
       "rotten_flesh": "2024-12-30 04:41:28 +0000"
@@ -5763,6 +5765,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 05:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 02:30:49 +0000"
@@ -5772,6 +5780,12 @@
   "createdeco:recipes/decorations/decal_up": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 05:50:22 +0000"
     },
     "done": true
   },
@@ -5991,6 +6005,12 @@
     },
     "done": true
   },
+  "bbb:recipes/dark_oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-01-02 05:59:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 03:09:37 +0000"
@@ -6090,6 +6110,12 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-02 05:59:48 +0000"
     },
     "done": true
   },
@@ -6237,6 +6263,12 @@
     },
     "done": false
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-02 05:59:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6294,6 +6326,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-02 06:03:34 +0000"
     },
     "done": true
   },
@@ -6447,6 +6485,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 05:59:55 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-01-02 04:42:01 +0000"
@@ -6513,6 +6557,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-01-02 06:03:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6564,6 +6614,12 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_frame": {
+    "criteria": {
+      "has_planks": "2025-01-02 05:59:47 +0000"
     },
     "done": true
   },
@@ -6648,6 +6704,12 @@
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-02 06:03:34 +0000"
     },
     "done": true
   },
@@ -6777,9 +6839,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 05:50:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-01-02 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 05:50:22 +0000"
     },
     "done": true
   },
@@ -6813,9 +6887,21 @@
     },
     "done": true
   },
+  "bbb:recipes/dark_oak_beam": {
+    "criteria": {
+      "has_log": "2025-01-02 05:59:47 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-01-02 04:33:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_wall": {
+    "criteria": {
+      "has_logs": "2025-01-02 05:59:47 +0000"
     },
     "done": true
   },
@@ -6903,6 +6989,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-02 06:03:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 05:50:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6936,6 +7034,12 @@
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-01-02 04:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-02 05:59:47 +0000"
     },
     "done": true
   },
@@ -6981,6 +7085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 05:59:47 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
@@ -6999,6 +7109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-02 05:59:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -7014,6 +7130,12 @@
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-01-02 04:50:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-02 06:03:40 +0000"
     },
     "done": true
   },
@@ -7080,6 +7202,12 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-02 05:50:22 +0000"
     },
     "done": true
   },
