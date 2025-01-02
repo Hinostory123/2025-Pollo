@@ -5793,6 +5793,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-01-02 04:42:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 03:09:37 +0000"
@@ -5847,6 +5853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-02 04:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 02:30:49 +0000"
@@ -5862,6 +5874,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-01-02 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-01-02 04:42:22 +0000"
     },
     "done": true
   },
@@ -5949,6 +5967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-02 04:42:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -5988,6 +6012,12 @@
   "createdeco:recipes/decorations/decal_no_entry": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-02 04:46:59 +0000"
     },
     "done": true
   },
@@ -6039,6 +6069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 04:46:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-01-02 04:33:12 +0000"
@@ -6060,6 +6096,18 @@
   "createdeco:recipes/decorations/andesite_support": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-02 04:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-02 04:42:22 +0000"
     },
     "done": true
   },
@@ -6183,6 +6231,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-02 04:42:14 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6216,6 +6270,12 @@
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-01-02 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-02 04:47:16 +0000"
     },
     "done": true
   },
@@ -6285,6 +6345,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-02 04:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-02 04:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 02:30:49 +0000"
@@ -6327,6 +6399,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-01-02 04:41:40 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6336,6 +6414,12 @@
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-01-02 04:42:22 +0000"
     },
     "done": true
   },
@@ -6360,6 +6444,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-02 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-01-02 04:42:01 +0000"
     },
     "done": true
   },
@@ -6453,6 +6543,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-01-02 04:40:54 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
@@ -6468,6 +6564,12 @@
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-02 02:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-02 04:42:35 +0000"
     },
     "done": true
   },
@@ -6522,6 +6624,12 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-01-02 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-01-02 04:40:54 +0000"
     },
     "done": true
   },
@@ -6753,6 +6861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-02 04:42:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-01-02 04:08:28 +0000"
@@ -6813,9 +6927,21 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-01-02 04:43:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/light_gray_shipping_container": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 04:43:21 +0000"
     },
     "done": true
   },
@@ -6840,6 +6966,12 @@
   "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
       "has_item": "2025-01-02 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-02 04:42:22 +0000"
     },
     "done": true
   },
@@ -6873,9 +7005,21 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-01-02 04:50:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-02 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-01-02 04:42:01 +0000"
     },
     "done": true
   },
