@@ -6922,5 +6922,17 @@
     },
     "done": true
   },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2025-01-02 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-01-02 02:27:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
