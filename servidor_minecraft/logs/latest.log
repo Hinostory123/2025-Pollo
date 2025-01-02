@@ -1239,3 +1239,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [02Jan2025 01:15:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> matame
 [02Jan2025 01:15:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AVich0 was slain by dieggox
 [02Jan2025 01:15:54.872] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jan2025 01:23:23.064] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02Jan2025 01:23:23.065] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02Jan2025 01:23:23.065] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02Jan2025 01:23:23.065] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02Jan2025 01:23:23.065] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02Jan2025 01:23:23.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> fuiste a por tis cosas
+[02Jan2025 01:23:33.288] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02Jan2025 01:23:33.289] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02Jan2025 01:23:33.289] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02Jan2025 01:23:33.289] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02Jan2025 01:23:33.289] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02Jan2025 01:23:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> si
+[02Jan2025 01:28:43.833] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02Jan2025 01:28:43.834] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02Jan2025 01:28:43.834] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02Jan2025 01:28:43.834] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02Jan2025 01:28:43.834] [ForkJoinPool.commonPool-worker-6/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02Jan2025 01:28:43.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> ya

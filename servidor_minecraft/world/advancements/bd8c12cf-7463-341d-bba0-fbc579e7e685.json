@@ -1475,7 +1475,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-12-30 03:39:53 +0000"
+      "minecraft:zombie": "2024-12-30 03:39:53 +0000",
+      "minecraft:drowned": "2025-01-02 01:19:56 +0000",
+      "minecraft:zombie_villager": "2025-01-02 01:19:46 +0000"
     },
     "done": false
   },
