@@ -2981,6 +2981,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-30 02:51:47 +0000",
+      "baked_potato": "2025-01-02 02:39:54 +0000",
       "bread": "2024-12-30 02:54:10 +0000",
       "rotten_flesh": "2024-12-30 03:38:57 +0000",
       "carrot": "2025-01-01 23:22:44 +0000"
@@ -6931,6 +6932,18 @@
   "table_top_craft:the_hoarding_begins": {
     "criteria": {
       "ChessPieceFigure": "2025-01-02 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-02 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-02 02:39:51 +0000"
     },
     "done": true
   },

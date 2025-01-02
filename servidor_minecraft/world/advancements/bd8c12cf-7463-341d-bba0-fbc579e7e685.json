@@ -5817,6 +5817,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-02 02:41:34 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/offlimits": {
     "criteria": {
       "has_shovel": "2025-01-02 01:35:54 +0000"
