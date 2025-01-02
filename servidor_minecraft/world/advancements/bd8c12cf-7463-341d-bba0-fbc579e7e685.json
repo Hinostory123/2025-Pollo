@@ -5370,6 +5370,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-30 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2024-12-30 06:28:19 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2024-12-30 06:30:42 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2024-12-30 06:30:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
@@ -5382,27 +5436,9 @@
     },
     "done": true
   },
-  "table_top_craft:root": {
-    "criteria": {
-      "get_chess_piece": "2024-12-30 06:30:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-30 06:28:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2024-12-30 06:28:19 +0000"
     },
     "done": true
   },
@@ -5436,18 +5472,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-30 06:28:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-30 06:28:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
@@ -5469,12 +5493,6 @@
   "walkietalkie:recipes/iron_walkietalkie": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:the_hoarding_begins": {
-    "criteria": {
-      "ChessPieceFigure": "2024-12-30 06:30:42 +0000"
     },
     "done": true
   },
@@ -5538,12 +5556,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-30 06:28:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
@@ -5586,12 +5598,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_stackable_book": "2024-12-30 06:28:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
@@ -5607,12 +5613,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-30 06:30:48 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-30 06:28:08 +0000"
     },
     "done": true
   },
