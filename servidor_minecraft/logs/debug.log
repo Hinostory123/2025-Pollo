@@ -16738,3 +16738,357 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [01Jan2025 23:40:46.556] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
 [01Jan2025 23:41:56.813] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
 [01Jan2025 23:41:56.813] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[01Jan2025 23:44:20.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:44:20.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:44:25.002] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[01Jan2025 23:45:27.458] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[01Jan2025 23:45:27.682] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[01Jan2025 23:45:28.803] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[01Jan2025 23:45:28.804] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[01Jan2025 23:45:29.401] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[01Jan2025 23:45:29.695] [Worker-Main-3/DEBUG] [mixin/]: Mixing MixinVillagerGoalPackages from golemsarefriends.mixin.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[01Jan2025 23:45:33.173] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[01Jan2025 23:45:35.776] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[01Jan2025 23:45:38.235] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[01Jan2025 23:45:41.316] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[01Jan2025 23:45:41.561] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
+[01Jan2025 23:45:41.562] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
+[01Jan2025 23:45:41.562] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
+[01Jan2025 23:45:41.562] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
+[01Jan2025 23:45:41.563] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
+[01Jan2025 23:45:44.437] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-902}
+[01Jan2025 23:45:44.438] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-905}
+[01Jan2025 23:45:44.438] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-903}
+[01Jan2025 23:45:46.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -10.097706571565936,0.0,-8.811963351718077E-4
+[01Jan2025 23:45:46.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -10.495618433592199,0.0,-8.872830838413392E-4
+[01Jan2025 23:45:46.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -10.893739099034747,0.0,-8.927611575018091E-4
+[01Jan2025 23:45:46.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -11.292047687547097,0.0,-8.97691423631386E-4
+[01Jan2025 23:45:46.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -11.690525406817642,0.0,-9.02128663028634E-4
+[01Jan2025 23:45:46.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -12.089155343766606,0.0,-9.061221783781548E-4
+[01Jan2025 23:45:46.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -12.487922276622612,0.0,-9.097163421074583E-4
+[01Jan2025 23:45:46.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -12.886812505791568,0.0,-9.129510893899351E-4
+[01Jan2025 23:45:46.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -13.285813701639313,0.0,-9.158623618645834E-4
+[01Jan2025 23:45:46.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -13.68491476749523,0.0,-9.184825070178704E-4
+[01Jan2025 23:45:46.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -14.084105716356135,0.0,-9.208406376046696E-4
+[01Jan2025 23:45:46.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -14.483377559919518,0.0,-9.229629550873142E-4
+[01Jan2025 23:45:46.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -14.882722208713062,0.0,-9.248730407307448E-4
+[01Jan2025 23:45:46.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -15.282132382212126,0.0,-9.265921177643577E-4
+[01Jan2025 23:45:46.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -15.681601527944508,0.0,-9.281392870548189E-4
+[01Jan2025 23:45:46.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -16.081123748685513,0.0,-9.295317394162339E-4
+[01Jan2025 23:45:46.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -16.48069373693295,0.0,-9.307849464903484E-4
+[01Jan2025 23:45:46.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dieggox) moved too quickly! -16.88030671593515,0.0,-9.319128328115767E-4
+[01Jan2025 23:45:46.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3815ms or 76 ticks behind
+[01Jan2025 23:45:47.844] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-58, z=-919}
+[01Jan2025 23:45:47.845] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-58, z=-920}
+[01Jan2025 23:45:47.845] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-59, z=-919}
+[01Jan2025 23:45:47.846] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-59, z=-920}
+[01Jan2025 23:45:50.151] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[01Jan2025 23:45:50.151] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[01Jan2025 23:45:50.152] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[01Jan2025 23:45:50.684] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[01Jan2025 23:45:50.685] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[01Jan2025 23:45:50.685] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[01Jan2025 23:45:58.827] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[01Jan2025 23:45:58.907] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=-50, z=474}
+[01Jan2025 23:45:58.909] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-50, z=474}
+[01Jan2025 23:45:59.679] [Server thread/DEBUG] [mixin/]: Mixing FluidNetworkMixin from railways.mixins.json into com.simibubi.create.content.fluids.FluidNetwork
+[01Jan2025 23:46:06.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[01Jan2025 23:46:32.267] [Server thread/DEBUG] [pointblank/]: 92267 handling client fire request
+[01Jan2025 23:46:32.268] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:46:32.268] [Server thread/DEBUG] [pointblank/]: 92268 - obtained hit result in 0ms
+[01Jan2025 23:46:32.268] [Server thread/DEBUG] [pointblank/]: 92268 obtained hit results
+[01Jan2025 23:46:32.268] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@57f50464
+[01Jan2025 23:46:32.269] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-679.38, y=64.00, z=331.41] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-679.38, y=64.00, z=331.41]
+[01Jan2025 23:46:32.462] [Server thread/DEBUG] [pointblank/]: 92462 handling client fire request
+[01Jan2025 23:46:32.462] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 5
+[01Jan2025 23:46:32.462] [Server thread/DEBUG] [pointblank/]: 92462 - obtained hit result in 0ms
+[01Jan2025 23:46:32.462] [Server thread/DEBUG] [pointblank/]: 92462 obtained hit results
+[01Jan2025 23:46:32.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f72905f
+[01Jan2025 23:46:32.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-679.31, y=64.00, z=331.41] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-679.31, y=64.00, z=331.41]
+[01Jan2025 23:46:32.866] [Server thread/DEBUG] [pointblank/]: 92866 handling client fire request
+[01Jan2025 23:46:32.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 4
+[01Jan2025 23:46:32.866] [Server thread/DEBUG] [pointblank/]: 92866 - obtained hit result in 0ms
+[01Jan2025 23:46:32.866] [Server thread/DEBUG] [pointblank/]: 92866 obtained hit results
+[01Jan2025 23:46:32.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35f75ec2
+[01Jan2025 23:46:32.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-680.15, y=64.00, z=331.46] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-680.15, y=64.00, z=331.46]
+[01Jan2025 23:46:35.514] [Server thread/DEBUG] [pointblank/]: 95514 handling client fire request
+[01Jan2025 23:46:35.514] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 3
+[01Jan2025 23:46:35.514] [Server thread/DEBUG] [pointblank/]: 95514 - obtained hit result in 0ms
+[01Jan2025 23:46:35.514] [Server thread/DEBUG] [pointblank/]: 95514 obtained hit results
+[01Jan2025 23:46:35.514] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bacce4c
+[01Jan2025 23:46:35.515] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.18, y=64.00, z=331.37] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.18, y=64.00, z=331.37]
+[01Jan2025 23:46:35.663] [Server thread/DEBUG] [pointblank/]: 95663 handling client fire request
+[01Jan2025 23:46:35.663] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 2
+[01Jan2025 23:46:35.664] [Server thread/DEBUG] [pointblank/]: 95664 - obtained hit result in 0ms
+[01Jan2025 23:46:35.664] [Server thread/DEBUG] [pointblank/]: 95664 obtained hit results
+[01Jan2025 23:46:35.664] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3755e483
+[01Jan2025 23:46:35.664] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.66, y=64.00, z=330.97] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.66, y=64.00, z=330.97]
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: 95868 handling client fire request
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 1
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: 95868 - obtained hit result in 0ms
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: 95868 obtained hit results
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58ca2e87
+[01Jan2025 23:46:35.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.70, y=64.58, z=330.84] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.70, y=64.58, z=330.84]
+[01Jan2025 23:46:36.024] [Server thread/DEBUG] [pointblank/]: 96024 handling client fire request
+[01Jan2025 23:46:36.024] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 0
+[01Jan2025 23:46:36.024] [Server thread/DEBUG] [pointblank/]: 96024 - obtained hit result in 0ms
+[01Jan2025 23:46:36.024] [Server thread/DEBUG] [pointblank/]: 96024 obtained hit results
+[01Jan2025 23:46:36.024] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d5eeb86
+[01Jan2025 23:46:36.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.70, y=64.43, z=330.66] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.70, y=64.43, z=330.66]
+[01Jan2025 23:46:36.170] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 7
+[01Jan2025 23:46:38.118] [Server thread/DEBUG] [pointblank/]: 98118 handling client fire request
+[01Jan2025 23:46:38.118] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:46:38.119] [Server thread/DEBUG] [pointblank/]: 98119 - obtained hit result in 0ms
+[01Jan2025 23:46:38.119] [Server thread/DEBUG] [pointblank/]: 98119 obtained hit results
+[01Jan2025 23:46:38.119] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@202b433a
+[01Jan2025 23:46:38.134] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.15, y=64.00, z=324.98] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.15, y=64.00, z=324.98]
+[01Jan2025 23:46:38.316] [Server thread/DEBUG] [pointblank/]: 98316 handling client fire request
+[01Jan2025 23:46:38.316] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 5
+[01Jan2025 23:46:38.316] [Server thread/DEBUG] [pointblank/]: 98316 - obtained hit result in 0ms
+[01Jan2025 23:46:38.316] [Server thread/DEBUG] [pointblank/]: 98316 obtained hit results
+[01Jan2025 23:46:38.316] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d8baca3
+[01Jan2025 23:46:38.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.16, y=64.00, z=324.73] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.16, y=64.00, z=324.73]
+[01Jan2025 23:46:38.432] [Server thread/DEBUG] [pointblank/]: 98432 handling client fire request
+[01Jan2025 23:46:38.432] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 4
+[01Jan2025 23:46:38.432] [Server thread/DEBUG] [pointblank/]: 98432 - obtained hit result in 0ms
+[01Jan2025 23:46:38.432] [Server thread/DEBUG] [pointblank/]: 98432 obtained hit results
+[01Jan2025 23:46:38.432] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27390983
+[01Jan2025 23:46:38.433] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.17, y=64.00, z=324.53] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.17, y=64.00, z=324.53]
+[01Jan2025 23:46:38.678] [Server thread/DEBUG] [pointblank/]: 98678 handling client fire request
+[01Jan2025 23:46:38.678] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 3
+[01Jan2025 23:46:38.679] [Server thread/DEBUG] [pointblank/]: 98679 - obtained hit result in 1ms
+[01Jan2025 23:46:38.679] [Server thread/DEBUG] [pointblank/]: 98679 obtained hit results
+[01Jan2025 23:46:38.679] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ed2fc48
+[01Jan2025 23:46:38.679] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.18, y=64.00, z=324.28] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.18, y=64.00, z=324.28]
+[01Jan2025 23:46:39.016] [Server thread/DEBUG] [pointblank/]: 99016 handling client fire request
+[01Jan2025 23:46:39.016] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 2
+[01Jan2025 23:46:39.017] [Server thread/DEBUG] [pointblank/]: 99017 - obtained hit result in 0ms
+[01Jan2025 23:46:39.017] [Server thread/DEBUG] [pointblank/]: 99017 obtained hit results
+[01Jan2025 23:46:39.017] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@20af624d
+[01Jan2025 23:46:39.018] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.22, y=64.00, z=323.83] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.22, y=64.00, z=323.83]
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: 99189 handling client fire request
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 1
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: 99189 - obtained hit result in 0ms
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: 99189 obtained hit results
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@20ef731f
+[01Jan2025 23:46:39.189] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.27, y=64.00, z=323.57] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.27, y=64.00, z=323.57]
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: 99370 handling client fire request
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 0
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: 99370 - obtained hit result in 0ms
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: 99370 obtained hit results
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a4f5178
+[01Jan2025 23:46:39.370] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.29, y=64.00, z=323.38] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-681.29, y=64.00, z=323.38]
+[01Jan2025 23:46:39.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 7
+[01Jan2025 23:46:47.650] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30473, l='ServerLevel[world]', x=-645.50, y=72.00, z=377.50]
+[01Jan2025 23:47:26.705] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[01Jan2025 23:47:57.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dieggox moved too quickly! -6.819527316183326,0.41999998688697815,7.5180433128495
+[01Jan2025 23:48:13.940] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[01Jan2025 23:48:14.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31126, l='ServerLevel[world]', x=-591.50, y=71.00, z=394.50]
+[01Jan2025 23:48:47.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31462, l='ServerLevel[world]', x=-718.50, y=80.00, z=368.50]
+[01Jan2025 23:48:48.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29230, l='ServerLevel[world]', x=-703.49, y=64.88, z=325.70] died, message: 'Villager was slain by Zombie'
+[01Jan2025 23:48:58.054] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31616, l='ServerLevel[world]', x=-720.50, y=80.00, z=368.50]
+[01Jan2025 23:49:01.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox has made the advancement [Disme A Dozen]
+[01Jan2025 23:49:13.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31735, l='ServerLevel[world]', x=-674.50, y=71.00, z=338.50]
+[01Jan2025 23:49:24.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31819, l='ServerLevel[world]', x=-746.50, y=77.00, z=257.50]
+[01Jan2025 23:49:28.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:49:28.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:49:32.491] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Jan2025 23:49:35.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31895, l='ServerLevel[world]', x=-660.50, y=76.00, z=385.50]
+[01Jan2025 23:49:37.255] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: 77716 handling client fire request
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: 77716 - obtained hit result in 0ms
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: 77716 obtained hit results
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7875539a
+[01Jan2025 23:49:37.716] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.32, y=65.00, z=331.99] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.32, y=65.00, z=331.99]
+[01Jan2025 23:49:37.866] [Server thread/DEBUG] [pointblank/]: 77866 handling client fire request
+[01Jan2025 23:49:37.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 5
+[01Jan2025 23:49:37.866] [Server thread/DEBUG] [pointblank/]: 77866 - obtained hit result in 0ms
+[01Jan2025 23:49:37.866] [Server thread/DEBUG] [pointblank/]: 77866 obtained hit results
+[01Jan2025 23:49:37.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8c53594
+[01Jan2025 23:49:37.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.94, y=65.00, z=332.18] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.94, y=65.00, z=332.18]
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: 78071 handling client fire request
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 4
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: 78071 - obtained hit result in 0ms
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: 78071 obtained hit results
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74a43ab5
+[01Jan2025 23:49:38.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.78, y=65.00, z=332.33] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.78, y=65.00, z=332.33]
+[01Jan2025 23:49:38.223] [Server thread/DEBUG] [pointblank/]: 78223 handling client fire request
+[01Jan2025 23:49:38.224] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 3
+[01Jan2025 23:49:38.224] [Server thread/DEBUG] [pointblank/]: 78224 - obtained hit result in 0ms
+[01Jan2025 23:49:38.224] [Server thread/DEBUG] [pointblank/]: 78224 obtained hit results
+[01Jan2025 23:49:38.224] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2eec6587
+[01Jan2025 23:49:38.224] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.95, y=65.00, z=332.41] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.95, y=65.00, z=332.41]
+[01Jan2025 23:49:38.426] [Server thread/DEBUG] [pointblank/]: 78426 handling client fire request
+[01Jan2025 23:49:38.426] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 2
+[01Jan2025 23:49:38.427] [Server thread/DEBUG] [pointblank/]: 78427 - obtained hit result in 0ms
+[01Jan2025 23:49:38.427] [Server thread/DEBUG] [pointblank/]: 78427 obtained hit results
+[01Jan2025 23:49:38.427] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7618908f
+[01Jan2025 23:49:38.427] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.95, y=65.00, z=332.53] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-735.95, y=65.00, z=332.53]
+[01Jan2025 23:49:50.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32013, l='ServerLevel[world]', x=-662.50, y=76.00, z=386.50]
+[01Jan2025 23:50:00.768] [Server thread/DEBUG] [pointblank/]: 768 handling client fire request
+[01Jan2025 23:50:00.768] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 1
+[01Jan2025 23:50:00.769] [Server thread/DEBUG] [pointblank/]: 769 - obtained hit result in 0ms
+[01Jan2025 23:50:00.769] [Server thread/DEBUG] [pointblank/]: 769 obtained hit results
+[01Jan2025 23:50:00.769] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2eb99815
+[01Jan2025 23:50:00.770] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-731.74, y=65.00, z=336.87] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-731.74, y=65.00, z=336.87]
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: 927 handling client fire request
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 0
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: 927 - obtained hit result in 0ms
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: 927 obtained hit results
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ca83515
+[01Jan2025 23:50:00.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-731.72, y=65.00, z=336.87] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-731.72, y=65.00, z=336.87]
+[01Jan2025 23:50:01.725] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 7
+[01Jan2025 23:50:04.014] [Server thread/DEBUG] [pointblank/]: 4014 handling client fire request
+[01Jan2025 23:50:04.014] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:50:04.014] [Server thread/DEBUG] [pointblank/]: 4014 - obtained hit result in 0ms
+[01Jan2025 23:50:04.014] [Server thread/DEBUG] [pointblank/]: 4014 obtained hit results
+[01Jan2025 23:50:04.014] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28924be5
+[01Jan2025 23:50:04.015] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-730.76, y=65.00, z=327.03] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-730.76, y=65.00, z=327.03]
+[01Jan2025 23:50:04.467] [Server thread/DEBUG] [pointblank/]: 4467 handling client fire request
+[01Jan2025 23:50:04.467] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 5
+[01Jan2025 23:50:04.467] [Server thread/DEBUG] [pointblank/]: 4467 - obtained hit result in 0ms
+[01Jan2025 23:50:04.467] [Server thread/DEBUG] [pointblank/]: 4467 obtained hit results
+[01Jan2025 23:50:04.467] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7cfeeb52
+[01Jan2025 23:50:04.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-730.76, y=65.00, z=327.03] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-730.76, y=65.00, z=327.03]
+[01Jan2025 23:50:19.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32303, l='ServerLevel[world]', x=-719.50, y=80.00, z=366.50]
+[01Jan2025 23:50:37.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32460, l='ServerLevel[world]', x=-737.50, y=78.00, z=245.50]
+[01Jan2025 23:50:57.857] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Jan2025 23:50:59.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32624, l='ServerLevel[world]', x=-672.50, y=71.00, z=339.50]
+[01Jan2025 23:51:18.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32775, l='ServerLevel[world]', x=-718.50, y=80.00, z=366.50]
+[01Jan2025 23:52:18.052] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33412, l='ServerLevel[world]', x=-645.50, y=74.00, z=343.50]
+[01Jan2025 23:52:27.004] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33453, l='ServerLevel[world]', x=-672.50, y=71.00, z=338.50]
+[01Jan2025 23:52:33.700] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[01Jan2025 23:52:40.022] [Server thread/DEBUG] [pointblank/]: 60022 handling client fire request
+[01Jan2025 23:52:40.022] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 4
+[01Jan2025 23:52:40.022] [Server thread/DEBUG] [pointblank/]: 60022 - obtained hit result in 0ms
+[01Jan2025 23:52:40.022] [Server thread/DEBUG] [pointblank/]: 60022 obtained hit results
+[01Jan2025 23:52:40.022] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14a0a86d
+[01Jan2025 23:52:40.023] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=65.00, z=298.66] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=65.00, z=298.66]
+[01Jan2025 23:52:40.167] [Server thread/DEBUG] [pointblank/]: 60167 handling client fire request
+[01Jan2025 23:52:40.167] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 3
+[01Jan2025 23:52:40.167] [Server thread/DEBUG] [pointblank/]: 60167 - obtained hit result in 0ms
+[01Jan2025 23:52:40.167] [Server thread/DEBUG] [pointblank/]: 60167 obtained hit results
+[01Jan2025 23:52:40.167] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b63c29
+[01Jan2025 23:52:40.168] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=65.25, z=299.12] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=65.25, z=299.12]
+[01Jan2025 23:52:40.316] [Server thread/DEBUG] [pointblank/]: 60316 handling client fire request
+[01Jan2025 23:52:40.316] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 2
+[01Jan2025 23:52:40.316] [Server thread/DEBUG] [pointblank/]: 60316 - obtained hit result in 0ms
+[01Jan2025 23:52:40.317] [Server thread/DEBUG] [pointblank/]: 60317 obtained hit results
+[01Jan2025 23:52:40.317] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18a66c23
+[01Jan2025 23:52:40.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.80, z=299.63] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.80, z=299.63]
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: 60470 handling client fire request
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 1
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: 60470 - obtained hit result in 0ms
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: 60470 obtained hit results
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16429198
+[01Jan2025 23:52:40.470] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.00, z=300.17] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.00, z=300.17]
+[01Jan2025 23:52:40.618] [Server thread/DEBUG] [pointblank/]: 60618 handling client fire request
+[01Jan2025 23:52:40.618] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 0
+[01Jan2025 23:52:40.619] [Server thread/DEBUG] [pointblank/]: 60619 - obtained hit result in 0ms
+[01Jan2025 23:52:40.619] [Server thread/DEBUG] [pointblank/]: 60619 obtained hit results
+[01Jan2025 23:52:40.619] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a3bfd15
+[01Jan2025 23:52:40.619] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.00, z=300.91] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.27, y=64.00, z=300.91]
+[01Jan2025 23:52:41.568] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 7
+[01Jan2025 23:52:43.621] [Server thread/DEBUG] [pointblank/]: 63621 handling client fire request
+[01Jan2025 23:52:43.621] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:52:43.621] [Server thread/DEBUG] [pointblank/]: 63621 - obtained hit result in 0ms
+[01Jan2025 23:52:43.621] [Server thread/DEBUG] [pointblank/]: 63621 obtained hit results
+[01Jan2025 23:52:43.621] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74b3c6b0
+[01Jan2025 23:52:43.622] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.80, y=65.80, z=304.78] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.80, y=65.80, z=304.78]
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: 63820 handling client fire request
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 5
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: 63820 - obtained hit result in 0ms
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: 63820 obtained hit results
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@33c66e4b
+[01Jan2025 23:52:43.820] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.90, y=65.00, z=305.58] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.90, y=65.00, z=305.58]
+[01Jan2025 23:52:43.925] [Server thread/DEBUG] [pointblank/]: 63925 handling client fire request
+[01Jan2025 23:52:43.926] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 4
+[01Jan2025 23:52:43.926] [Server thread/DEBUG] [pointblank/]: 63926 - obtained hit result in 0ms
+[01Jan2025 23:52:43.926] [Server thread/DEBUG] [pointblank/]: 63926 obtained hit results
+[01Jan2025 23:52:43.926] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a4cc439
+[01Jan2025 23:52:43.926] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.98, y=65.00, z=306.27] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-786.98, y=65.00, z=306.27]
+[01Jan2025 23:52:57.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33760, l='ServerLevel[world]', x=-698.50, y=79.00, z=359.50]
+[01Jan2025 23:52:58.854] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Jan2025 23:53:21.802] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33891, l='ServerLevel[world]', x=-705.50, y=80.00, z=376.50]
+[01Jan2025 23:53:49.651] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[01Jan2025 23:53:56.907] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Jan2025 23:53:58.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox has reached the goal [Plant Food]
+[01Jan2025 23:54:28.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:54:28.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:54:53.168] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 7
+[01Jan2025 23:55:05.550] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35171, l='ServerLevel[world]', x=-699.50, y=79.00, z=358.50]
+[01Jan2025 23:56:11.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35763, l='ServerLevel[world]', x=-736.50, y=78.00, z=247.50]
+[01Jan2025 23:56:19.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35850, l='ServerLevel[world]', x=-748.50, y=77.00, z=257.50]
+[01Jan2025 23:56:29.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35934, l='ServerLevel[world]', x=-707.50, y=80.00, z=376.50]
+[01Jan2025 23:56:35.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35962, l='ServerLevel[world]', x=-661.50, y=76.00, z=384.50]
+[01Jan2025 23:57:18.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36372, l='ServerLevel[world]', x=-705.50, y=80.00, z=374.50]
+[01Jan2025 23:57:36.115] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[01Jan2025 23:57:48.703] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36744, l='ServerLevel[world]', x=-634.50, y=72.00, z=399.50]
+[01Jan2025 23:57:58.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox was doomed to fall by Iron Golem
+[01Jan2025 23:58:00.105] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 23:58:00.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[01Jan2025 23:58:00.651] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[01Jan2025 23:58:07.253] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37490, l='ServerLevel[world]', x=-633.50, y=72.00, z=398.50]
+[01Jan2025 23:58:13.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37499, l='ServerLevel[world]', x=-747.50, y=77.00, z=259.50]
+[01Jan2025 23:58:16.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37536, l='ServerLevel[world]', x=-644.50, y=76.00, z=380.50]
+[01Jan2025 23:58:18.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37541, l='ServerLevel[world]', x=-623.50, y=73.00, z=379.50]
+[01Jan2025 23:58:43.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37821, l='ServerLevel[world]', x=-606.50, y=73.00, z=402.50]
+[01Jan2025 23:58:48.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37860, l='ServerLevel[world]', x=-660.50, y=76.00, z=386.50]
+[01Jan2025 23:59:22.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38388, l='ServerLevel[world]', x=-645.50, y=74.00, z=341.50]
+[01Jan2025 23:59:28.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:59:28.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:59:36.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38573, l='ServerLevel[world]', x=-700.50, y=79.00, z=358.50]
+[01Jan2025 23:59:38.514] [Server thread/DEBUG] [pointblank/]: 78514 handling client fire request
+[01Jan2025 23:59:38.514] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1914441164 to 6
+[01Jan2025 23:59:38.514] [Server thread/DEBUG] [pointblank/]: 78514 - obtained hit result in 0ms
+[01Jan2025 23:59:38.515] [Server thread/DEBUG] [pointblank/]: 78514 obtained hit results
+[01Jan2025 23:59:38.515] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4beaacf5
+[01Jan2025 23:59:38.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.38, y=77.00, z=369.54] sends hit scan notification to ServerPlayer['dieggox'/167, l='ServerLevel[world]', x=-734.38, y=77.00, z=369.54]
+[01Jan2025 23:59:46.002] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38653, l='ServerLevel[world]', x=-748.50, y=77.00, z=258.50]
+[01Jan2025 23:59:46.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38654, l='ServerLevel[world]', x=-643.50, y=76.00, z=381.50]
+[01Jan2025 23:59:49.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38667, l='ServerLevel[world]', x=-644.50, y=72.00, z=355.50]
+[02Jan2025 00:00:11.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38915, l='ServerLevel[world]', x=-616.50, y=72.00, z=444.50]
+[02Jan2025 00:00:16.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39031, l='ServerLevel[world]', x=-625.50, y=73.00, z=378.50]
+[02Jan2025 00:00:37.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39242, l='ServerLevel[world]', x=-647.50, y=72.00, z=377.50]
+[02Jan2025 00:01:18.825] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[02Jan2025 00:01:18.825] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[02Jan2025 00:01:20.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39623, l='ServerLevel[world]', x=-614.50, y=74.00, z=388.50]
+[02Jan2025 00:01:29.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39781, l='ServerLevel[world]', x=-591.50, y=71.00, z=392.50]
+[02Jan2025 00:01:33.448] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39843, l='ServerLevel[world]', x=-629.50, y=72.00, z=406.50]
+[02Jan2025 00:01:38.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39879, l='ServerLevel[world]', x=-624.50, y=73.00, z=378.50]
+[02Jan2025 00:01:40.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39887, l='ServerLevel[world]', x=-700.50, y=79.00, z=360.50]
+[02Jan2025 00:02:02.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40149, l='ServerLevel[world]', x=-613.50, y=74.00, z=390.50]
+[02Jan2025 00:02:02.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40150, l='ServerLevel[world]', x=-612.50, y=74.00, z=388.50]
+[02Jan2025 00:02:07.255] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Jan2025 00:02:14.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40210, l='ServerLevel[world]', x=-662.50, y=76.00, z=384.50]
+[02Jan2025 00:02:25.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40427, l='ServerLevel[world]', x=-592.50, y=71.00, z=392.50]
+[02Jan2025 00:02:40.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40553, l='ServerLevel[world]', x=-604.50, y=73.00, z=404.50]
+[02Jan2025 00:02:50.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40584, l='ServerLevel[world]', x=-627.50, y=72.00, z=405.50]
+[02Jan2025 00:03:12.153] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Jan2025 00:03:33.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40998, l='ServerLevel[world]', x=-606.50, y=72.00, z=469.50]
+[02Jan2025 00:03:44.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41088, l='ServerLevel[world]', x=-601.50, y=72.00, z=442.50]
+[02Jan2025 00:03:58.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41300, l='ServerLevel[world]', x=-613.50, y=73.00, z=418.50]
+[02Jan2025 00:04:28.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:04:28.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 00:04:54.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41587, l='ServerLevel[world]', x=-642.50, y=72.00, z=356.50]
+[02Jan2025 00:05:13.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41662, l='ServerLevel[world]', x=-644.50, y=72.00, z=356.50]
+[02Jan2025 00:05:17.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41667, l='ServerLevel[world]', x=-662.50, y=76.00, z=385.50]
+[02Jan2025 00:05:31.253] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41708, l='ServerLevel[world]', x=-604.50, y=72.00, z=468.50]
+[02Jan2025 00:05:38.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41747, l='ServerLevel[world]', x=-607.50, y=75.00, z=372.50]
+[02Jan2025 00:05:39.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41752, l='ServerLevel[world]', x=-644.50, y=72.00, z=354.50]
+[02Jan2025 00:06:10.036] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[02Jan2025 00:06:10.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41976, l='ServerLevel[world]', x=-627.50, y=72.00, z=406.50]
+[02Jan2025 00:06:13.254] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42003, l='ServerLevel[world]', x=-614.50, y=72.00, z=444.50]
+[02Jan2025 00:06:26.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42164, l='ServerLevel[world]', x=-647.50, y=72.00, z=375.50]
+[02Jan2025 00:06:41.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42236, l='ServerLevel[world]', x=-625.50, y=70.00, z=447.50]
+[02Jan2025 00:08:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox has made the advancement [Barrel Booty]
+[02Jan2025 00:09:28.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:09:28.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 00:09:31.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/40421, l='ServerLevel[world]', x=-942.50, y=99.00, z=343.30] died, message: 'Cleric was slain by Zombie'
+[02Jan2025 00:10:18.535] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[02Jan2025 00:10:18.535] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[02Jan2025 00:11:42.581] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[02Jan2025 00:12:27.655] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Jan2025 00:12:33.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45592, l='ServerLevel[world]', x=-738.50, y=78.00, z=247.50]
+[02Jan2025 00:13:20.310] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
