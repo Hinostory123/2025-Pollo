@@ -1176,3 +1176,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [03Jan2025 03:45:18.009] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
 [03Jan2025 03:45:18.009] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [03Jan2025 03:45:18.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> me toco de nuevo fortuna 3 jsjsjs
+[03Jan2025 03:48:37.893] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0f3211e8-4d23-38e7-b372-0df7b8283720.json: Don't know what k_turrets:titanium_ore is
+[03Jan2025 03:48:37.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dieggox[/127.168.124.62:60427] logged in with entity id 2549 at (-137.49248848662907, 56.0, 34.84169555079399)
+[03Jan2025 03:48:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox joined the game
+[03Jan2025 03:48:38.133] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to dieggox
+[03Jan2025 03:48:39.650] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from dieggox
+[03Jan2025 03:48:39.790] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dieggox (18)
+[03Jan2025 03:48:39.790] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dieggox
+[03Jan2025 03:48:59.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[03Jan2025 03:49:00.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0f3211e8-4d23-38e7-b372-0df7b8283720
+[03Jan2025 03:49:00.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dieggox (0f3211e8-4d23-38e7-b372-0df7b8283720) successfully connected to voice chat
+[03Jan2025 03:50:18.809] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[03Jan2025 03:50:18.810] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[03Jan2025 03:50:18.811] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[03Jan2025 03:50:18.811] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[03Jan2025 03:50:18.811] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[03Jan2025 03:50:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> si tenia que sacar el mod po wn
+[03Jan2025 03:50:38.991] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[03Jan2025 03:50:38.992] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[03Jan2025 03:50:38.992] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[03Jan2025 03:50:38.992] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[03Jan2025 03:50:38.993] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[03Jan2025 03:50:38.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> ese pollo no sabe ni una wea
+[03Jan2025 03:54:48.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6457, l='ServerLevel[world]', x=-153.50, y=73.00, z=124.50]
