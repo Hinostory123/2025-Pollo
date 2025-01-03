@@ -7503,6 +7503,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-03 04:43:59 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/mossy_stone_brick_layer": {
     "criteria": {
       "has_block": "2025-01-03 04:24:52 +0000"
