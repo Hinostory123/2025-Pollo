@@ -15757,3 +15757,384 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [03Jan2025 15:03:11.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 15:03:13.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Poyo has made the advancement [Hidden in the Depths]
 [03Jan2025 15:04:29.656] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[03Jan2025 15:08:01.906] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[03Jan2025 15:08:11.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 15:08:11.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 15:08:11.881] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[03Jan2025 15:12:08.859] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[03Jan2025 15:13:11.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 15:13:11.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 15:13:11.887] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 handling client fire request
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 260067968 to 7
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.761] [Server thread/DEBUG] [pointblank/]: 19761 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.762] [Server thread/DEBUG] [pointblank/]: 19762 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 1ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.763] [Server thread/DEBUG] [pointblank/]: 19763 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 - obtained hit result in 0ms
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: 19764 obtained hit results
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47531b34
+[03Jan2025 15:15:19.764] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@728ef762
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3eb6dc73
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1430fe37
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4be5dd3e
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ed516c7
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46081e2a
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@55da919a
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3033ba32
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5636e1dd
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50c94c7f
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@511e41bd
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7cd18386
+[03Jan2025 15:15:19.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d88bdc8
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b8a0b2
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@24080a51
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@543570e5
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@c0bf156
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ef46d55
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2acaac58
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@550753bc
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@655890b
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ba6d251
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14f11b11
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b842080
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5133e32a
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@c5a9707
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.766] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@106f3c0e
+[03Jan2025 15:15:19.767] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.767] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ab58ea3
+[03Jan2025 15:15:19.767] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:19.767] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d10e6c
+[03Jan2025 15:15:19.767] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-177.19, y=15.00, z=49.63]
+[03Jan2025 15:15:20.556] [Server thread/DEBUG] [pointblank/]: 20556 handling client fire request
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 260067968 to 6
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.557] [Server thread/DEBUG] [pointblank/]: 20557 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 - obtained hit result in 0ms
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: 20558 obtained hit results
+[03Jan2025 15:15:20.558] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7327e817
+[03Jan2025 15:15:20.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.559] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f19cd6d
+[03Jan2025 15:15:20.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.559] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@486ed4b5
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@141ac875
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58b1fdb1
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39a2316f
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7579192
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45ccb86d
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12c79910
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a46fb6e
+[03Jan2025 15:15:20.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a636b5
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2189f93c
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@fa8fb04
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b8fc14
+[03Jan2025 15:15:20.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@321b7168
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5cb53e0e
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@140d9e47
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5190888e
+[03Jan2025 15:15:20.563] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@386923e5
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4dd92fa8
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35de6ff2
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60df453f
+[03Jan2025 15:15:20.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11d824ca
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1578fd36
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@531fb194
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49f3f075
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@195d73f5
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b9eaca5
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65a32753
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@330513ca
+[03Jan2025 15:15:20.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-180.34, y=15.00, z=50.57]
+[03Jan2025 15:15:22.056] [Server thread/DEBUG] [pointblank/]: 22056 handling client fire request
+[03Jan2025 15:15:22.056] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 260067968 to 5
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 1ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.057] [Server thread/DEBUG] [pointblank/]: 22057 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.058] [Server thread/DEBUG] [pointblank/]: 22058 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.059] [Server thread/DEBUG] [pointblank/]: 22059 - obtained hit result in 0ms
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: 22060 - obtained hit result in 0ms
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: 22060 - obtained hit result in 0ms
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: 22060 obtained hit results
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41350c84
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.060] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f706b83
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3154281
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18958a6a
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71ade4d0
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d7da515
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2455ef71
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10a7f74b
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.062] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@eb21aeb
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e075325
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65a217f3
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a90b9a3
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.063] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54eb8758
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21789b
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75c9fae3
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3adb0858
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3282991c
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39ecca77
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c8314b
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61b360a2
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@475f4ff1
+[03Jan2025 15:15:22.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18bf8a1f
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5abfa22a
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@20736faf
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dee8c97
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79e50247
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5eec51a3
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@655953c6
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c3ae1ce
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:22.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d9c3d34
+[03Jan2025 15:15:22.068] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-182.25, y=15.00, z=49.89]
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 handling client fire request
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 260067968 to 4
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.861] [Server thread/DEBUG] [pointblank/]: 24861 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 - obtained hit result in 0ms
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: 24862 obtained hit results
+[03Jan2025 15:15:24.862] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15461a7a
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@290fe07b
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4054a151
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43c9011d
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66f956d4
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30237e48
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@55180f34
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ed22d63
+[03Jan2025 15:15:24.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72b19f9b
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@594b7ebb
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4cbfbb09
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c92ec8
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d7a246d
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fc623df
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e90a8dd
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46560a9
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28106504
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66067302
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d9be95f
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@254a46d
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2947c966
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c8c212f
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@eaffef0
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29ff4484
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e64b424
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@237c7f9e
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52555d7f
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15de8d5
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a03a94e
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a43a51f
+[03Jan2025 15:15:24.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09] sends hit scan notification to ServerPlayer['Poyo'/176, l='ServerLevel[world]', x=-181.51, y=15.00, z=57.09]
+[03Jan2025 15:16:17.906] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
