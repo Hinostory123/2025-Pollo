@@ -7644,183 +7644,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2025-01-03 15:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 15:08:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-03 15:03:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-01-03 15:03:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
-    "criteria": {
-      "has_block": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
-    "criteria": {
-      "has_block": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-03 15:04:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-01-03 15:31:15 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone": {
-    "criteria": {
-      "has_item": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 15:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-03 15:08:12 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/remote_access_sentry": {
-    "criteria": {
-      "has_sentry": "2025-01-03 15:08:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/inventory_scanner": {
-    "criteria": {
-      "has_stone": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/smooth_stone_layer": {
-    "criteria": {
-      "has_block": "2025-01-03 15:36:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-01-03 15:31:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/ims": {
-    "criteria": {
-      "has_radar": "2025-01-03 15:06:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-03 15:08:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/polished_stone": {
-    "criteria": {
-      "has_block": "2025-01-03 15:36:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobblestone": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/retinal_scanner": {
-    "criteria": {
-      "has_stone": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/rift_stabilizer": {
-    "criteria": {
-      "has_iron": "2025-01-03 15:07:00 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull": {
-    "criteria": {
-      "has_item": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
     },
     "done": true
   },
@@ -7830,39 +7656,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_copper_block": "2025-01-03 15:30:33 +0000"
+      "has_ancient_debris": "2025-01-03 15:03:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "has_redstone_torch": "2025-01-03 15:05:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-01-03 15:08:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/keycard_reader": {
-    "criteria": {
-      "has_stone": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-03 15:30:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
-    "criteria": {
-      "has_block": "2025-01-03 15:07:55 +0000"
+      "fried_egg": "2025-01-03 15:03:46 +0000"
     },
     "done": true
   },
@@ -7878,9 +7680,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "has_paper": "2025-01-03 15:31:36 +0000"
+      "fried_egg": "2025-01-03 15:03:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-03 15:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-03 15:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-03 15:05:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2025-01-03 15:06:05 +0000"
     },
     "done": true
   },
@@ -7890,21 +7716,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "securitycraft:recipes/misc/rift_stabilizer": {
     "criteria": {
-      "has_chicken": "2025-01-03 15:08:38 +0000"
+      "has_iron": "2025-01-03 15:07:00 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
     "criteria": {
-      "has_item": "2025-01-03 15:31:36 +0000"
+      "has_block": "2025-01-03 15:07:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
     "criteria": {
-      "has_ancient_debris": "2025-01-03 15:03:13 +0000"
+      "has_block": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-01-03 15:07:55 +0000"
     },
     "done": true
   },
@@ -7914,9 +7782,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
-      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
+      "has_cobble": "2025-01-03 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-03 15:08:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-03 15:08:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-01-03 15:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 15:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 15:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 15:08:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-01-03 15:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-03 15:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-03 15:31:15 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-03 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-03 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-03 15:31:36 +0000"
     },
     "done": true
   },
@@ -7932,27 +7920,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-01-03 15:30:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_lever": {
-    "criteria": {
-      "has_cobble": "2025-01-03 15:07:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-03 15:31:36 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "bbb:recipes/smooth_stone_layer": {
     "criteria": {
-      "fried_egg": "2025-01-03 15:03:46 +0000"
+      "has_block": "2025-01-03 15:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_stone": {
+    "criteria": {
+      "has_block": "2025-01-03 15:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 15:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 21:20:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 21:20:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 21:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-03 21:20:10 +0000"
     },
     "done": true
   },
