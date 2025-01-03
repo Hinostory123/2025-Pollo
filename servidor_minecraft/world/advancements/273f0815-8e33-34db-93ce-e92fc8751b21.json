@@ -70,7 +70,9 @@
     "criteria": {
       "minecraft:beach": "2024-12-23 22:26:10 +0000",
       "minecraft:river": "2024-12-30 03:00:20 +0000",
+      "minecraft:cold_ocean": "2025-01-03 04:47:04 +0000",
       "minecraft:forest": "2024-12-30 03:00:29 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-03 04:47:46 +0000",
       "minecraft:ocean": "2025-01-01 23:00:49 +0000",
       "minecraft:plains": "2024-12-23 22:25:46 +0000"
     },
@@ -1235,6 +1237,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-30 04:12:21 +0000",
       "cooked_mutton": "2024-12-31 19:38:11 +0000",
+      "cooked_beef": "2025-01-03 04:57:44 +0000",
       "apple": "2024-12-30 02:50:21 +0000",
       "bread": "2024-12-23 22:26:39 +0000",
       "golden_apple": "2024-12-31 19:05:46 +0000",
@@ -7305,6 +7308,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-03 04:17:59 +0000"
@@ -7329,6 +7338,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-01-03 04:46:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_stairs": {
     "criteria": {
       "has_cut_veridium": "2025-01-03 04:18:07 +0000"
@@ -7338,6 +7353,18 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-03 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-03 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-01-03 04:46:42 +0000"
     },
     "done": true
   },
@@ -7368,6 +7395,12 @@
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-03 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 04:46:40 +0000"
     },
     "done": true
   },
@@ -7413,6 +7446,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 04:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-01-03 04:23:51 +0000"
@@ -7449,9 +7494,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-03 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-01-03 04:46:40 +0000"
     },
     "done": true
   },
@@ -7503,6 +7560,24 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 04:46:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-01-03 04:43:59 +0000"
@@ -7515,9 +7590,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 04:46:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 04:46:40 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2025-01-03 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 04:46:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-03 04:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-03 04:46:40 +0000"
     },
     "done": true
   },
