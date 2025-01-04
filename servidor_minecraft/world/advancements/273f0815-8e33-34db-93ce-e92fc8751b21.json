@@ -8030,6 +8030,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 03:40:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-04 00:55:29 +0000"
@@ -8315,6 +8321,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-04 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 03:40:06 +0000"
     },
     "done": true
   },
@@ -8816,6 +8828,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 03:40:07 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_trapdoor": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8861,6 +8879,12 @@
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-04 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 03:40:07 +0000"
     },
     "done": true
   },
@@ -8999,6 +9023,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-04 01:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 03:40:06 +0000"
     },
     "done": true
   },
@@ -9146,6 +9176,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 03:40:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -9173,6 +9209,12 @@
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-04 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 03:40:06 +0000"
     },
     "done": true
   },
@@ -9242,6 +9284,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 03:40:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-04 01:20:23 +0000"
@@ -9257,6 +9305,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-04 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 03:40:08 +0000"
     },
     "done": true
   },
@@ -9365,6 +9419,12 @@
   "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 03:40:10 +0000"
     },
     "done": true
   },
@@ -9482,6 +9542,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 03:40:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-01-04 02:34:46 +0000"
@@ -9503,6 +9569,12 @@
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 03:40:08 +0000"
     },
     "done": true
   },
