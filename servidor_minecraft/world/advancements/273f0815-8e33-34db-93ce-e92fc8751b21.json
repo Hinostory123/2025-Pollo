@@ -8048,6 +8048,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8162,6 +8168,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8207,6 +8219,12 @@
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-04 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-01-04 03:36:19 +0000"
     },
     "done": true
   },
@@ -8279,6 +8297,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 03:27:28 +0000"
     },
     "done": true
   },
@@ -8423,6 +8447,18 @@
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-04 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
     },
     "done": true
   },
@@ -8678,9 +8714,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-01-04 00:55:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 03:37:01 +0000"
     },
     "done": true
   },
@@ -8762,6 +8810,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_trapdoor": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8783,6 +8837,12 @@
   "copycats:recipes/misc/stonecutting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 03:37:01 +0000"
     },
     "done": true
   },
@@ -8825,6 +8885,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-04 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 03:27:28 +0000"
     },
     "done": true
   },
@@ -8978,6 +9044,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -9032,6 +9104,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 02:24:36 +0000"
@@ -9059,6 +9137,12 @@
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 03:37:01 +0000"
     },
     "done": true
   },
@@ -9110,6 +9194,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -9155,6 +9245,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-04 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-01-04 03:36:19 +0000"
     },
     "done": true
   },
@@ -9269,6 +9365,18 @@
   "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-01-04 03:36:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-01-04 03:36:19 +0000"
     },
     "done": true
   },
@@ -9425,6 +9533,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-01-04 01:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 03:27:28 +0000"
     },
     "done": true
   },
