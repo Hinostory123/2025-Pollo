@@ -8727,6 +8727,12 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_moulding": {
+    "criteria": {
+      "has_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-04 01:00:23 +0000"
@@ -8769,6 +8775,12 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_urn": {
+    "criteria": {
+      "has_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-04 00:49:47 +0000"
@@ -8787,9 +8799,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
@@ -8799,15 +8823,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-01-04 01:16:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
@@ -8823,15 +8865,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2025-01-04 01:08:51 +0000"
     },
     "done": true
   },
+  "bbb:recipes/quartz_layer": {
+    "criteria": {
+      "has_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
@@ -8892,6 +8958,18 @@
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
@@ -8967,6 +9045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
@@ -8979,9 +9063,21 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_fence": {
+    "criteria": {
+      "has_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
@@ -9003,9 +9099,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-04 01:18:25 +0000"
     },
     "done": true
   },
