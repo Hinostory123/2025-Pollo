@@ -8769,6 +8769,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-04 04:20:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
@@ -9165,6 +9171,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-04 04:17:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
@@ -9492,6 +9504,12 @@
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2025-01-04 01:00:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-04 04:17:57 +0000"
     },
     "done": true
   },
