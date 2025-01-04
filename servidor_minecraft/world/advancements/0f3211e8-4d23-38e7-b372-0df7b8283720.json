@@ -7551,9 +7551,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-04 03:02:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-01-04 02:34:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-04 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-04 03:02:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-04 03:02:55 +0000"
     },
     "done": true
   },
