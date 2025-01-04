@@ -8733,6 +8733,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 02:59:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-04 01:00:23 +0000"
@@ -8811,6 +8817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 02:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-04 00:49:47 +0000"
@@ -8859,6 +8871,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 02:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-04 01:18:25 +0000"
@@ -8868,6 +8892,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-04 01:42:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 02:58:46 +0000"
     },
     "done": true
   },
@@ -9009,6 +9039,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 02:59:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
@@ -9045,9 +9081,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 02:52:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 02:57:09 +0000"
     },
     "done": true
   },
@@ -9069,6 +9117,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 02:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-04 01:18:25 +0000"
@@ -9081,9 +9135,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 02:57:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_andesite_layer": {
+    "criteria": {
+      "has_block": "2025-01-04 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 02:56:01 +0000"
     },
     "done": true
   },
@@ -9129,6 +9201,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 02:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-04 01:29:21 +0000"
@@ -9165,15 +9243,33 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-04 02:59:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 02:59:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-01-04 02:58:46 +0000"
     },
     "done": true
   },
@@ -9207,9 +9303,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 02:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-04 01:42:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 02:57:21 +0000"
     },
     "done": true
   },
@@ -9240,6 +9348,12 @@
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-01-04 02:59:42 +0000"
     },
     "done": true
   },
@@ -9297,9 +9411,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-01-04 02:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-01-04 01:18:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs": {
+    "criteria": {
+      "has_small_diorite_bricks": "2025-01-04 02:57:21 +0000"
     },
     "done": true
   },
@@ -9321,6 +9447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 02:52:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-04 01:09:37 +0000"
@@ -9336,6 +9468,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-01-04 01:29:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall": {
+    "criteria": {
+      "has_polished_cut_veridium": "2025-01-04 02:56:01 +0000"
     },
     "done": true
   },

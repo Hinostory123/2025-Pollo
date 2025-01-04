@@ -17628,3 +17628,453 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [04Jan2025 02:30:58.089] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 479327586 to 9
 [04Jan2025 02:33:07.046] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
 [04Jan2025 02:33:18.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Poyo has reached the goal [Plant Food]
+[04Jan2025 02:34:59.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:34:59.143] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[04Jan2025 02:34:59.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:35:07.889] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 20
+[04Jan2025 02:35:50.234] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:35:50.235] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:35:50.235] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:35:50.235] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:35:50.235] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:35:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> CTM
+[04Jan2025 02:35:54.239] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:35:54.239] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:35:54.239] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:35:54.239] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:35:54.239] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:35:54.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> que
+[04Jan2025 02:35:55.362] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:35:55.362] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:35:55.362] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:35:55.362] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:35:55.362] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:35:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> zombis qls
+[04Jan2025 02:36:04.007] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:36:04.007] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:36:04.008] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:36:04.008] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:36:04.008] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:36:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> se pegan unos gritos aveces wn
+[04Jan2025 02:36:08.038] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:36:08.038] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:36:08.038] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:36:08.038] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:36:08.038] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:36:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> asdakjsdak
+[04Jan2025 02:36:12.449] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[04Jan2025 02:36:27.417] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:36:27.417] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:36:27.418] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:36:27.418] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:36:27.418] [ForkJoinPool.commonPool-worker-21/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:36:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> como los de guerra mundial z wn
+[04Jan2025 02:37:55.767] [ForkJoinPool.commonPool-worker-22/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:37:55.767] [ForkJoinPool.commonPool-worker-22/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:37:55.767] [ForkJoinPool.commonPool-worker-22/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:37:55.767] [ForkJoinPool.commonPool-worker-22/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:37:55.767] [ForkJoinPool.commonPool-worker-22/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:37:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> chucha
+[04Jan2025 02:38:32.489] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[04Jan2025 02:39:59.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:39:59.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:39:59.172] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[04Jan2025 02:41:26.686] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[04Jan2025 02:42:37.237] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[04Jan2025 02:43:09.236] [ForkJoinPool.commonPool-worker-23/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:43:09.237] [ForkJoinPool.commonPool-worker-23/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:43:09.237] [ForkJoinPool.commonPool-worker-23/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:43:09.237] [ForkJoinPool.commonPool-worker-23/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:43:09.237] [ForkJoinPool.commonPool-worker-23/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:43:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> lw de los spawn era 4 x 4 pa todos los lados vdd
+[04Jan2025 02:44:55.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox drowned
+[04Jan2025 02:44:57.098] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jan2025 02:44:59.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:44:59.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:44:59.208] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[04Jan2025 02:45:00.811] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:00.812] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:00.812] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:00.812] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:00.812] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> CTM
+[04Jan2025 02:45:03.512] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:03.513] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:03.513] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:03.513] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:03.513] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> ajja
+[04Jan2025 02:45:05.068] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:05.068] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:05.068] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:05.068] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:05.068] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:05.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> mis niveles wn
+[04Jan2025 02:45:10.909] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:10.909] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:10.909] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:10.909] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:10.910] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> cuantos tenias?
+[04Jan2025 02:45:13.116] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:13.117] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:13.117] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:13.117] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:13.117] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:13.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> 27
+[04Jan2025 02:45:18.697] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:18.697] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:18.698] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:18.698] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:18.698] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> la wea
+[04Jan2025 02:45:37.136] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:45:37.136] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:45:37.136] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:45:37.136] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:45:37.136] [ForkJoinPool.commonPool-worker-24/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:45:37.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> como se llama la iedra esta ql
+[04Jan2025 02:46:46.939] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:46:46.940] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:46:46.940] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:46:46.940] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:46:46.940] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:46:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> cuakl
+[04Jan2025 02:46:50.845] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:46:50.845] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:46:50.845] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:46:50.846] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:46:50.846] [ForkJoinPool.commonPool-worker-25/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:46:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> ya la pille
+[04Jan2025 02:47:57.888] [Server thread/DEBUG] [pointblank/]: 77888 handling client fire request
+[04Jan2025 02:47:57.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 19
+[04Jan2025 02:47:57.888] [Server thread/DEBUG] [pointblank/]: 77888 - obtained hit result in 0ms
+[04Jan2025 02:47:57.888] [Server thread/DEBUG] [pointblank/]: 77888 obtained hit results
+[04Jan2025 02:47:57.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d474980
+[04Jan2025 02:47:57.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.71, z=-0.00] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:57.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.71, z=-0.00] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:57.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.71, z=-0.00] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.71, z=-0.00]
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: 77984 handling client fire request
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 18
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: 77984 - obtained hit result in 0ms
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: 77984 obtained hit results
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38952b34
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.58, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.58, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:57.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.58, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.58, z=-0.01]
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: 78091 handling client fire request
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 17
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: 78091 - obtained hit result in 0ms
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: 78091 obtained hit results
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54d1a135
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.47, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:58.091] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.47, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:58.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.47, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.47, z=-0.01]
+[04Jan2025 02:47:58.237] [Server thread/DEBUG] [pointblank/]: 78237 handling client fire request
+[04Jan2025 02:47:58.237] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 16
+[04Jan2025 02:47:58.237] [Server thread/DEBUG] [pointblank/]: 78237 - obtained hit result in 0ms
+[04Jan2025 02:47:58.237] [Server thread/DEBUG] [pointblank/]: 78237 obtained hit results
+[04Jan2025 02:47:58.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43de0aa3
+[04Jan2025 02:47:58.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.35, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:58.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.35, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:58.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.35, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.35, z=-0.01]
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: 78341 handling client fire request
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 15
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: 78341 - obtained hit result in 0ms
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: 78341 obtained hit results
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@728464f
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.28, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.28, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:58.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.28, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.28, z=-0.01]
+[04Jan2025 02:47:58.485] [Server thread/DEBUG] [pointblank/]: 78485 handling client fire request
+[04Jan2025 02:47:58.485] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 14
+[04Jan2025 02:47:58.485] [Server thread/DEBUG] [pointblank/]: 78485 - obtained hit result in 0ms
+[04Jan2025 02:47:58.485] [Server thread/DEBUG] [pointblank/]: 78485 obtained hit results
+[04Jan2025 02:47:58.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16f50115
+[04Jan2025 02:47:58.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.19, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:58.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.19, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:58.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.19, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.19, z=-0.01]
+[04Jan2025 02:47:58.591] [Server thread/DEBUG] [pointblank/]: 78591 handling client fire request
+[04Jan2025 02:47:58.592] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 13
+[04Jan2025 02:47:58.592] [Server thread/DEBUG] [pointblank/]: 78592 - obtained hit result in 0ms
+[04Jan2025 02:47:58.592] [Server thread/DEBUG] [pointblank/]: 78592 obtained hit results
+[04Jan2025 02:47:58.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5266db62
+[04Jan2025 02:47:58.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.14, z=-0.01] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:58.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.14, z=-0.01] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:58.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.14, z=-0.01] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-118.31, y=4.14, z=-0.01]
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: 79090 handling client fire request
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 12
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: 79090 - obtained hit result in 0ms
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: 79090 obtained hit results
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@131530b1
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.93, y=4.05, z=-0.02] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.93, y=4.05, z=-0.02] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:59.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.93, y=4.05, z=-0.02] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.93, y=4.05, z=-0.02]
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: 79184 handling client fire request
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 11
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: 79184 - obtained hit result in 0ms
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: 79184 obtained hit results
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@260e7e05
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.77, y=4.08, z=-0.03] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.77, y=4.08, z=-0.03] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:47:59.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.77, y=4.08, z=-0.03] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-117.77, y=4.08, z=-0.03]
+[04Jan2025 02:48:22.286] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[04Jan2025 02:48:42.340] [Server thread/DEBUG] [pointblank/]: 22340 handling client fire request
+[04Jan2025 02:48:42.340] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 10
+[04Jan2025 02:48:42.340] [Server thread/DEBUG] [pointblank/]: 22340 - obtained hit result in 0ms
+[04Jan2025 02:48:42.340] [Server thread/DEBUG] [pointblank/]: 22340 obtained hit results
+[04Jan2025 02:48:42.341] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ef74df4
+[04Jan2025 02:48:42.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:42.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:42.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: 22462 handling client fire request
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 9
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: 22462 - obtained hit result in 0ms
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: 22462 obtained hit results
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14e6dbb9
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:42.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: 22587 handling client fire request
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 8
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: 22587 - obtained hit result in 0ms
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: 22587 obtained hit results
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fc70d54
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:42.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:44.644] [Server thread/DEBUG] [pointblank/]: 24644 handling client fire request
+[04Jan2025 02:48:44.644] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 7
+[04Jan2025 02:48:44.644] [Server thread/DEBUG] [pointblank/]: 24644 - obtained hit result in 0ms
+[04Jan2025 02:48:44.644] [Server thread/DEBUG] [pointblank/]: 24644 obtained hit results
+[04Jan2025 02:48:44.644] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13f7d8ab
+[04Jan2025 02:48:44.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:44.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:44.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:44.759] [Server thread/DEBUG] [pointblank/]: 24759 handling client fire request
+[04Jan2025 02:48:44.759] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 6
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: 24760 - obtained hit result in 1ms
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: 24760 obtained hit results
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a55984d
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:44.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:44.890] [Server thread/DEBUG] [pointblank/]: 24890 handling client fire request
+[04Jan2025 02:48:44.890] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 5
+[04Jan2025 02:48:44.890] [Server thread/DEBUG] [pointblank/]: 24890 - obtained hit result in 0ms
+[04Jan2025 02:48:44.890] [Server thread/DEBUG] [pointblank/]: 24890 obtained hit results
+[04Jan2025 02:48:44.890] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@356e40c8
+[04Jan2025 02:48:44.891] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:44.891] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:44.891] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: 25042 handling client fire request
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 4
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: 25042 - obtained hit result in 0ms
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: 25042 obtained hit results
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@70da2398
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:45.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:45.146] [Server thread/DEBUG] [pointblank/]: 25146 handling client fire request
+[04Jan2025 02:48:45.146] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 3
+[04Jan2025 02:48:45.146] [Server thread/DEBUG] [pointblank/]: 25146 - obtained hit result in 0ms
+[04Jan2025 02:48:45.146] [Server thread/DEBUG] [pointblank/]: 25146 obtained hit results
+[04Jan2025 02:48:45.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5dc59fa8
+[04Jan2025 02:48:45.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:45.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:45.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: 25292 handling client fire request
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 2
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: 25292 - obtained hit result in 0ms
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: 25292 obtained hit results
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5bd4f3ad
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:45.292] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:45.390] [Server thread/DEBUG] [pointblank/]: 25390 handling client fire request
+[04Jan2025 02:48:45.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 1
+[04Jan2025 02:48:45.390] [Server thread/DEBUG] [pointblank/]: 25390 - obtained hit result in 0ms
+[04Jan2025 02:48:45.390] [Server thread/DEBUG] [pointblank/]: 25390 obtained hit results
+[04Jan2025 02:48:45.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1cfb801f
+[04Jan2025 02:48:45.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:45.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:45.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:45.514] [Server thread/DEBUG] [pointblank/]: 25514 handling client fire request
+[04Jan2025 02:48:45.515] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 0
+[04Jan2025 02:48:45.515] [Server thread/DEBUG] [pointblank/]: 25515 - obtained hit result in 0ms
+[04Jan2025 02:48:45.515] [Server thread/DEBUG] [pointblank/]: 25515 obtained hit results
+[04Jan2025 02:48:45.515] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d9cb6fb
+[04Jan2025 02:48:45.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:45.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:45.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-104.82, y=6.00, z=-3.59]
+[04Jan2025 02:48:47.537] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 20
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: 31437 handling client fire request
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 19
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: 31437 - obtained hit result in 0ms
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: 31437 obtained hit results
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e355c
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.00, y=5.47, z=-3.80] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.00, y=5.47, z=-3.80] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:51.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.00, y=5.47, z=-3.80] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.00, y=5.47, z=-3.80]
+[04Jan2025 02:48:51.557] [Server thread/DEBUG] [pointblank/]: 31557 handling client fire request
+[04Jan2025 02:48:51.557] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 18
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: 31558 - obtained hit result in 0ms
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: 31558 obtained hit results
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3413ef39
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.11, y=5.42, z=-3.87] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.11, y=5.42, z=-3.87] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:51.558] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.11, y=5.42, z=-3.87] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.11, y=5.42, z=-3.87]
+[04Jan2025 02:48:51.685] [Server thread/DEBUG] [pointblank/]: 31685 handling client fire request
+[04Jan2025 02:48:51.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 17
+[04Jan2025 02:48:51.685] [Server thread/DEBUG] [pointblank/]: 31685 - obtained hit result in 0ms
+[04Jan2025 02:48:51.686] [Server thread/DEBUG] [pointblank/]: 31686 obtained hit results
+[04Jan2025 02:48:51.686] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31ec6f43
+[04Jan2025 02:48:51.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.16, y=5.37, z=-3.86] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:51.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.16, y=5.37, z=-3.86] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:51.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.16, y=5.37, z=-3.86] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.16, y=5.37, z=-3.86]
+[04Jan2025 02:48:51.804] [Server thread/DEBUG] [pointblank/]: 31804 handling client fire request
+[04Jan2025 02:48:51.804] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 16
+[04Jan2025 02:48:51.804] [Server thread/DEBUG] [pointblank/]: 31804 - obtained hit result in 0ms
+[04Jan2025 02:48:51.804] [Server thread/DEBUG] [pointblank/]: 31804 obtained hit results
+[04Jan2025 02:48:51.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@25219ef6
+[04Jan2025 02:48:51.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.18, y=5.30, z=-3.73] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:51.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.18, y=5.30, z=-3.73] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:51.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.18, y=5.30, z=-3.73] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.18, y=5.30, z=-3.73]
+[04Jan2025 02:48:51.936] [Server thread/DEBUG] [pointblank/]: 31936 handling client fire request
+[04Jan2025 02:48:51.936] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 15
+[04Jan2025 02:48:51.936] [Server thread/DEBUG] [pointblank/]: 31936 - obtained hit result in 0ms
+[04Jan2025 02:48:51.936] [Server thread/DEBUG] [pointblank/]: 31936 obtained hit results
+[04Jan2025 02:48:51.936] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e60294f
+[04Jan2025 02:48:51.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.17, y=5.25, z=-3.60] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:51.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.17, y=5.25, z=-3.60] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:51.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.17, y=5.25, z=-3.60] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.17, y=5.25, z=-3.60]
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: 32087 handling client fire request
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 14
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: 32087 - obtained hit result in 0ms
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: 32087 obtained hit results
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@62105324
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.15, y=5.17, z=-3.41] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.15, y=5.17, z=-3.41] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:52.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.15, y=5.17, z=-3.41] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.15, y=5.17, z=-3.41]
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: 32186 handling client fire request
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 927358574 to 13
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: 32186 - obtained hit result in 0ms
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: 32186 obtained hit results
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@33c895f5
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.14, y=5.12, z=-3.34] sends hit scan notification to ServerPlayer['AVich0'/163, l='ServerLevel[world]', x=-139.70, y=63.00, z=44.23]
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.14, y=5.12, z=-3.34] sends hit scan notification to ServerPlayer['Poyo'/2985, l='ServerLevel[world]', x=-138.32, y=63.00, z=40.23]
+[04Jan2025 02:48:52.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.14, y=5.12, z=-3.34] sends hit scan notification to ServerPlayer['dieggox'/55634, l='ServerLevel[world]', x=-103.14, y=5.12, z=-3.34]
+[04Jan2025 02:49:59.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:49:59.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:49:59.239] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[04Jan2025 02:53:45.334] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[04Jan2025 02:54:59.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:54:59.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:55:46.588] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[04Jan2025 02:57:46.483] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[04Jan2025 02:58:57.911] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:58:57.912] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:58:57.912] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:58:57.912] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:58:57.912] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:58:57.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> o tan re wenos estos blokes
+[04Jan2025 02:59:11.784] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[04Jan2025 02:59:37.798] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:59:37.798] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:59:37.798] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:59:37.798] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:59:37.798] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:59:37.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> esponja no tenemos vdd
+[04Jan2025 02:59:40.847] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:59:40.848] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:59:40.848] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:59:40.848] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:59:40.848] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:59:40.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> no
+[04Jan2025 02:59:45.690] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:59:45.690] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:59:45.690] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:59:45.690] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:59:45.691] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:59:45.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> seguramente se peude craftear
+[04Jan2025 02:59:59.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:59:59.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:59:59.948] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 02:59:59.949] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 02:59:59.949] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 02:59:59.949] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 02:59:59.949] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 02:59:59.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> ah no no se puede
+[04Jan2025 03:00:10.588] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:00:10.588] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:00:10.588] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:00:10.588] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:00:10.589] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:00:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> no asdas
+[04Jan2025 03:00:21.845] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:00:21.846] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:00:21.847] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:00:21.847] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:00:21.847] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:00:21.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> una combinación con este rojo y el blanco
+[04Jan2025 03:00:30.840] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:00:30.840] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:00:30.840] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:00:30.840] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:00:30.841] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:00:30.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> pal piso
+[04Jan2025 03:00:50.260] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:00:50.260] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:00:50.260] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:00:50.260] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:00:50.260] [ForkJoinPool.commonPool-worker-26/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:00:50.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> qw es esto rojo?
+[04Jan2025 03:02:17.688] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:02:17.689] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:02:17.689] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:02:17.689] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:02:17.689] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:02:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> pal piso el blanco?
+[04Jan2025 03:02:24.545] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:02:24.545] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:02:24.545] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:02:24.545] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:02:24.545] [ForkJoinPool.commonPool-worker-27/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:02:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> o los dos?
+[04Jan2025 03:03:33.962] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:03:33.963] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:03:33.963] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:03:33.963] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:03:33.963] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:03:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> calmai
+[04Jan2025 03:03:57.488] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[04Jan2025 03:04:05.868] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:04:05.868] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:04:05.868] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:04:05.868] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:04:05.869] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:04:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> la csm
+[04Jan2025 03:04:09.583] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:04:09.583] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:04:09.583] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:04:09.583] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:04:09.583] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:04:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AVich0> ajsbdhj
+[04Jan2025 03:04:13.836] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:04:13.836] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:04:13.836] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:04:13.836] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:04:13.836] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:04:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Poyo> pille un buen mod pa generar energia
+[04Jan2025 03:04:23.548] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:04:23.548] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:04:23.548] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:04:23.549] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:04:23.549] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:04:23.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> ups
+[04Jan2025 03:04:28.805] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[04Jan2025 03:04:28.805] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[04Jan2025 03:04:28.805] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[04Jan2025 03:04:28.805] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[04Jan2025 03:04:28.805] [ForkJoinPool.commonPool-worker-28/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[04Jan2025 03:04:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dieggox> metelas con semillas

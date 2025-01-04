@@ -7545,5 +7545,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-04 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-04 02:34:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
