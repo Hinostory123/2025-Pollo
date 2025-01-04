@@ -8053,6 +8053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-01-04 01:33:06 +0000"
@@ -8233,6 +8239,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-04 02:10:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8248,6 +8260,12 @@
   "copycats:recipes/misc/stonecutting/copycat_door": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
     },
     "done": true
   },
@@ -8287,9 +8305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-04 02:16:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-01-04 01:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
     },
     "done": true
   },
@@ -8308,6 +8338,12 @@
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
     },
     "done": true
   },
@@ -8509,6 +8545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 02:17:48 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8533,6 +8575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-04 01:33:06 +0000"
@@ -8554,6 +8602,12 @@
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-01-04 02:19:03 +0000"
     },
     "done": true
   },
@@ -8647,6 +8701,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-04 02:10:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
@@ -8716,6 +8776,18 @@
   "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-04 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 02:17:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 02:10:28 +0000"
     },
     "done": true
   },
