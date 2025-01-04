@@ -2728,3 +2728,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [04Jan2025 05:17:00.074] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174948, l='ServerLevel[world]', x=-168.50, y=71.00, z=116.50]
 [04Jan2025 05:33:01.525] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/179342, l='ServerLevel[world]', x=-161.50, y=72.00, z=123.50]
 [04Jan2025 05:33:48.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/179633, l='ServerLevel[world]', x=-161.50, y=72.00, z=124.50]
+[04Jan2025 05:41:04.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dieggox lost connection: Disconnected
+[04Jan2025 05:41:04.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dieggox left the game
+[04Jan2025 05:41:04.134] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dieggox
