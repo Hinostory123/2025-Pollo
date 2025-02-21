@@ -1,124 +1,33 @@
-[00:43:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:43:42] [ServerMain/INFO]: Loaded 1337 recipes
-[00:43:42] [ServerMain/INFO]: Loaded 1448 advancements
-[00:43:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:43:42] [Server thread/INFO]: Loading properties
-[00:43:42] [Server thread/INFO]: Default game type: SURVIVAL
-[00:43:42] [Server thread/INFO]: Generating keypair
-[00:43:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:43:42] [Server thread/INFO]: Using epoll channel type
-[00:43:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:43:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:43:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:43:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:43:42] [Server thread/INFO]: Preparing level "world"
-[00:43:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:46] [Server thread/INFO]: Time elapsed: 3709 ms
-[00:43:46] [Server thread/INFO]: Done (4.012s)! For help, type "help"
-[00:44:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:45:03] [Server thread/INFO]: ELPepsi[/127.77.125.14:50753] logged in with entity id 8 at (-133.69160657711345, 67.0, 83.71499719264139)
-[00:45:03] [Server thread/INFO]: ELPepsi joined the game
-[00:50:31] [Server thread/INFO]: ELPepsi has made the advancement [A Seedy Place]
-[00:51:53] [Server thread/INFO]: ELPepsi has made the advancement [Sweet Dreams]
-[00:54:06] [Server thread/INFO]: Diegojg[/127.130.250.174:55629] logged in with entity id 2158 at (-0.5, 70.0, 0.5)
-[00:54:06] [Server thread/INFO]: Diegojg joined the game
-[00:55:02] [Server thread/INFO]: [Not Secure] <ELPepsi> callate sopa
-[00:55:06] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[00:55:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-76, y=75, z=-15} jh{x=-75, y=75, z=-14}
-[00:55:58] [Server thread/INFO]: [Not Secure] <ELPepsi> pa onde mierda te fuiste
-[00:57:53] [Server thread/INFO]: Diegojg has made the advancement [Stone Age]
-[00:58:16] [Server thread/INFO]: Diegojg has made the advancement [Getting an Upgrade]
-[01:00:17] [Server thread/INFO]: [Not Secure] <ELPepsi> teni que aprender a dormir sopa
-[01:00:52] [Server thread/INFO]: [Not Secure] <Diegojg> oe dormir es pa miedosos
-[01:01:00] [Server thread/INFO]: [Not Secure] <ELPepsi> *muere
-[01:01:03] [Server thread/INFO]: [Not Secure] <Diegojg> sjsjs
-[01:08:21] [Server thread/INFO]: [Not Secure] <ELPepsi> OE DONDETAI PO
-[01:08:29] [Server thread/INFO]: [Not Secure] <Diegojg> oe no se
-[01:08:35] [Server thread/INFO]: [Not Secure] <Diegojg> toy escondio ahora
-[01:08:41] [Server thread/INFO]: [Not Secure] <Diegojg> pero es cerca del respawn
-[01:08:53] [Server thread/INFO]: [Not Secure] <Diegojg> pero me hice el medio bunker
-[01:10:00] [Server thread/INFO]: Diegojg has made the advancement [Sweet Dreams]
-[01:10:15] [Server thread/INFO]: [Not Secure] <ELPepsi> oe aprendiste a dormri
-[01:10:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[01:10:24] [Server thread/INFO]: [Not Secure] <Diegojg> es qe habian monos cerca
-[01:17:08] [Server thread/INFO]: [Not Secure] <ELPepsi> oe bunker de mierda que te hiciste
-[01:17:09] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[01:17:09] [Server thread/INFO]: ELPepsi left the game
-[01:30:30] [Server thread/INFO]: ELPepsi[/127.77.125.14:57499] logged in with entity id 11893 at (4.663757670684496, 72.0, -84.38290670626526)
-[01:30:30] [Server thread/INFO]: ELPepsi joined the game
-[01:30:53] [Server thread/INFO]: [Not Secure] <ELPepsi> aondetai
-[01:31:02] [Server thread/INFO]: [Not Secure] <Diegojg> oe voy navegando
-[01:31:20] [Server thread/INFO]: [Not Secure] <Diegojg> yo soy nomade
-[01:31:26] [Server thread/INFO]: [Not Secure] <ELPepsi> pa queeee te vai a la mierda
-[01:32:02] [Server thread/INFO]: [Not Secure] <Diegojg> oe pero mi bunker esta por ahi cerca
-[01:32:09] [Server thread/INFO]: [Not Secure] <Diegojg> me quedo pulento
-[01:35:39] [Server thread/INFO]: [Not Secure] <Diegojg> oe encontre un loro
-[01:35:52] [Server thread/INFO]: [Not Secure] <ELPepsi> oe dale semilla
-[01:36:05] [Server thread/INFO]: Diegojg has made the advancement [Best Friends Forever]
-[01:38:31] [Server thread/INFO]: [Not Secure] <Diegojg> oe duerme
-[01:38:51] [Server thread/INFO]: [Not Secure] <ELPepsi> oe
-[01:38:53] [Server thread/INFO]: [Not Secure] <ELPepsi> toy durmiendo
-[01:39:00] [Server thread/INFO]: [Not Secure] <Diegojg> aguanta que creo la cama jsjsj
-[01:39:19] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa qlo XD
-[01:39:31] [Server thread/INFO]: [Not Secure] <Diegojg> ahora so
-[01:46:10] [Server thread/INFO]: Diegojg lost connection: Timed out
-[01:46:10] [Server thread/INFO]: Diegojg left the game
-[01:46:10] [Server thread/WARN]: handleDisconnection() called twice
-[01:51:45] [Server thread/INFO]: Diegojg[/127.130.250.174:48497] logged in with entity id 18870 at (-611.584776811962, 63.0, 54.90991668229956)
-[01:51:45] [Server thread/INFO]: Diegojg joined the game
-[01:55:26] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[01:55:26] [Server thread/INFO]: ELPepsi left the game
-[01:57:44] [Server thread/INFO]: Diegojg has made the advancement [Ice Bucket Challenge]
-[01:58:38] [Server thread/INFO]: [Not Secure] <Diegojg> noooooooooooo
-[02:11:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-392, y=64, z=226} jh{x=-391, y=62, z=226}
-[02:12:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-311, y=64, z=252} jh{x=-311, y=62, z=253}
-[02:16:06] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.5034350770418996
-[02:16:06] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.913641190529006
-[02:16:06] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 1.3224617528563272
-[02:16:06] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 1.72990441616696
-[02:16:06] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.135972561894391
-[02:16:07] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.540668283382388
-[02:16:07] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.943996675842868
-[02:16:07] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 3.3392640220034764
-[02:16:07] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 3.7465890382215434
-[02:16:07] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 4.145885096886161
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.3354758341283741
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.6547223898335233
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.9413513714490591
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 1.3204890450236917
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 1.4926942174771511
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 1.8076153601517717
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.1855505309863474
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.491791026336955
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 2.854076496258301
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 3.231017869808511
-[02:16:29] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 3.6064211196005544
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 3.990068043692702
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 4.379275844497215
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.3191141076603685
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.39624158333191417
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.4404352168110677
-[02:16:30] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.5142989475833701
-[02:16:32] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.3794005906996176
-[02:18:16] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.31496122163980544
-[02:18:16] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.4464387858594705
-[02:18:16] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.5187068058657758
-[02:18:16] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.5929603666720027
-[02:18:16] [Server thread/WARN]: Oak Boat (vehicle of Diegojg) moved wrongly! 0.6970710306208332
-[02:20:11] [Server thread/INFO]: [Not Secure] [Server] Diegojg will be banned by Human rights violation
-[02:27:07] [Server thread/INFO]: Diegojg has made the advancement [Monster Hunter]
-[02:35:13] [Server thread/INFO]: Diegojg has made the advancement [Acquire Hardware]
-[02:36:16] [Server thread/INFO]: Diegojg has made the advancement [Isn't It Iron Pick]
-[02:36:34] [Server thread/INFO]: Diegojg has made the advancement [Suit Up]
-[02:41:04] [Server thread/INFO]: Diegojg has made the advancement [Not Today, Thank You]
-[02:44:02] [Server thread/INFO]: Diegojg has made the advancement [Diamonds!]
-[03:14:18] [Server thread/INFO]: Diegojg lost connection: Disconnected
-[03:14:18] [Server thread/INFO]: Diegojg left the game
+[03:22:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:22:47] [ServerMain/INFO]: Loaded 1337 recipes
+[03:22:47] [ServerMain/INFO]: Loaded 1448 advancements
+[03:22:47] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:22:47] [Server thread/INFO]: Loading properties
+[03:22:47] [Server thread/INFO]: Default game type: SURVIVAL
+[03:22:47] [Server thread/INFO]: Generating keypair
+[03:22:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:22:48] [Server thread/INFO]: Using epoll channel type
+[03:22:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:22:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:22:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:22:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:22:48] [Server thread/INFO]: Preparing level "world"
+[03:22:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:52] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[03:22:52] [Server thread/INFO]: Time elapsed: 4296 ms
+[03:22:52] [Server thread/INFO]: Done (4.542s)! For help, type "help"
+[03:23:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:24:31] [Server thread/INFO]: ELPepsi[/127.77.125.14:59269] logged in with entity id 23 at (-113.51822256406888, 67.0, -27.32896411819892)
+[03:24:31] [Server thread/INFO]: ELPepsi joined the game
+[03:30:02] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[03:30:02] [Server thread/INFO]: ELPepsi left the game
+[03:30:02] [Server thread/WARN]: handleDisconnection() called twice
+[03:31:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
