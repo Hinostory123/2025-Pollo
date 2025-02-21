@@ -1052,5 +1052,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-21 17:12:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
