@@ -31,3 +31,5 @@
 [03:30:02] [Server thread/INFO]: ELPepsi left the game
 [03:30:02] [Server thread/WARN]: handleDisconnection() called twice
 [03:31:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:35:19] [Server thread/INFO]: ELPepsi[/127.246.227.213:47763] logged in with entity id 1363 at (-98.59381811674284, 80.0, -25.602955375747534)
+[03:35:19] [Server thread/INFO]: ELPepsi joined the game
