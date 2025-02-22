@@ -1,181 +1,29 @@
-[17:11:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:11:49] [ServerMain/INFO]: Loaded 1337 recipes
-[17:11:49] [ServerMain/INFO]: Loaded 1448 advancements
-[17:11:49] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:11:49] [Server thread/INFO]: Loading properties
-[17:11:49] [Server thread/INFO]: Default game type: SURVIVAL
-[17:11:49] [Server thread/INFO]: Generating keypair
-[17:11:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:11:49] [Server thread/INFO]: Using epoll channel type
-[17:11:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:11:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:11:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:11:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:11:49] [Server thread/INFO]: Preparing level "world"
-[17:11:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:53] [Server thread/INFO]: Time elapsed: 3921 ms
-[17:11:53] [Server thread/INFO]: Done (4.294s)! For help, type "help"
-[17:12:09] [Server thread/INFO]: ELPepsi[/127.246.227.213:43685] logged in with entity id 11 at (-1253.306155530837, 69.0, 1241.7861388437016)
-[17:12:09] [Server thread/INFO]: ELPepsi joined the game
-[17:16:30] [Server thread/INFO]: Le0[/127.181.217.6:52307] logged in with entity id 1349 at (-1308.4611820630998, 7.0, 1226.2820156115365)
-[17:16:30] [Server thread/INFO]: Le0 joined the game
-[17:16:42] [Server thread/INFO]: [Not Secure] <Le0> almohada
-[17:17:22] [Server thread/INFO]: [Not Secure] <ELPepsi> que sabi de deforestar
-[17:21:03] [Server thread/INFO]: [Not Secure] <ELPepsi> le voy a derrumbar esa casa qla a sopa
-[17:21:10] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDDDDDDDDDDDDD
-[17:25:55] [Server thread/INFO]: [Not Secure] <ELPepsi> vooo deciai que los zombis aparecian en el desierto
-[17:26:02] [Server thread/INFO]: [Not Secure] <Le0> ese era sopa
-[17:29:57] [Server thread/INFO]: [Not Secure] <ELPepsi> no si leo y su graaanja
-[17:30:38] [Server thread/INFO]: [Not Secure] <Le0> teni sus
-[17:32:14] [Server thread/INFO]: Le0 has made the advancement [Suit Up]
-[17:39:04] [Server thread/INFO]: [Not Secure] <ELPepsi> oeee spawneo el peruano en frente miiio
-[17:42:19] [Server thread/INFO]: [Not Secure] <Le0> jsjs taban matando al weon
-[17:42:36] [Server thread/INFO]: [Not Secure] <ELPepsi> entero weon
-[17:45:50] [Server thread/INFO]: [Not Secure] <Le0> guatermelon
-[17:48:48] [Server thread/INFO]: [Not Secure] <ELPepsi> noo
-[17:48:52] [Server thread/INFO]: [Not Secure] <ELPepsi> waterweon
-[17:49:08] [Server thread/INFO]: [Not Secure] <Le0> la fruta de soli
-[17:49:14] [Server thread/INFO]: [Not Secure] <ELPepsi> o si
-[17:49:17] [Server thread/INFO]: [Not Secure] <ELPepsi> march simpson
-[17:49:29] [Server thread/INFO]: [Not Secure] <Le0> sinso
-[17:49:37] [Server thread/INFO]: [Not Secure] <ELPepsi> mod hentai maincraf buscar
-[17:49:46] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDD
-[17:49:51] [Server thread/INFO]: [Not Secure] <Le0> lo q busca sopa
-[17:49:59] [Server thread/INFO]: [Not Secure] <ELPepsi> gamer girl
-[17:55:47] [Server thread/INFO]: [Not Secure] <ELPepsi> que sabi vo de la almo´s house
-[17:55:56] [Server thread/INFO]: [Not Secure] <Le0> almojaus
-[17:58:51] [Server thread/INFO]: Diegojg[/127.113.27.91:52427] logged in with entity id 11118 at (-1261.4314004661019, 68.0, 1230.9979941886365)
-[17:58:51] [Server thread/INFO]: Diegojg joined the game
-[17:58:55] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:59:12] [Server thread/INFO]: [Not Secure] <ELPepsi> noo el diego j
-[17:59:22] [Server thread/INFO]: [Not Secure] <Le0> sopa ta to jackeao
-[17:59:25] [Server thread/INFO]: [Not Secure] <Diegojg> oe fueron abajo?
-[17:59:47] [Server thread/INFO]: [Not Secure] <Le0> no xd
-[18:00:26] [Server thread/INFO]: [Not Secure] <Le0> me toca ir a almorzar weones
-[18:00:31] [Server thread/INFO]: Le0 lost connection: Disconnected
-[18:00:31] [Server thread/INFO]: Le0 left the game
-[18:00:35] [Server thread/INFO]: [Not Secure] <Diegojg> jasjasj
-[18:00:38] [Server thread/INFO]: [Not Secure] <ELPepsi> leo qlo de mierda
-[18:00:55] [Server thread/INFO]: [Not Secure] <ELPepsi> q wea hay abajo sopa
-[18:01:05] [Server thread/INFO]: [Not Secure] <Diegojg> nose wn
-[18:01:11] [Server thread/INFO]: [Not Secure] <Diegojg> pero esta como ese bosque qlo
-[18:03:49] [Server thread/INFO]: [Not Secure] <Diegojg> habia un respawn de esos zmibies de mrd
-[18:03:54] [Server thread/INFO]: [Not Secure] <ELPepsi> oe no lo rompai
-[18:03:57] [Server thread/INFO]: [Not Secure] <ELPepsi> pa hacer granja de zombies
-[18:04:00] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:04:03] [Server thread/INFO]: [Not Secure] <Diegojg> ya lo rompi
-[18:04:07] [Server thread/INFO]: [Not Secure] <Diegojg> la cague
-[18:04:10] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa culiao
-[18:04:20] [Server thread/INFO]: [Not Secure] <ELPepsi> con ese podemos dominar el mundo
-[18:06:25] [Server thread/INFO]: [Not Secure] <Diegojg> oe almona
-[18:06:27] [Server thread/INFO]: [Not Secure] <Diegojg> aontai
-[18:06:28] [Server thread/INFO]: [Not Secure] <ELPepsi> oe ke
-[18:06:30] [Server thread/INFO]: [Not Secure] <ELPepsi> en la casa
-[18:10:52] [Server thread/INFO]: [Not Secure] <Diegojg> oe ke wea
-[18:10:59] [Server thread/INFO]: [Not Secure] <ELPepsi> oe mi caaasa
-[18:11:00] [Server thread/INFO]: [Not Secure] <Diegojg> mea casa te vas a hacer qlo
-[18:11:07] [Server thread/INFO]: [Not Secure] <ELPepsi> sipo won
-[18:11:12] [Server thread/INFO]: [Not Secure] <Diegojg> y uo ahi con subsicio estatal
-[18:11:37] [Server thread/INFO]: [Not Secure] <ELPepsi> y leo encima de la callampa
-[18:11:46] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[18:15:36] [Server thread/INFO]: Le0[/127.181.217.6:40351] logged in with entity id 15240 at (-1283.4650358143579, 57.0, 1242.306057900123)
-[18:15:36] [Server thread/INFO]: Le0 joined the game
-[18:15:41] [Server thread/INFO]: [Not Secure] <Le0> volvi maricas
-[18:16:00] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa ta cagao de miedo con mi casa wong
-[18:16:10] [Server thread/INFO]: [Not Secure] <Le0> sopa se asusta de todo
-[18:16:43] [Server thread/INFO]: [Not Secure] <Diegojg> oe eso es mentira
-[18:16:45] [Server thread/INFO]: [Not Secure] <Diegojg> no me asusten
-[18:16:53] [Server thread/INFO]: [Not Secure] <Le0> jksjkskjsjs
-[18:18:55] [Server thread/INFO]: ELPepsi was impaled by Drowned
-[18:19:07] [Server thread/INFO]: [Not Secure] <Diegojg> xd
-[18:19:09] [Server thread/INFO]: [Not Secure] <Le0> q hiciste sopa
-[18:19:16] [Server thread/INFO]: [Not Secure] <ELPepsi> cocnchetumare estoy en las torres gemelas
-[18:19:34] [Server thread/INFO]: Teleported ELPepsi to Le0
-[18:19:39] [Server thread/INFO]: [Not Secure] <Le0> oe
-[18:19:42] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDD
-[18:19:43] [Server thread/INFO]: [Not Secure] <Diegojg> meo pike la wea
-[18:19:48] [Server thread/INFO]: [Not Secure] <Diegojg> meo piko
-[18:19:48] [Server thread/INFO]: [Not Secure] <ELPepsi> si si sopa
-[18:19:51] [Server thread/INFO]: [Not Secure] <Diegojg> yia
-[18:19:58] [Server thread/INFO]: [Not Secure] <ELPepsi> jejejew
-[18:21:17] [Server thread/INFO]: [Not Secure] <ELPepsi> tengo que hacer unas weas wones
-[18:21:21] [Server thread/INFO]: [Not Secure] <ELPepsi> asi q me voy a la mierda
-[18:21:26] [Server thread/INFO]: [Not Secure] <ELPepsi> vuelvo al rato
-[18:21:28] [Server thread/INFO]: [Not Secure] <ELPepsi> como en 3 horas
-[18:21:29] [Server thread/INFO]: [Not Secure] <ELPepsi> osi
-[18:21:29] [Server thread/INFO]: [Not Secure] <Le0> NOSI
-[18:21:31] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[18:21:31] [Server thread/INFO]: ELPepsi left the game
-[18:21:42] [Server thread/INFO]: [Not Secure] <Diegojg> paja de 3hrs
-[18:21:48] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:23:26] [Server thread/INFO]: [Not Secure] <Le0> oe duerme
-[18:23:36] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:23:40] [Server thread/INFO]: [Not Secure] <Diegojg> toy abajo
-[18:23:49] [Server thread/INFO]: [Not Secure] <Le0> voy a profanar tu cama sopa
-[18:23:59] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[18:25:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe won
-[18:25:24] [Server thread/INFO]: [Not Secure] <Diegojg> esta cueva qla tiene caleta de profundidad
-[18:25:31] [Server thread/INFO]: [Not Secure] <Diegojg> en vola llega hasta donde el wn verde
-[18:25:45] [Server thread/INFO]: [Not Secure] <Le0> pilla al maricon
-[18:26:11] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:26:16] [Server thread/INFO]: [Not Secure] <Diegojg> ese qlo me da miedo jasjasj
-[18:27:05] [Server thread/INFO]: [Not Secure] <Le0> oe pero pilla la wea y arrancai xdddd
-[18:31:50] [Server thread/INFO]: [Not Secure] <Diegojg> oe no hay ninguna mrd
-[18:32:19] [Server thread/INFO]: [Not Secure] <Diegojg> ma encima me perdi
-[18:32:30] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:32:34] [Server thread/INFO]: [Not Secure] <Le0> oe minerales
-[18:33:42] [Server thread/INFO]: [Not Secure] <Le0> oe anda al partiiiiio
-[18:33:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:34:02] [Server thread/INFO]: [Not Secure] <Diegojg> tengo cum despues
-[18:34:10] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDDDDDDDDDDDD
-[18:37:30] [Server thread/INFO]: [Not Secure] <Diegojg> oe pille la salia
-[18:37:32] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[18:38:15] [Server thread/INFO]: [Not Secure] <Le0> Oe no te veo xd
-[18:38:21] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:38:35] [Server thread/INFO]: [Not Secure] <Diegojg> xd
-[18:38:36] [Server thread/INFO]: [Not Secure] <Le0> oee
-[18:40:05] [Server thread/INFO]: [Not Secure] <Diegojg> dormimos?
-[18:40:09] [Server thread/INFO]: [Not Secure] <Le0> ui
-[18:40:12] [Server thread/INFO]: [Not Secure] <Le0> ya
-[18:40:37] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:40:44] [Server thread/INFO]: [Not Secure] <Diegojg> voy a ir a explorar
-[18:40:47] [Server thread/INFO]: [Not Secure] <Diegojg> tengo mapa
-[18:40:58] [Server thread/INFO]: [Not Secure] <Le0> jsjs dale wons
-[18:42:07] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:42:10] [Server thread/INFO]: [Not Secure] <Diegojg> hay una bruja
-[18:42:20] [Server thread/INFO]: [Not Secure] <Le0> ui
-[18:42:25] [Server thread/INFO]: [Not Secure] <Le0> vo dale sopa
-[18:42:27] [Server thread/INFO]: [Not Secure] <Le0> YIAH
-[18:43:00] [Server thread/INFO]: Diegojg was killed by Witch using magic
-[18:43:08] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:43:47] [Server thread/INFO]: [Not Secure] <Diegojg> ahi mate a la perra bastarda
-[18:43:53] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:43:58] [Server thread/INFO]: [Not Secure] <Diegojg> oe que chucha
-[18:44:03] [Server thread/INFO]: [Not Secure] <Diegojg> era terrible dura la wna
-[18:51:09] [Server thread/INFO]: [Not Secure] <Diegojg> oe dormir
-[18:51:44] [Server thread/INFO]: [Not Secure] <Diegojg> tuto
-[18:51:51] [Server thread/INFO]: [Not Secure] <Le0> oe toy sembrando
-[18:52:23] [Server thread/INFO]: [Not Secure] <Le0> oe
-[18:52:30] [Server thread/INFO]: [Not Secure] <Diegojg> oe ahora si
-[18:52:33] [Server thread/INFO]: [Not Secure] <Diegojg> denante no podia
-[18:52:36] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[18:52:40] [Server thread/INFO]: [Not Secure] <Diegojg> habian zombies
-[18:53:55] [Server thread/INFO]: [Not Secure] <Diegojg> oe esta caga no tiene mar
-[18:54:09] [Server thread/INFO]: [Not Secure] <Le0> corte bolivia o no
-[18:54:14] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[19:03:14] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[19:03:20] [Server thread/INFO]: [Not Secure] <Diegojg> tengo que salir ahora
-[19:03:24] [Server thread/INFO]: [Not Secure] <Le0> nosi
-[19:03:28] [Server thread/INFO]: [Not Secure] <Diegojg> despues en la tarde me conecto
-[19:03:31] [Server thread/INFO]: [Not Secure] <Diegojg> nose ontoi si
-[19:03:33] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsj
-[19:03:35] [Server thread/INFO]: Diegojg lost connection: Disconnected
-[19:03:35] [Server thread/INFO]: Diegojg left the game
+[03:20:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:20:58] [ServerMain/INFO]: Loaded 1337 recipes
+[03:20:58] [ServerMain/INFO]: Loaded 1448 advancements
+[03:20:58] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:20:58] [Server thread/INFO]: Loading properties
+[03:20:58] [Server thread/INFO]: Default game type: SURVIVAL
+[03:20:58] [Server thread/INFO]: Generating keypair
+[03:20:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:20:59] [Server thread/INFO]: Using epoll channel type
+[03:20:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:20:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:20:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:20:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:20:59] [Server thread/INFO]: Preparing level "world"
+[03:20:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[03:21:03] [Server thread/INFO]: Time elapsed: 4066 ms
+[03:21:03] [Server thread/INFO]: Done (4.320s)! For help, type "help"
+[03:22:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:27:52] [Server thread/INFO]: Le0[/127.181.217.6:56855] logged in with entity id 10 at (-1267.1498626830803, 87.0, 1244.5920635300658)
+[03:27:52] [Server thread/INFO]: Le0 joined the game
