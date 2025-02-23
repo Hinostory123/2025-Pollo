@@ -1,768 +1,621 @@
-[15:26:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:26:34] [ServerMain/INFO]: Loaded 1337 recipes
-[15:26:34] [ServerMain/INFO]: Loaded 1448 advancements
-[15:26:35] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[15:26:35] [Server thread/INFO]: Loading properties
-[15:26:35] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:35] [Server thread/INFO]: Generating keypair
-[15:26:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:35] [Server thread/INFO]: Using epoll channel type
-[15:26:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:26:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:26:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:26:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:26:35] [Server thread/INFO]: Preparing level "world"
-[15:26:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:39] [Server thread/INFO]: Time elapsed: 3252 ms
-[15:26:39] [Server thread/INFO]: Done (3.595s)! For help, type "help"
-[15:27:29] [Server thread/INFO]: ELPepsi[/127.246.227.213:40163] logged in with entity id 10 at (-1237.0379370438086, 69.0, 1241.3619312170063)
-[15:27:29] [Server thread/INFO]: ELPepsi joined the game
-[15:29:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:29:30] [Server thread/INFO]: <--[HERE]
-[15:34:01] [Server thread/INFO]: Diegojg[/127.93.160.204:37821] logged in with entity id 1818 at (-1215.5207459151004, 74.0, 1228.7772972786825)
-[15:34:01] [Server thread/INFO]: Diegojg joined the game
-[15:36:52] [Server thread/INFO]: [Not Secure] <ELPepsi> NO SI
-[15:49:35] [Server thread/INFO]: [Not Secure] <ELPepsi> XAO ME VOY POR CARBON
-[15:49:40] [Server thread/INFO]: [Not Secure] <ELPepsi> SOPA QLO ERI UN WEA
-[15:49:42] [Server thread/INFO]: [Not Secure] <Diegojg> JSJSJ DALE
-[15:50:02] [Server thread/INFO]: Summoned new Creeper
-[15:50:02] [Server thread/INFO]: Summoned new Creeper
-[15:50:03] [Server thread/INFO]: Summoned new Creeper
-[15:50:04] [Server thread/INFO]: Summoned new Creeper
-[15:50:04] [Server thread/INFO]: Summoned new Creeper
-[15:50:05] [Server thread/INFO]: Summoned new Creeper
-[15:50:05] [Server thread/INFO]: Summoned new Creeper
-[15:50:06] [Server thread/INFO]: Summoned new Creeper
-[15:50:06] [Server thread/INFO]: Summoned new Creeper
-[15:50:06] [Server thread/INFO]: Summoned new Creeper
-[15:50:07] [Server thread/INFO]: Summoned new Creeper
-[15:50:07] [Server thread/INFO]: Summoned new Creeper
-[15:50:08] [Server thread/INFO]: Summoned new Creeper
-[15:50:08] [Server thread/INFO]: Summoned new Creeper
-[15:50:09] [Server thread/INFO]: Summoned new Creeper
-[15:50:09] [Server thread/INFO]: Summoned new Creeper
-[16:00:27] [Server thread/INFO]: Le0[/127.181.217.6:51797] logged in with entity id 9927 at (-1263.5, 87.0625, 1244.5)
-[16:00:27] [Server thread/INFO]: Le0 joined the game
-[16:00:51] [Server thread/INFO]: [Not Secure] <Le0> oh no, hoy se culean al city...otra vez
-[16:01:02] [Server thread/INFO]: [Not Secure] <Le0> oe sopa
-[16:01:11] [Server thread/INFO]: [Not Secure] <Diegojg> dimelo
-[16:01:17] [Server thread/INFO]: [Not Secure] <Le0> quieren entrar a tu casa unos haitianos
-[16:01:30] [Server thread/INFO]: [Not Secure] <Diegojg> aqui estoy deportandolos
-[16:01:35] [Server thread/INFO]: [Not Secure] <Diegojg> a punta de espadazos
-[16:01:36] [Server thread/INFO]: [Not Secure] <Le0> jkskjskjskjskjs
-[16:02:00] [Server thread/INFO]: [Not Secure] <Le0> ola vecino sopa, puedo entrar a su humilde morada
-[16:02:11] [Server thread/INFO]: [Not Secure] <Diegojg> oe si
-[16:02:26] [Server thread/INFO]: [Not Secure] <Le0> gracias don sopa
-[16:02:39] [Server thread/INFO]: [Not Secure] <Le0> oe te falta una escalera
-[16:02:43] [Server thread/INFO]: [Not Secure] <Le0> simetria wons
-[16:02:52] [Server thread/INFO]: [Not Secure] <Le0> oe
-[16:03:04] [Server thread/INFO]: [Not Secure] <Le0> maraco de mierda
-[16:03:32] [Server thread/INFO]: [Not Secure] <ELPepsi> NO SI LEO
-[16:03:41] [Server thread/INFO]: [Not Secure] <Le0> sopa pone antorchas wons
-[16:03:57] [Server thread/INFO]: [Not Secure] <Diegojg> creeper de mrd
-[16:04:00] [Server thread/INFO]: [Not Secure] <Le0> sopa aun no descubre el fuego
-[16:04:35] [Server thread/INFO]: [Not Secure] <Diegojg> que wea ulloa
-[16:04:35] [Server thread/INFO]: [Not Secure] <Le0> miguelito de mierda
-[16:04:38] [Server thread/INFO]: [Not Secure] <Le0> XD
-[16:04:55] [Server thread/INFO]: [Not Secure] <ELPepsi> leo corre
-[16:05:58] [Server thread/INFO]: [Not Secure] <ELPepsi> agarrame las gonadas
-[16:06:05] [Server thread/INFO]: [Not Secure] <Le0> la geoda
-[16:06:09] [Server thread/INFO]: [Not Secure] <Le0> que pillo sopa ayer
-[16:06:27] [Server thread/INFO]: [Not Secure] <Diegojg> agarrame las geodas
-[16:06:39] [Server thread/INFO]: [Not Secure] <Le0> jjsjsjs
-[16:08:20] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[16:08:33] [Server thread/INFO]: [Not Secure] <Diegojg> leo vo plantai los creeper
-[16:08:40] [Server thread/INFO]: [Not Secure] <Le0> oe q wea, crecio la wea altiro
-[16:08:42] [Server thread/INFO]: [Not Secure] <Le0> jsjs si
-[16:08:58] [Server thread/INFO]: [Not Secure] <Diegojg> buena tierra po papito
-[16:09:03] [Server thread/INFO]: [Not Secure] <Diegojg> too abonao
-[16:09:11] [Server thread/INFO]: [Not Secure] <Le0> abono de veneco y haitiano
-[16:09:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe un flaco
-[16:10:05] [Server thread/INFO]: [Not Secure] <ELPepsi> ulloa?
-[16:10:16] [Server thread/INFO]: [Not Secure] <Diegojg> no
-[16:10:18] [Server thread/INFO]: [Not Secure] <Diegojg> es alto
-[16:10:47] [Server thread/INFO]: [Not Secure] <ELPepsi> noo alexis
-[16:12:44] [Server thread/INFO]: Diegojg has made the advancement [A Seedy Place]
-[16:13:01] [Server thread/INFO]: [Not Secure] <Le0> sopa teni arena
-[16:13:13] [Server thread/INFO]: [Not Secure] <Diegojg> si creo que si
-[16:13:30] [Server thread/INFO]: [Not Secure] <Diegojg> tengo 10
-[16:13:36] [Server thread/INFO]: [Not Secure] <Diegojg> y tengo 4 vidrios
-[16:13:40] [Server thread/INFO]: [Not Secure] <Diegojg> te los paso?
-[16:13:44] [Server thread/INFO]: [Not Secure] <Le0> pa sembrar esta wea
-[16:13:49] [Server thread/INFO]: [Not Secure] <Diegojg> aaah
-[16:13:51] [Server thread/INFO]: [Not Secure] <Le0> mierda
-[16:13:53] [Server thread/INFO]: [Not Secure] <Le0> XD
-[16:13:59] [Server thread/INFO]: [Not Secure] <Diegojg> nosi jasjas
-[16:14:08] [Server thread/INFO]: [Not Secure] <Le0> wena sopa wons
-[16:14:12] [Server thread/INFO]: Summoned new Creeper
-[16:14:12] [Server thread/INFO]: Summoned new Creeper
-[16:14:13] [Server thread/INFO]: Summoned new Creeper
-[16:14:13] [Server thread/INFO]: Summoned new Creeper
-[16:14:13] [Server thread/INFO]: Summoned new Creeper
-[16:14:13] [Server thread/INFO]: Summoned new Creeper
-[16:14:37] [Server thread/INFO]: [Not Secure] <Diegojg> oe pero esas weas no crecen igual en la tierra
-[16:15:10] [Server thread/INFO]: [Not Secure] <Le0> creo q no xd
-[16:20:48] [Server thread/INFO]: [Not Secure] <ELPepsi> oe voy a almorzar on
-[16:20:49] [Server thread/INFO]: [Not Secure] <ELPepsi> won
-[16:20:54] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[16:20:54] [Server thread/INFO]: ELPepsi left the game
-[16:20:54] [Server thread/INFO]: [Not Secure] <Le0> ya wons
-[16:21:01] [Server thread/INFO]: [Not Secure] <Le0> q wea hay truenos
-[16:21:06] [Server thread/INFO]: [Not Secure] <Le0> o creepers de mierda
-[16:21:19] [Server thread/INFO]: [Not Secure] <Diegojg> truenos wn
-[16:21:29] [Server thread/INFO]: [Not Secure] <Diegojg> yo puse un pararrayos almedio wn
-[16:21:34] [Server thread/INFO]: [Not Secure] <Diegojg> ojala funcione la mrd
-[16:22:33] [Server thread/INFO]: [Not Secure] <Le0> creepr de mierda
-[16:23:30] [Server thread/INFO]: [Not Secure] <Le0> oe duerme
-[16:23:36] [Server thread/INFO]: [Not Secure] <Diegojg> dale
-[16:27:27] [Server thread/INFO]: [Not Secure] <Diegojg> oe teni zanahoria
-[16:27:33] [Server thread/INFO]: [Not Secure] <Diegojg> o papa
-[16:27:45] [Server thread/INFO]: [Not Secure] <Le0> no wons, faltan de esa mierda
-[16:27:57] [Server thread/INFO]: [Not Secure] <Le0> puro trigo, calabaza y sandia
-[16:29:31] [Server thread/INFO]: [Not Secure] <Le0> sopa y el bambu
-[16:29:37] [Server thread/INFO]: [Not Secure] <Diegojg> ke wa
-[16:29:48] [Server thread/INFO]: [Not Secure] <Le0> vai atraer pandas wons
-[16:29:56] [Server thread/INFO]: [Not Secure] <Le0> el guerrero dragon
-[16:34:06] [Server thread/INFO]: Diegojg has made the advancement [The Parrots and the Bats]
-[16:34:25] [Server thread/INFO]: [Not Secure] <Le0> hiciste trio con las ovejas
-[16:34:36] [Server thread/INFO]: [Not Secure] <Diegojg> jsjsjs
-[16:36:14] [Server thread/INFO]: Le0 lost connection: Timed out
-[16:36:14] [Server thread/INFO]: Le0 left the game
-[16:36:14] [Server thread/WARN]: handleDisconnection() called twice
-[16:38:22] [Server thread/INFO]: Le0[/127.181.217.6:40155] logged in with entity id 19671 at (-1285.290109807678, 72.0, 1194.2540473494746)
-[16:38:22] [Server thread/INFO]: Le0 joined the game
-[16:42:28] [Server thread/INFO]: [Not Secure] <Diegojg> me falta una vaca qla
-[16:42:46] [Server thread/INFO]: [Not Secure] <Diegojg> la voy a buscar en el gimnasio
-[16:42:46] [Server thread/INFO]: [Not Secure] <Le0> parece que hay detras de mi casa jsjs
-[16:42:48] [Server thread/INFO]: [Not Secure] <Diegojg> yiaaa
-[16:42:56] [Server thread/INFO]: [Not Secure] <Le0> YIAAAH
-[16:46:02] [Server thread/INFO]: ELPepsi[/127.246.227.213:37889] logged in with entity id 22056 at (-1250.2688473432609, 69.0, 1290.3600242483224)
-[16:46:02] [Server thread/INFO]: ELPepsi joined the game
-[16:46:40] [Server thread/INFO]: [Not Secure] <ELPepsi> leo qlo q almuerza como a las 3
-[16:46:51] [Server thread/INFO]: [Not Secure] <Le0> osi
-[16:46:57] [Server thread/INFO]: [Not Secure] <ELPepsi> que mierda ese bambu
-[16:47:54] [Server thread/INFO]: [Not Secure] <Diegojg> oe leo
-[16:48:00] [Server thread/INFO]: [Not Secure] <Diegojg> me dai trigo
-[16:48:13] [Server thread/INFO]: [Not Secure] <Le0> aers
-[16:48:32] [Server thread/INFO]: [Not Secure] <Diegojg> jsjdsj
-[16:48:41] [Server thread/INFO]: [Not Secure] <ELPepsi> fUI YO BARRY
-[16:48:42] [Server thread/INFO]: [Not Secure] <Diegojg> qlo que tiene el trigo en la cuspide de la casa
-[16:48:52] [Server thread/INFO]: [Not Secure] <Diegojg> asjasjasj
-[16:48:53] [Server thread/INFO]: [Not Secure] <Le0> kjsjskjs
-[16:48:55] [Server thread/INFO]: [Not Secure] <Diegojg> gracias
-[16:49:01] [Server thread/INFO]: [Not Secure] <Le0> oe, es como el oro
-[16:49:02] [Server thread/INFO]: [Not Secure] <ELPepsi> YO TE MASTURBE A SUPER VELOCIDAD PARA QUE PARECIERA QUE EYACULASTE AL TOQUE DE UNA MUJERR
-[16:49:04] [Server thread/INFO]: [Not Secure] <Diegojg> oee
-[16:49:07] [Server thread/INFO]: [Not Secure] <Diegojg> pero semillas
-[16:49:10] [Server thread/INFO]: [Not Secure] <Le0> XD
-[16:49:20] [Server thread/INFO]: [Not Secure] <Diegojg> oooh leo
-[16:49:27] [Server thread/INFO]: [Not Secure] <Diegojg> wena
-[16:49:30] [Server thread/INFO]: [Not Secure] <Le0> oe dijiste trigo wons
-[16:49:49] [Server thread/INFO]: [Not Secure] <Le0> q wea almo XD
-[16:49:58] [Server thread/INFO]: [Not Secure] <Le0> como pedro por su casa YIAH
-[16:50:00] [Server thread/INFO]: Summoned new Creeper
-[16:50:05] [Server thread/INFO]: [Not Secure] <ELPepsi> sipo
-[16:50:15] [Server thread/INFO]: [Not Secure] <Diegojg> oeee
-[16:50:17] [Server thread/INFO]: [Not Secure] <ELPepsi> es que mi caga de casa
-[16:50:20] [Server thread/INFO]: [Not Secure] <Le0> Almo llegando a mi casa en la vida real ser como
-[16:50:20] [Server thread/INFO]: [Not Secure] <ELPepsi> necesita
-[16:50:22] [Server thread/INFO]: [Not Secure] <Diegojg> aparecio un creeper dentro de mi ksa
-[16:50:36] [Server thread/INFO]: [Not Secure] <ELPepsi> oe me falta carbona
-[16:50:39] [Server thread/INFO]: [Not Secure] <ELPepsi> nooo sopa
-[16:51:06] [Server thread/INFO]: [Not Secure] <ELPepsi> que wea tanta oveja
-[16:51:22] [Server thread/INFO]: [Not Secure] <Diegojg> oe voy a hacer un ejercito de esas weas
-[16:51:26] [Server thread/INFO]: [Not Secure] <ELPepsi> oe tutito
-[16:51:32] [Server thread/INFO]: [Not Secure] <ELPepsi> pa que vaya por carbon
-[16:51:41] [Server thread/INFO]: [Not Secure] <Diegojg> uy almona
-[16:51:47] [Server thread/INFO]: [Not Secure] <Diegojg> queri dormir conmigo
-[16:51:50] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa metete a la cama
-[16:51:50] [Server thread/INFO]: [Not Secure] <Le0> XDDD
-[16:51:53] [Server thread/INFO]: [Not Secure] <ELPepsi> hace frio wons
-[16:51:54] [Server thread/INFO]: [Not Secure] <Diegojg> jjsajads
-[16:52:03] [Server thread/INFO]: [Not Secure] <ELPepsi> no sopa
-[16:52:05] [Server thread/INFO]: [Not Secure] <ELPepsi> esa no es la palanca
-[16:53:51] [Server thread/INFO]: [Not Secure] <ELPepsi> oe pille un bunker qlo XDD
-[16:53:54] [Server thread/INFO]: [Not Secure] <ELPepsi> AAAAA
-[16:53:57] [Server thread/INFO]: [Not Secure] <ELPepsi> es la wea de las araña
-[16:54:08] [Server thread/INFO]: [Not Secure] <Le0> kjskjskjs hacele un camino hasta aca
-[16:54:12] [Server thread/INFO]: [Not Secure] <Le0> nose donde esta esa mierda
-[16:59:02] [Server thread/INFO]: [Not Secure] <Le0> sopa mira el arbol qlo
-[16:59:04] [Server thread/INFO]: [Not Secure] <Le0> q mierda
-[16:59:08] [Server thread/INFO]: [Not Secure] <Diegojg> oe jasasj
-[16:59:23] [Server thread/INFO]: [Not Secure] <Le0> kjskjsjs casi llega hasta arriba de mi casa XD
-[16:59:37] [Server thread/INFO]: [Not Secure] <Diegojg> como mi pixula
-[16:59:47] [Server thread/INFO]: [Not Secure] <Le0> ALTOOOOOO!!!!
-[17:00:54] [Server thread/INFO]: [Not Secure] <Diegojg> oe voy a ir a explorar wn
-[17:00:58] [Server thread/INFO]: [Not Secure] <Diegojg> pa buscar semillas
-[17:01:13] [Server thread/INFO]: [Not Secure] <Le0> Sopa pillate una papa
-[17:01:31] [Server thread/INFO]: [Not Secure] <Diegojg> yo esas weas las pillo en las aldeas nomas
-[17:01:38] [Server thread/INFO]: [Not Secure] <Diegojg> pero en una de esas pillo alguna wea
-[17:02:03] [Server thread/INFO]: [Not Secure] <Le0> sopa convida vacas
-[17:02:12] [Server thread/INFO]: [Not Secure] <Diegojg> oe dejalas par si po
-[17:02:19] [Server thread/INFO]: [Not Secure] <Diegojg> para que pueda reproducir las weas
-[17:02:20] [Server thread/INFO]: [Not Secure] <Le0> voy a dejar 3
-[17:02:23] [Server thread/INFO]: [Not Secure] <Diegojg> oe 4
-[17:02:28] [Server thread/INFO]: [Not Secure] <Le0> 5
-[17:02:33] [Server thread/INFO]: [Not Secure] <Diegojg> 6
-[17:02:37] [Server thread/INFO]: [Not Secure] <Le0> 7
-[17:02:39] [Server thread/INFO]: [Not Secure] <Diegojg> 8
-[17:02:43] [Server thread/INFO]: [Not Secure] <Le0> 9
-[17:02:48] [Server thread/INFO]: [Not Secure] <Diegojg> 10
-[17:02:54] [Server thread/INFO]: [Not Secure] <Le0> 10+1
-[17:02:55] [Server thread/INFO]: Summoned new Creeper
-[17:02:55] [Server thread/INFO]: Summoned new Creeper
-[17:02:56] [Server thread/INFO]: Summoned new Creeper
-[17:02:56] [Server thread/INFO]: Summoned new Creeper
-[17:02:57] [Server thread/INFO]: Summoned new Creeper
-[17:02:57] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj
-[17:02:57] [Server thread/INFO]: Summoned new Creeper
-[17:02:57] [Server thread/INFO]: Summoned new Creeper
-[17:02:57] [Server thread/INFO]: Summoned new Creeper
-[17:02:58] [Server thread/INFO]: Summoned new Creeper
-[17:02:58] [Server thread/INFO]: Summoned new Creeper
-[17:02:59] [Server thread/INFO]: Summoned new Creeper
-[17:02:59] [Server thread/INFO]: Summoned new Creeper
-[17:02:59] [Server thread/INFO]: Summoned new Creeper
-[17:03:00] [Server thread/INFO]: Summoned new Creeper
-[17:03:00] [Server thread/INFO]: Summoned new Creeper
-[17:03:00] [Server thread/INFO]: Summoned new Creeper
-[17:03:01] [Server thread/INFO]: Summoned new Creeper
-[17:03:01] [Server thread/INFO]: Summoned new Creeper
-[17:03:01] [Server thread/INFO]: Summoned new Creeper
-[17:03:02] [Server thread/INFO]: Summoned new Creeper
-[17:03:02] [Server thread/INFO]: Summoned new Creeper
-[17:03:08] [Server thread/INFO]: [Not Secure] <Diegojg> oe durmamos
-[17:03:11] [Server thread/INFO]: [Not Secure] <ELPepsi> yiaaaa yia
-[17:03:13] [Server thread/INFO]: [Not Secure] <ELPepsi> leooo
-[17:03:22] [Server thread/INFO]: [Not Secure] <Diegojg> yyaaa po
-[17:03:29] [Server thread/INFO]: [Not Secure] <Diegojg> oe estoy en la mita de la pampa qla
-[17:03:33] [Server thread/INFO]: [Not Secure] <Diegojg> ante que me maten
-[17:03:37] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[17:03:37] [Server thread/INFO]: ELPepsi left the game
-[17:03:39] [Server thread/INFO]: [Not Secure] <Le0> almo
-[17:03:41] [Server thread/INFO]: ELPepsi[/127.246.227.213:57199] logged in with entity id 29550 at (-789.0119468972141, 55.0, 410.30000001192093)
-[17:03:41] [Server thread/INFO]: ELPepsi joined the game
-[17:03:46] [Server thread/INFO]: [Not Secure] <Le0> XD
-[17:03:49] [Server thread/INFO]: [Not Secure] <Diegojg> jajsaj
-[17:03:55] [Server thread/INFO]: [Not Secure] <ELPepsi> tacticas
-[17:09:22] [Server thread/INFO]: [Not Secure] <ELPepsi> no si el geologo
-[17:09:29] [Server thread/INFO]: [Not Secure] <ELPepsi> se perdió cuando salio a terreno
-[17:09:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe no me perdi
-[17:10:02] [Server thread/INFO]: [Not Secure] <Diegojg> la profe me solto la manito
-[17:10:58] [Server thread/INFO]: [Not Secure] <ELPepsi> la anciana qla más putrefacta
-[17:11:12] [Server thread/INFO]: [Not Secure] <Le0> xd
-[17:11:42] [Server thread/INFO]: [Not Secure] <Diegojg> oe n
-[17:11:51] [Server thread/INFO]: [Not Secure] <Diegojg> no hay ninguna caga de aldea
-[17:14:09] [Server thread/INFO]: [Not Secure] <Diegojg> oe dormir
-[17:14:34] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:15:01] [Server thread/INFO]: [Not Secure] <Le0> oe
-[17:15:17] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[17:15:17] [Server thread/INFO]: ELPepsi left the game
-[17:15:22] [Server thread/INFO]: ELPepsi[/127.246.227.213:40189] logged in with entity id 41462 at (-487.516533549637, 98.0, -1047.98511674647)
-[17:15:22] [Server thread/INFO]: ELPepsi joined the game
-[17:15:22] [Server thread/INFO]: [Not Secure] <Le0> NOSI
-[17:15:26] [Server thread/INFO]: [Not Secure] <ELPepsi> tactics
-[17:18:06] [Server thread/INFO]: [Not Secure] <ELPepsi> habra que volver
-[17:20:58] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:21:02] [Server thread/INFO]: [Not Secure] <Diegojg> encontre una aldea qla
-[17:21:17] [Server thread/INFO]: [Not Secure] <Diegojg> hasta nosotros tnemos mas semillas que esos qlos
-[17:21:20] [Server thread/INFO]: [Not Secure] <Diegojg> qlos re pobres
-[17:21:24] [Server thread/INFO]: [Not Secure] <Le0> XD
-[17:21:25] [Server thread/INFO]: [Not Secure] <Diegojg> no tenian ninguna wea
-[17:21:29] [Server thread/INFO]: [Not Secure] <ELPepsi> venezuelaaa
-[17:21:36] [Server thread/INFO]: [Not Secure] <Le0> papa o zanahoria
-[17:21:44] [Server thread/INFO]: [Not Secure] <Diegojg> ninguna wn
-[17:21:50] [Server thread/INFO]: [Not Secure] <Diegojg> tienen puro trigo
-[17:22:10] [Server thread/INFO]: [Not Secure] <Diegojg> y en sus baules puro papel y pan
-[17:23:08] [Server thread/INFO]: Le0 has made the advancement [The Parrots and the Bats]
-[17:23:20] [Server thread/INFO]: [Not Secure] <Le0> hicieron el amor
-[17:25:26] [Server thread/INFO]: [Not Secure] <Le0> almohada no conoce las puertas
-[17:25:42] [Server thread/INFO]: [Not Secure] <ELPepsi> nao nao
-[17:25:51] [Server thread/INFO]: Summoned new Creeper
-[17:25:51] [Server thread/INFO]: Summoned new Creeper
-[17:25:51] [Server thread/INFO]: Summoned new Creeper
-[17:25:52] [Server thread/INFO]: Summoned new Creeper
-[17:25:52] [Server thread/INFO]: Summoned new Creeper
-[17:25:52] [Server thread/INFO]: Summoned new Creeper
-[17:25:53] [Server thread/INFO]: Summoned new Creeper
-[17:25:53] [Server thread/INFO]: Summoned new Creeper
-[17:26:07] [Server thread/INFO]: [Not Secure] <Diegojg> oe dormir
-[17:26:35] [Server thread/INFO]: [Not Secure] <Diegojg> oe dormir
-[17:26:36] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[17:26:36] [Server thread/INFO]: ELPepsi left the game
-[17:26:36] [Server thread/INFO]: [Not Secure] <Diegojg> sajsaj
-[17:26:40] [Server thread/INFO]: ELPepsi[/127.246.227.213:33347] logged in with entity id 52017 at (-1147.8610429471319, 70.0, 264.8008146226459)
-[17:26:40] [Server thread/INFO]: ELPepsi joined the game
-[17:26:45] [Server thread/INFO]: [Not Secure] <Diegojg> jasjasjas almona qlo
-[17:26:56] [Server thread/INFO]: [Not Secure] <ELPepsi> oe es que no traje cama
-[17:39:06] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:39:12] [Server thread/INFO]: [Not Secure] <Diegojg> procedimiento de sueño
-[17:40:03] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:40:07] [Server thread/INFO]: [Not Secure] <Diegojg> dormir
-[17:40:11] [Server thread/INFO]: [Not Secure] <Diegojg> almona
-[17:40:14] [Server thread/INFO]: [Not Secure] <Diegojg> haz tu trukito
-[17:40:21] [Server thread/INFO]: [Not Secure] <Le0> los almonacines se devaluan cada segundo
-[17:40:46] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[17:41:01] [Server thread/INFO]: [Not Secure] <Diegojg> cada almosegundo cuenta
-[17:41:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe almo haz tu almotruco
-[17:41:39] [Server thread/INFO]: [Not Secure] <Le0> ese wons ta peleando con el diavlo
-[17:42:31] [Server thread/INFO]: [Not Secure] <Le0> almohada esta en su casa y no se mueve el klo
-[17:43:01] [Server thread/INFO]: Villager cpj['Villager'/58776, l='ServerLevel[world]', x=-1417.39, y=71.00, z=539.30] died, message: 'Villager was slain by Zombie'
-[17:45:49] [Server thread/INFO]: [Not Secure] <Diegojg> leo
-[17:45:53] [Server thread/INFO]: [Not Secure] <Diegojg> mi princesa
-[17:45:57] [Server thread/INFO]: [Not Secure] <Diegojg> te vine a buscar
-[17:46:03] [Server thread/INFO]: [Not Secure] <Le0> XD
-[17:46:06] [Server thread/INFO]: [Not Secure] <Diegojg> oooh leo
-[17:46:09] [Server thread/INFO]: [Not Secure] <ELPepsi> qye nrd
-[17:46:10] [Server thread/INFO]: [Not Secure] <Le0> Mira arriba
-[17:46:16] [Server thread/INFO]: [Not Secure] <Diegojg> si si
-[17:46:25] [Server thread/INFO]: [Not Secure] <Le0> nosi almo
-[17:46:35] [Server thread/WARN]: Horse (vehicle of Diegojg) moved wrongly! 0.3105526524175275
-[17:46:35] [Server thread/INFO]: [Not Secure] <Le0> y ese caballo qlos jksjks
-[17:46:41] [Server thread/INFO]: [Not Secure] <Le0> se lo robaste a los aldeanos?
-[17:46:51] [Server thread/INFO]: [Not Secure] <Le0> almo qlo jksjks
-[17:47:00] [Server thread/INFO]: [Not Secure] <ELPepsi> q guea
-[17:47:10] [Server thread/INFO]: [Not Secure] <Le0> pq eri tan rexuxa a
-[17:47:24] [Server thread/INFO]: [Not Secure] <Le0> puro ensuciando
-[17:47:31] [Server thread/INFO]: [Not Secure] <Le0> pillaste papa sopa
-[17:47:32] [Server thread/INFO]: [Not Secure] <ELPepsi> oe eran los zombi
-[17:48:04] [Server thread/INFO]: [Not Secure] <Diegojg> si won
-[17:48:57] [Server thread/INFO]: [Not Secure] <Le0> y ese cuadro sopa
-[17:49:05] [Server thread/INFO]: [Not Secure] <Le0> de van cock o como era la wea
-[17:49:09] [Server thread/INFO]: [Not Secure] <Diegojg> oe mio
-[17:49:19] [Server thread/INFO]: [Not Secure] <Le0> sopa van cock
-[17:49:54] [Server thread/INFO]: [Not Secure] <Le0> oe
-[17:49:57] [Server thread/INFO]: [Not Secure] <Le0> potato
-[17:50:05] [Server thread/INFO]: [Not Secure] <Diegojg> oe las plante
-[17:50:09] [Server thread/INFO]: [Not Secure] <Diegojg> si eran 8 nomas
-[17:50:17] [Server thread/INFO]: [Not Secure] <Diegojg> oee
-[17:50:20] [Server thread/INFO]: [Not Secure] <Diegojg> jjsaj
-[17:50:38] [Server thread/INFO]: [Not Secure] <Le0> dame una papa wons
-[17:50:53] [Server thread/INFO]: [Not Secure] <Diegojg> oe saca noma
-[17:55:15] [Server thread/INFO]: [Not Secure] <Diegojg> oe csm
-[17:55:25] [Server thread/INFO]: [Not Secure] <Diegojg> porque cambiaron de lugar a mis vacas csm
-[17:55:35] [Server thread/INFO]: [Not Secure] <Diegojg> oe dejen ordenao
-[17:55:54] [Server thread/INFO]: [Not Secure] <Le0> oe si taban ahi
-[17:55:58] [Server thread/INFO]: [Not Secure] <Le0> hay un weon
-[17:56:00] [Server thread/INFO]: [Not Secure] <Diegojg> oe na que ver
-[17:56:07] [Server thread/INFO]: [Not Secure] <Diegojg> oe dejalo
-[17:56:12] [Server thread/INFO]: [Not Secure] <Diegojg> ese qlo es muy fuerte
-[17:56:15] [Server thread/INFO]: [Not Secure] <ELPepsi> leo dejó abierta la tranca
-[17:56:21] [Server thread/INFO]: [Not Secure] <Le0> XD
-[17:59:05] [Server thread/INFO]: [Not Secure] <Diegojg> oe que andai robando
-[17:59:11] [Server thread/INFO]: [Not Secure] <ELPepsi> arcilla
-[17:59:15] [Server thread/INFO]: [Not Secure] <Diegojg> almonaci ada puro robando
-[17:59:28] [Server thread/INFO]: [Not Secure] <Diegojg> y despues le echan la culpa a los veneocs
-[18:09:12] [Server thread/INFO]: [Not Secure] <Le0> sopa teni lana
-[18:09:25] [Server thread/INFO]: [Not Secure] <Diegojg> no wn
-[18:09:33] [Server thread/INFO]: [Not Secure] <Diegojg> la bote toda la wea
-[18:09:40] [Server thread/INFO]: [Not Secure] <Le0> oeee
-[18:09:42] [Server thread/INFO]: [Not Secure] <Diegojg> oe pero cortasela a mis ovejas ps wn
-[18:09:51] [Server thread/INFO]: [Not Secure] <Le0> voy a pelar tus ovejas
-[18:10:31] [Server thread/INFO]: [Not Secure] <Le0> oe el enderman te esta robando la tierra
-[18:10:40] [Server thread/INFO]: [Not Secure] <Diegojg> cago
-[18:14:24] [Server thread/INFO]: [Not Secure] <Le0> almo andai sacando vacunos maricong
-[18:14:44] [Server thread/INFO]: [Not Secure] <ELPepsi> no robo weas con parasito
-[18:14:54] [Server thread/INFO]: [Not Secure] <Le0> jksjkjs con tenias
-[18:15:14] [Server thread/INFO]: [Not Secure] <ELPepsi> osi
-[18:17:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1189, y=70, z=1173} jh{x=-1190, y=68, z=1173}
-[18:20:24] [Server thread/INFO]: [Not Secure] <ELPepsi> oe asi no crecen estas wea de sandia po
-[18:20:38] [Server thread/INFO]: Summoned new Creeper
-[18:20:38] [Server thread/INFO]: [Not Secure] <Diegojg> y como crecen las weas tonces
-[18:20:39] [Server thread/INFO]: Summoned new Creeper
-[18:20:39] [Server thread/INFO]: Summoned new Creeper
-[18:20:40] [Server thread/INFO]: Summoned new Creeper
-[18:20:40] [Server thread/INFO]: Summoned new Creeper
-[18:20:41] [Server thread/INFO]: Summoned new Creeper
-[18:20:41] [Server thread/INFO]: Summoned new Creeper
-[18:20:42] [Server thread/INFO]: Summoned new Creeper
-[18:20:42] [Server thread/INFO]: Summoned new Creeper
-[18:20:42] [Server thread/INFO]: Summoned new Creeper
-[18:20:43] [Server thread/INFO]: Summoned new Creeper
-[18:20:43] [Server thread/INFO]: Summoned new Creeper
-[18:20:43] [Server thread/INFO]: [Not Secure] <Le0> guatermelon
-[18:20:44] [Server thread/INFO]: Summoned new Creeper
-[18:20:50] [Server thread/INFO]: [Not Secure] <ELPepsi> teni que poner
-[18:20:54] [Server thread/INFO]: [Not Secure] <ELPepsi> mas al medio
-[18:21:13] [Server thread/INFO]: [Not Secure] <ELPepsi> es que las weas crecen pal lao que quieren
-[18:21:23] [Server thread/INFO]: [Not Secure] <Le0> sopa anda abajo de mi casa
-[18:21:28] [Server thread/INFO]: [Not Secure] <Le0> almo igual
-[18:21:30] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:21:32] [Server thread/INFO]: [Not Secure] <Le0> con arco y flecha XD
-[18:21:33] [Server thread/INFO]: [Not Secure] <Diegojg> trio?
-[18:21:40] [Server thread/INFO]: [Not Secure] <ELPepsi> oe tengo flecha
-[18:21:50] [Server thread/INFO]: [Not Secure] <ELPepsi> eiiii que mierda
-[18:22:08] [Server thread/INFO]: [Not Secure] <ELPepsi> yo los distraigo wons
-[18:22:22] [Server thread/INFO]: [Not Secure] <Diegojg> xd
-[18:22:23] [Server thread/INFO]: [Not Secure] <Le0> no tengo mas flechas
-[18:22:28] [Server thread/INFO]: [Not Secure] <ELPepsi> oe toma
-[18:22:33] [Server thread/INFO]: [Not Secure] <Le0> oe no po sopa maricon XD
-[18:22:43] [Server thread/INFO]: [Not Secure] <Diegojg> oe calmao
-[18:22:50] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDDDDDDDDD
-[18:22:51] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa qloo
-[18:23:09] [Server thread/INFO]: [Not Secure] <Le0> q tai haciendo XD
-[18:23:18] [Server thread/INFO]: [Not Secure] <Diegojg> pa que no salgan las cagas
-[18:23:18] [Server thread/INFO]: [Not Secure] <ELPepsi> la vaca
-[18:23:34] [Server thread/INFO]: [Not Secure] <ELPepsi> volvio sola a
-[18:23:36] [Server thread/INFO]: [Not Secure] <ELPepsi> lasdjaksd
-[18:26:21] [Server thread/INFO]: [Not Secure] <Le0> oe y este arbol maricon
-[18:26:28] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa piuso esa wea naranja
-[18:26:38] [Server thread/INFO]: [Not Secure] <Diegojg> oe dejalo piola
-[18:26:43] [Server thread/INFO]: [Not Secure] <Diegojg> oeeee
-[18:26:50] [Server thread/INFO]: [Not Secure] <Diegojg> pq lo sacaste
-[18:27:19] [Server thread/INFO]: [Not Secure] <Le0> almo qloa XD
-[18:27:20] [Server thread/INFO]: Summoned new Creeper
-[18:27:21] [Server thread/INFO]: Summoned new Creeper
-[18:27:29] [Server thread/INFO]: [Not Secure] <ELPepsi> oe
-[18:27:32] [Server thread/INFO]: [Not Secure] <ELPepsi> almorzar aki
-[18:27:38] [Server thread/INFO]: [Not Secure] <Le0> oe si
-[18:27:44] [Server thread/INFO]: [Not Secure] <ELPepsi> pa onde vai sopa
-[18:27:49] [Server thread/INFO]: [Not Secure] <ELPepsi> es zona de construcción esa wea
-[18:27:59] [Server thread/INFO]: [Not Secure] <ELPepsi> te va a caer un palo en la cabeza won
-[18:28:03] [Server thread/INFO]: Summoned new Creeper
-[18:28:03] [Server thread/INFO]: Summoned new Creeper
-[18:28:04] [Server thread/INFO]: Summoned new Creeper
-[18:28:04] [Server thread/INFO]: Summoned new Creeper
-[18:28:04] [Server thread/INFO]: Summoned new Creeper
-[18:28:04] [Server thread/INFO]: [Not Secure] <Diegojg> ke wea tu casa almonaci
-[18:28:05] [Server thread/INFO]: Summoned new Creeper
-[18:28:06] [Server thread/INFO]: Summoned new Creeper
-[18:28:06] [Server thread/INFO]: Summoned new Creeper
-[18:28:07] [Server thread/INFO]: Summoned new Creeper
-[18:28:14] [Server thread/INFO]: [Not Secure] <ELPepsi> oe que tieeeene
-[18:28:19] [Server thread/INFO]: [Not Secure] <Diegojg> tremenda wea
-[18:28:22] [Server thread/INFO]: [Not Secure] <ELPepsi> sipo
-[18:28:26] [Server thread/INFO]: [Not Secure] <Diegojg> me hace ver pobre
-[18:28:27] [Server thread/INFO]: [Not Secure] <ELPepsi> asi tiene q ser
-[18:28:44] [Server thread/INFO]: [Not Secure] <Le0> q mrd
-[18:28:48] [Server thread/INFO]: [Not Secure] <ELPepsi> q ewa
-[18:28:51] [Server thread/INFO]: [Not Secure] <Diegojg> csm
-[18:28:54] [Server thread/INFO]: [Not Secure] <Le0> q wea la casa de sopa
-[18:28:54] [Server thread/INFO]: [Not Secure] <Diegojg> mi casa
-[18:29:08] [Server thread/INFO]: [Not Secure] <Le0> inmiigrantes de mrd
-[18:29:13] [Server thread/INFO]: [Not Secure] <ELPepsi> q mierda estan hasta adentro won
-[18:29:31] [Server thread/INFO]: [Not Secure] <Diegojg> oe ese qlo exploto solo
-[18:30:47] [Server thread/INFO]: [Not Secure] <ELPepsi> oe se habia ahogao las oveja
-[18:30:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:30:52] [Server thread/INFO]: |/summon creeper -1256 69 1297<--[HERE]
-[18:30:52] [Server thread/INFO]: Summoned new Creeper
-[18:30:52] [Server thread/INFO]: Summoned new Creeper
-[18:30:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:30:53] [Server thread/INFO]: vv<--[HERE]
-[18:30:54] [Server thread/INFO]: Summoned new Creeper
-[18:30:55] [Server thread/INFO]: Summoned new Creeper
-[18:30:55] [Server thread/INFO]: Summoned new Creeper
-[18:30:56] [Server thread/INFO]: Summoned new Creeper
-[18:30:56] [Server thread/INFO]: Summoned new Creeper
-[18:30:57] [Server thread/INFO]: Summoned new Creeper
-[18:30:57] [Server thread/INFO]: Summoned new Creeper
-[18:30:57] [Server thread/INFO]: Summoned new Creeper
-[18:30:58] [Server thread/INFO]: Summoned new Creeper
-[18:30:58] [Server thread/INFO]: Summoned new Creeper
-[18:30:59] [Server thread/INFO]: Summoned new Creeper
-[18:30:59] [Server thread/INFO]: Summoned new Creeper
-[18:31:00] [Server thread/INFO]: Summoned new Creeper
-[18:31:00] [Server thread/INFO]: Summoned new Creeper
-[18:31:00] [Server thread/INFO]: Summoned new Creeper
-[18:31:01] [Server thread/INFO]: Summoned new Creeper
-[18:31:01] [Server thread/INFO]: Summoned new Creeper
-[18:31:02] [Server thread/INFO]: Summoned new Creeper
-[18:31:03] [Server thread/INFO]: Summoned new Creeper
-[18:31:03] [Server thread/INFO]: Summoned new Creeper
-[18:31:04] [Server thread/INFO]: Summoned new Creeper
-[18:31:04] [Server thread/INFO]: Summoned new Creeper
-[18:31:05] [Server thread/INFO]: Summoned new Creeper
-[18:31:05] [Server thread/INFO]: Summoned new Creeper
-[18:31:05] [Server thread/INFO]: Summoned new Creeper
-[18:31:06] [Server thread/INFO]: Summoned new Creeper
-[18:31:20] [Server thread/INFO]: [Not Secure] <Diegojg> oe no se de donde salen esas mrds
-[18:31:35] [Server thread/INFO]: [Not Secure] <Le0> en el minimo pixel de oscuridad
-[18:31:38] [Server thread/INFO]: [Not Secure] <ELPepsi> no se wong
-[18:31:43] [Server thread/INFO]: [Not Secure] <ELPepsi> capaz lo cambiaron ya
-[18:31:50] [Server thread/INFO]: [Not Secure] <ELPepsi> aparecen cuando hay prosperidad
-[18:31:51] [Server thread/INFO]: [Not Secure] <Diegojg> presiento que es culpa de almona
-[18:32:05] [Server thread/INFO]: [Not Secure] <ELPepsi> no si todo almona
-[18:32:33] [Server thread/INFO]: [Not Secure] <ELPepsi> oeee
-[18:32:37] [Server thread/INFO]: [Not Secure] <ELPepsi> ataan mi caaaaasa
-[18:32:46] [Server thread/INFO]: Summoned new Creeper
-[18:32:46] [Server thread/INFO]: Summoned new Creeper
-[18:32:47] [Server thread/INFO]: Summoned new Creeper
-[18:32:47] [Server thread/INFO]: Summoned new Creeper
-[18:32:48] [Server thread/INFO]: Summoned new Creeper
-[18:32:48] [Server thread/INFO]: Summoned new Creeper
-[18:32:48] [Server thread/INFO]: Summoned new Creeper
-[18:32:49] [Server thread/INFO]: Summoned new Creeper
-[18:32:49] [Server thread/INFO]: Summoned new Creeper
-[18:32:50] [Server thread/INFO]: Summoned new Creeper
-[18:32:50] [Server thread/INFO]: Summoned new Creeper
-[18:32:50] [Server thread/INFO]: Summoned new Creeper
-[18:32:51] [Server thread/INFO]: Summoned new Creeper
-[18:32:51] [Server thread/INFO]: Summoned new Creeper
-[18:32:51] [Server thread/INFO]: Summoned new Creeper
-[18:32:51] [Server thread/INFO]: Summoned new Creeper
-[18:32:52] [Server thread/INFO]: Summoned new Creeper
-[18:32:52] [Server thread/INFO]: Summoned new Creeper
-[18:33:00] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDD
-[18:33:05] [Server thread/INFO]: [Not Secure] <Le0> se turnan los wnes
-[18:33:07] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa qlo que pusiste
-[18:33:14] [Server thread/INFO]: [Not Secure] <Le0> quien tiene lava
-[18:33:15] [Server thread/INFO]: [Not Secure] <Le0> XD
-[18:33:19] [Server thread/INFO]: [Not Secure] <Diegojg> que wea
-[18:33:28] [Server thread/INFO]: [Not Secure] <Diegojg> que wea almona
-[18:33:33] [Server thread/INFO]: [Not Secure] <Diegojg> que puse de que
-[18:33:41] [Server thread/INFO]: [Not Secure] <ELPepsi> mira mi casa
-[18:33:58] [Server thread/INFO]: [Not Secure] <Diegojg> xd jasjas
-[18:34:11] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj nose que mrd
-[18:34:14] [Server thread/INFO]: Le0 has made the advancement [The Cutest Predator]
-[18:34:19] [Server thread/INFO]: [Not Secure] <Diegojg> jjsaj
-[18:34:53] [Server thread/INFO]: Le0 has made the advancement [Hot Stuff]
-[18:36:40] [Server thread/INFO]: [Not Secure] <Le0> murieron
-[18:36:43] [Server thread/INFO]: [Not Secure] <ELPepsi> si won
-[18:36:44] [Server thread/INFO]: [Not Secure] <ELPepsi> los mate
-[18:36:52] [Server thread/INFO]: [Not Secure] <Le0> cualquier wa le tiro lava a los wnes
-[18:37:04] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj
-[18:37:11] [Server thread/INFO]: [Not Secure] <Diegojg> vai a quemar toda la wea
-[18:37:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:37:16] [Server thread/INFO]: v/summon creeper -1247 71 1200<--[HERE]
-[18:37:17] [Server thread/INFO]: Summoned new Creeper
-[18:37:17] [Server thread/INFO]: Summoned new Creeper
-[18:37:18] [Server thread/INFO]: Summoned new Creeper
-[18:37:18] [Server thread/INFO]: Summoned new Creeper
-[18:37:19] [Server thread/INFO]: Summoned new Creeper
-[18:37:19] [Server thread/INFO]: Summoned new Creeper
-[18:37:20] [Server thread/INFO]: Summoned new Creeper
-[18:37:20] [Server thread/INFO]: Summoned new Creeper
-[18:37:21] [Server thread/INFO]: Summoned new Creeper
-[18:37:21] [Server thread/INFO]: Summoned new Creeper
-[18:37:22] [Server thread/INFO]: Summoned new Creeper
-[18:37:22] [Server thread/INFO]: Summoned new Creeper
-[18:37:22] [Server thread/INFO]: Summoned new Creeper
-[18:37:23] [Server thread/INFO]: [Not Secure] <Le0> oe, la wea de almo no arde
-[18:37:23] [Server thread/INFO]: Summoned new Creeper
-[18:37:23] [Server thread/INFO]: Summoned new Creeper
-[18:37:24] [Server thread/INFO]: Summoned new Creeper
-[18:37:24] [Server thread/INFO]: Summoned new Creeper
-[18:37:25] [Server thread/INFO]: Summoned new Creeper
-[18:37:25] [Server thread/INFO]: Summoned new Creeper
-[18:37:25] [Server thread/INFO]: Summoned new Creeper
-[18:37:26] [Server thread/INFO]: Summoned new Creeper
-[18:37:26] [Server thread/INFO]: Summoned new Creeper
-[18:37:27] [Server thread/INFO]: Summoned new Creeper
-[18:37:27] [Server thread/INFO]: Summoned new Creeper
-[18:37:27] [Server thread/INFO]: Summoned new Creeper
-[18:37:28] [Server thread/INFO]: Summoned new Creeper
-[18:37:28] [Server thread/INFO]: Summoned new Creeper
-[18:37:29] [Server thread/INFO]: Summoned new Creeper
-[18:37:29] [Server thread/INFO]: Summoned new Creeper
-[18:37:29] [Server thread/INFO]: Summoned new Creeper
-[18:37:29] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:30] [Server thread/INFO]: Summoned new Creeper
-[18:37:31] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:37:31] [Server thread/INFO]: ...47 71 1200/summon creeper -1247 71 1200<--[HERE]
-[18:37:31] [Server thread/INFO]: Summoned new Creeper
-[18:37:32] [Server thread/INFO]: Summoned new Creeper
-[18:37:32] [Server thread/INFO]: Summoned new Creeper
-[18:37:32] [Server thread/INFO]: Summoned new Creeper
-[18:37:33] [Server thread/INFO]: Summoned new Creeper
-[18:37:33] [Server thread/INFO]: Summoned new Creeper
-[18:37:33] [Server thread/INFO]: Summoned new Creeper
-[18:37:33] [Server thread/INFO]: Summoned new Creeper
-[18:37:34] [Server thread/INFO]: Summoned new Creeper
-[18:37:34] [Server thread/INFO]: Summoned new Creeper
-[18:37:34] [Server thread/INFO]: Summoned new Creeper
-[18:37:34] [Server thread/INFO]: Summoned new Creeper
-[18:37:35] [Server thread/INFO]: Summoned new Creeper
-[18:37:35] [Server thread/INFO]: Summoned new Creeper
-[18:37:35] [Server thread/INFO]: Summoned new Creeper
-[18:37:35] [Server thread/INFO]: Summoned new Creeper
-[18:37:36] [Server thread/INFO]: Summoned new Creeper
-[18:37:36] [Server thread/INFO]: Summoned new Creeper
-[18:37:36] [Server thread/INFO]: Summoned new Creeper
-[18:37:36] [Server thread/INFO]: Summoned new Creeper
-[18:37:37] [Server thread/INFO]: Summoned new Creeper
-[18:37:43] [Server thread/INFO]: [Not Secure] <Le0> mira wons
-[18:37:46] [Server thread/INFO]: [Not Secure] <Le0> en el bosque
-[18:37:54] [Server thread/INFO]: [Not Secure] <Le0> respawnean hartos a la vez
-[18:37:59] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa sale de ahi won
-[18:38:01] [Server thread/INFO]: [Not Secure] <Le0> como flaites qlos en una esquina
-[18:38:07] [Server thread/INFO]: [Not Secure] <ELPepsi> los wnes que llevo el adonis a jugar
-[18:38:13] [Server thread/INFO]: [Not Secure] <Diegojg> wn
-[18:38:18] [Server thread/INFO]: [Not Secure] <Diegojg> ta lleno alla
-[18:38:23] [Server thread/INFO]: [Not Secure] <ELPepsi> leo tira lava
-[18:38:28] [Server thread/INFO]: [Not Secure] <Diegojg> mira wn
-[18:38:29] [Server thread/INFO]: [Not Secure] <ELPepsi> pero sopa wn deja de explotarlos aca abajo
-[18:39:01] [Server thread/INFO]: [Not Secure] <Le0> arbol naranjo de mierda
-[18:39:02] [Server thread/INFO]: [Not Secure] <Diegojg> no si leito
-[18:39:09] [Server thread/INFO]: [Not Secure] <ELPepsi> me sacrificos
-[18:40:15] [Server thread/INFO]: ELPepsi was blown up by Creeper
-[18:40:32] [Server thread/INFO]: [Not Secure] <ELPepsi> fue un noble sacrificio a
-[18:42:15] [Server thread/INFO]: [Not Secure] <ELPepsi> quedo como campo bombardeado aca wn XD
-[18:42:28] [Server thread/INFO]: [Not Secure] <Le0> OE vs Creepers
-[18:42:33] [Server thread/INFO]: [Not Secure] <ELPepsi> no sopa
-[18:42:35] [Server thread/INFO]: [Not Secure] <ELPepsi> mi pixula no
-[18:43:05] [Server thread/INFO]: [Not Secure] <Diegojg> xd
-[18:43:13] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[18:43:18] [Server thread/INFO]: [Not Secure] <Diegojg> casi sacai a mi caballo won
-[18:43:22] [Server thread/INFO]: [Not Secure] <ELPepsi> oe no sale
-[18:43:28] [Server thread/INFO]: [Not Secure] <ELPepsi> hay q agacharse ahi
-[18:43:49] [Server thread/INFO]: [Not Secure] <Diegojg> pe pusiste un bloque qlo de madera
-[18:43:55] [Server thread/INFO]: [Not Secure] <Diegojg> y se subio a las vallas qlas
-[18:44:36] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:44:36] [Server thread/INFO]: ...47 71 1200/summon creeper -1277 57 1239<--[HERE]
-[18:44:37] [Server thread/INFO]: Summoned new Creeper
-[18:44:38] [Server thread/INFO]: Summoned new Creeper
-[18:44:38] [Server thread/INFO]: Summoned new Creeper
-[18:44:39] [Server thread/INFO]: Summoned new Creeper
-[18:44:39] [Server thread/INFO]: Summoned new Creeper
-[18:44:40] [Server thread/INFO]: Summoned new Creeper
-[18:44:40] [Server thread/INFO]: Summoned new Creeper
-[18:44:40] [Server thread/INFO]: Summoned new Creeper
-[18:44:41] [Server thread/INFO]: Summoned new Creeper
-[18:44:41] [Server thread/INFO]: Summoned new Creeper
-[18:44:42] [Server thread/INFO]: Summoned new Creeper
-[18:44:42] [Server thread/INFO]: Summoned new Creeper
-[18:44:42] [Server thread/INFO]: Summoned new Creeper
-[18:44:43] [Server thread/INFO]: Summoned new Creeper
-[18:44:43] [Server thread/INFO]: Summoned new Creeper
-[18:44:43] [Server thread/INFO]: Summoned new Creeper
-[18:44:44] [Server thread/INFO]: Summoned new Creeper
-[18:44:44] [Server thread/INFO]: Summoned new Creeper
-[18:44:44] [Server thread/INFO]: Summoned new Creeper
-[18:44:45] [Server thread/INFO]: Summoned new Creeper
-[18:44:45] [Server thread/INFO]: Summoned new Creeper
-[18:44:45] [Server thread/INFO]: Summoned new Creeper
-[18:44:45] [Server thread/INFO]: Summoned new Creeper
-[18:44:46] [Server thread/INFO]: Summoned new Creeper
-[18:44:46] [Server thread/INFO]: Summoned new Creeper
-[18:44:46] [Server thread/INFO]: Summoned new Creeper
-[18:44:46] [Server thread/INFO]: Summoned new Creeper
-[18:44:47] [Server thread/INFO]: Summoned new Creeper
-[18:44:47] [Server thread/INFO]: Summoned new Creeper
-[18:44:47] [Server thread/INFO]: Summoned new Creeper
-[18:44:47] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:44:47] [Server thread/INFO]: ...77 57 1239/summon creeper -1277 57 1239<--[HERE]
-[18:44:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:44:47] [Server thread/INFO]: <--[HERE]
-[18:44:48] [Server thread/INFO]: Summoned new Creeper
-[18:44:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:44:48] [Server thread/INFO]: ...77 57 1239/summon creeper -1277 57 1239<--[HERE]
-[18:44:48] [Server thread/INFO]: Summoned new Creeper
-[18:44:48] [Server thread/INFO]: Summoned new Creeper
-[18:44:49] [Server thread/INFO]: Summoned new Creeper
-[18:44:49] [Server thread/INFO]: Summoned new Creeper
-[18:44:49] [Server thread/INFO]: Summoned new Creeper
-[18:44:49] [Server thread/INFO]: Summoned new Creeper
-[18:44:50] [Server thread/INFO]: Summoned new Creeper
-[18:45:07] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:45:07] [Server thread/INFO]: ...77 57 1239<--[HERE]
-[18:45:08] [Server thread/INFO]: Summoned new Creeper
-[18:45:08] [Server thread/INFO]: Summoned new Creeper
-[18:45:09] [Server thread/INFO]: Summoned new Creeper
-[18:45:09] [Server thread/INFO]: Summoned new Creeper
-[18:45:10] [Server thread/INFO]: Summoned new Creeper
-[18:45:10] [Server thread/INFO]: Summoned new Creeper
-[18:45:10] [Server thread/INFO]: Summoned new Creeper
-[18:45:11] [Server thread/INFO]: Summoned new Creeper
-[18:45:11] [Server thread/INFO]: Summoned new Creeper
-[18:45:11] [Server thread/INFO]: Summoned new Creeper
-[18:45:12] [Server thread/INFO]: Summoned new Creeper
-[18:45:12] [Server thread/INFO]: Summoned new Creeper
-[18:45:12] [Server thread/INFO]: Summoned new Creeper
-[18:45:13] [Server thread/INFO]: Summoned new Creeper
-[18:45:13] [Server thread/INFO]: Summoned new Creeper
-[18:45:13] [Server thread/INFO]: Summoned new Creeper
-[18:45:14] [Server thread/INFO]: Summoned new Creeper
-[18:45:14] [Server thread/INFO]: Summoned new Creeper
-[18:45:14] [Server thread/INFO]: Summoned new Creeper
-[18:45:15] [Server thread/INFO]: Summoned new Creeper
-[18:45:15] [Server thread/INFO]: Summoned new Creeper
-[18:45:15] [Server thread/INFO]: Summoned new Creeper
-[18:45:15] [Server thread/INFO]: Summoned new Creeper
-[18:45:16] [Server thread/INFO]: Summoned new Creeper
-[18:45:16] [Server thread/INFO]: Summoned new Creeper
-[18:45:16] [Server thread/INFO]: Summoned new Creeper
-[18:45:17] [Server thread/INFO]: Summoned new Creeper
-[18:45:17] [Server thread/INFO]: Summoned new Creeper
-[18:45:17] [Server thread/INFO]: Summoned new Creeper
-[18:45:18] [Server thread/INFO]: Summoned new Creeper
-[18:45:18] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:45:18] [Server thread/INFO]: ...77 57 1239/summon creeper -1277 57 1239<--[HERE]
-[18:45:19] [Server thread/INFO]: Summoned new Creeper
-[18:45:19] [Server thread/INFO]: Summoned new Creeper
-[18:45:19] [Server thread/INFO]: Summoned new Creeper
-[18:45:19] [Server thread/INFO]: Summoned new Creeper
-[18:45:20] [Server thread/INFO]: Summoned new Creeper
-[18:45:20] [Server thread/INFO]: Summoned new Creeper
-[18:45:20] [Server thread/INFO]: Summoned new Creeper
-[18:45:21] [Server thread/INFO]: Summoned new Creeper
-[18:45:21] [Server thread/INFO]: Summoned new Creeper
-[18:45:21] [Server thread/INFO]: Summoned new Creeper
-[18:45:22] [Server thread/INFO]: Summoned new Creeper
-[18:45:22] [Server thread/INFO]: Summoned new Creeper
-[18:45:22] [Server thread/INFO]: Summoned new Creeper
-[18:45:22] [Server thread/INFO]: Summoned new Creeper
-[18:45:23] [Server thread/INFO]: Summoned new Creeper
-[18:45:23] [Server thread/INFO]: Summoned new Creeper
-[18:45:23] [Server thread/INFO]: Summoned new Creeper
-[18:45:24] [Server thread/INFO]: Summoned new Creeper
-[18:45:24] [Server thread/INFO]: Summoned new Creeper
-[18:45:24] [Server thread/INFO]: Summoned new Creeper
-[18:45:24] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[18:45:24] [Server thread/INFO]: ...77 57 1239/summon creeper -1277 57 1239<--[HERE]
-[18:45:25] [Server thread/INFO]: Summoned new Creeper
-[18:45:25] [Server thread/INFO]: Summoned new Creeper
-[18:45:25] [Server thread/INFO]: Summoned new Creeper
-[18:45:26] [Server thread/INFO]: Summoned new Creeper
-[18:45:26] [Server thread/INFO]: Summoned new Creeper
-[18:45:26] [Server thread/INFO]: Summoned new Creeper
-[18:45:27] [Server thread/INFO]: Summoned new Creeper
-[18:45:27] [Server thread/INFO]: Summoned new Creeper
-[18:45:27] [Server thread/INFO]: Summoned new Creeper
-[18:45:28] [Server thread/INFO]: Summoned new Creeper
-[18:45:28] [Server thread/INFO]: Summoned new Creeper
-[18:45:28] [Server thread/INFO]: Summoned new Creeper
-[18:45:29] [Server thread/INFO]: Summoned new Creeper
-[18:45:29] [Server thread/INFO]: Summoned new Creeper
-[18:45:29] [Server thread/INFO]: Summoned new Creeper
-[18:45:29] [Server thread/INFO]: Summoned new Creeper
-[18:45:30] [Server thread/INFO]: Summoned new Creeper
-[18:45:30] [Server thread/INFO]: Summoned new Creeper
-[18:45:30] [Server thread/INFO]: Summoned new Creeper
-[18:45:32] [Server thread/INFO]: Summoned new Creeper
-[18:45:51] [Server thread/INFO]: [Not Secure] <Diegojg> oe leo
-[18:46:05] [Server thread/INFO]: [Not Secure] <Diegojg> con ese largavista te puedo ver el micropene
-[18:46:15] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDD
-[18:46:16] [Server thread/INFO]: [Not Secure] <ELPepsi> oe
-[18:46:20] [Server thread/INFO]: [Not Secure] <ELPepsi> vengan a la mina
-[18:46:23] [Server thread/INFO]: [Not Secure] <ELPepsi> hay una wea verde
-[18:46:26] [Server thread/INFO]: [Not Secure] <Le0> de donde sacaste esa wea
-[18:46:29] [Server thread/INFO]: [Not Secure] <ELPepsi> creo que spawnearon crepers
-[18:46:33] [Server thread/INFO]: [Not Secure] <ELPepsi> pero spawnearon mal wn
-[18:46:40] [Server thread/INFO]: [Not Secure] <Le0> jsjs q wea
-[18:46:44] [Server thread/INFO]: [Not Secure] <Diegojg> esta wea la hice con amatista
-[18:47:01] [Server thread/INFO]: [Not Secure] <Le0> q wea
-[18:47:15] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa que hiciste
-[18:47:25] [Server thread/INFO]: [Not Secure] <Diegojg> oe les pegue 1
-[18:47:30] [Server thread/INFO]: [Not Secure] <Diegojg> y explotaron todos
-[18:47:41] [Server thread/INFO]: [Not Secure] <ELPepsi> no si
-[18:47:59] [Server thread/INFO]: [Not Secure] <Diegojg> oe qlo
-[18:48:07] [Server thread/INFO]: [Not Secure] <Diegojg> que me andai robando
-[18:48:12] [Server thread/INFO]: [Not Secure] <ELPepsi> teni esmeralda won
-[18:48:17] [Server thread/INFO]: [Not Secure] <Diegojg> 1
-[18:48:20] [Server thread/INFO]: [Not Secure] <ELPepsi> 3
-[18:48:22] [Server thread/INFO]: [Not Secure] <Diegojg> a no 3
-[18:48:32] [Server thread/INFO]: [Not Secure] <ELPepsi> la robaste wn a los indigenas
-[18:48:39] [Server thread/INFO]: [Not Secure] <Diegojg> si
-[18:48:51] [Server thread/INFO]: [Not Secure] <Le0> oe las puertas
+[18:59:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:59:21] [ServerMain/INFO]: Loaded 1337 recipes
+[18:59:21] [ServerMain/INFO]: Loaded 1448 advancements
+[18:59:21] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[18:59:21] [Server thread/INFO]: Loading properties
+[18:59:21] [Server thread/INFO]: Default game type: SURVIVAL
+[18:59:21] [Server thread/INFO]: Generating keypair
+[18:59:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:59:21] [Server thread/INFO]: Using epoll channel type
+[18:59:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:59:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:59:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:59:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:59:21] [Server thread/INFO]: Preparing level "world"
+[18:59:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:59:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:59:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:59:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:59:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:59:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:59:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:59:24] [Server thread/INFO]: Time elapsed: 2693 ms
+[18:59:24] [Server thread/INFO]: Done (3.179s)! For help, type "help"
+[18:59:35] [Server thread/INFO]: ELPepsi[/127.246.227.213:45931] logged in with entity id 10 at (-1353.3003390583046, -20.0, 1206.531194377944)
+[18:59:36] [Server thread/INFO]: ELPepsi joined the game
+[18:59:41] [Server thread/INFO]: Diegojg[/127.93.160.204:36259] logged in with entity id 432 at (-1250.9881746948136, 69.7531999805212, 1225.2718986144773)
+[18:59:41] [Server thread/INFO]: Diegojg joined the game
+[18:59:42] [Server thread/INFO]: Le0[/127.181.217.6:34763] logged in with entity id 495 at (-1235.4233030132516, 72.0, 1181.8334116437968)
+[18:59:42] [Server thread/INFO]: Le0 joined the game
+[18:59:57] [Server thread/INFO]: [Not Secure] <Diegojg> ke wea
+[19:00:09] [Server thread/INFO]: [Not Secure] <Le0> hay q salirse pa q desaparezcan XDD
+[19:00:23] [Server thread/INFO]: [Not Secure] <ELPepsi> XD
+[19:00:25] [Server thread/INFO]: [Not Secure] <ELPepsi> top tecnicas
+[19:00:29] [Server thread/INFO]: [Not Secure] <ELPepsi> oe quien tiene comia
+[19:00:53] [Server thread/INFO]: [Not Secure] <Le0> oe no teni ahi papa wons
+[19:01:27] [Server thread/WARN]: Horse (vehicle of Diegojg) moved wrongly! 0.29052076149332606
+[19:01:29] [Server thread/WARN]: Horse (vehicle of Diegojg) moved wrongly! 0.3351317420783744
+[19:01:29] [Server thread/WARN]: Horse (vehicle of Diegojg) moved wrongly! 0.2637807050432457
+[19:02:05] [Server thread/INFO]: [Not Secure] <Diegojg> por la mrd
+[19:02:18] [Server thread/INFO]: [Not Secure] <Diegojg> oe qlo ajsjas
+[19:02:26] [Server thread/INFO]: [Not Secure] <ELPepsi> oe te deje un bloque de oro
+[19:02:27] [Server thread/INFO]: [Not Secure] <ELPepsi> de regalo
+[19:02:49] [Server thread/INFO]: [Not Secure] <Diegojg> oe csm
+[19:02:56] [Server thread/INFO]: [Not Secure] <Diegojg> me robaste toda la carne qlo
+[19:03:03] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa tienes que saber
+[19:03:04] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj almona de mrd
+[19:03:06] [Server thread/INFO]: [Not Secure] <ELPepsi> sobre la vida
+[19:03:23] [Server thread/INFO]: [Not Secure] <Diegojg> oe robate por ultimo las semillas
+[19:03:27] [Server thread/INFO]: [Not Secure] <ELPepsi> el almonacoin esta subiendo
+[19:03:34] [Server thread/INFO]: [Not Secure] <Diegojg> la carne la uso yo
+[19:03:40] [Server thread/INFO]: [Not Secure] <Diegojg> yo no como vegetales
+[19:05:38] [Server thread/INFO]: Summoned new Creeper
+[19:05:39] [Server thread/INFO]: Summoned new Creeper
+[19:05:40] [Server thread/INFO]: Summoned new Creeper
+[19:05:40] [Server thread/INFO]: Summoned new Creeper
+[19:05:41] [Server thread/INFO]: Summoned new Creeper
+[19:05:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:05:41] [Server thread/INFO]: v<--[HERE]
+[19:05:42] [Server thread/INFO]: Summoned new Creeper
+[19:05:43] [Server thread/INFO]: Summoned new Creeper
+[19:05:43] [Server thread/INFO]: Summoned new Creeper
+[19:05:44] [Server thread/INFO]: Summoned new Creeper
+[19:05:45] [Server thread/INFO]: Summoned new Creeper
+[19:05:45] [Server thread/INFO]: Summoned new Creeper
+[19:05:46] [Server thread/INFO]: Summoned new Creeper
+[19:05:47] [Server thread/INFO]: Summoned new Creeper
+[19:05:47] [Server thread/INFO]: Summoned new Creeper
+[19:05:48] [Server thread/INFO]: Summoned new Creeper
+[19:05:48] [Server thread/INFO]: Summoned new Creeper
+[19:05:50] [Server thread/INFO]: Summoned new Creeper
+[19:05:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:05:52] [Server thread/INFO]: <--[HERE]
+[19:05:54] [Server thread/INFO]: Summoned new Creeper
+[19:05:55] [Server thread/INFO]: Summoned new Creeper
+[19:05:55] [Server thread/INFO]: Summoned new Creeper
+[19:05:56] [Server thread/INFO]: Summoned new Creeper
+[19:05:56] [Server thread/INFO]: Summoned new Creeper
+[19:05:57] [Server thread/INFO]: Summoned new Creeper
+[19:05:57] [Server thread/INFO]: Summoned new Creeper
+[19:05:58] [Server thread/INFO]: Summoned new Creeper
+[19:05:58] [Server thread/INFO]: Summoned new Creeper
+[19:05:59] [Server thread/INFO]: Summoned new Creeper
+[19:05:59] [Server thread/INFO]: Summoned new Creeper
+[19:06:00] [Server thread/INFO]: Summoned new Creeper
+[19:06:01] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:06:01] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:06:01] [Server thread/INFO]: Summoned new Creeper
+[19:06:02] [Server thread/INFO]: Summoned new Creeper
+[19:06:02] [Server thread/INFO]: Summoned new Creeper
+[19:06:03] [Server thread/INFO]: Summoned new Creeper
+[19:06:03] [Server thread/INFO]: Summoned new Creeper
+[19:06:04] [Server thread/INFO]: Summoned new Creeper
+[19:06:04] [Server thread/INFO]: Summoned new Creeper
+[19:06:05] [Server thread/INFO]: Summoned new Creeper
+[19:06:05] [Server thread/INFO]: Summoned new Creeper
+[19:06:06] [Server thread/INFO]: Summoned new Creeper
+[19:06:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:06:06] [Server thread/INFO]: v<--[HERE]
+[19:06:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:06:07] [Server thread/INFO]: v<--[HERE]
+[19:06:07] [Server thread/INFO]: Summoned new Creeper
+[19:06:09] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:06:09] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:06:10] [Server thread/INFO]: Summoned new Creeper
+[19:06:11] [Server thread/INFO]: Summoned new Creeper
+[19:06:11] [Server thread/INFO]: Summoned new Creeper
+[19:06:12] [Server thread/INFO]: Summoned new Creeper
+[19:06:12] [Server thread/INFO]: Summoned new Creeper
+[19:06:13] [Server thread/INFO]: Summoned new Creeper
+[19:06:13] [Server thread/INFO]: Summoned new Creeper
+[19:06:14] [Server thread/INFO]: Summoned new Creeper
+[19:06:14] [Server thread/INFO]: Summoned new Creeper
+[19:06:15] [Server thread/INFO]: Summoned new Creeper
+[19:06:15] [Server thread/INFO]: Summoned new Creeper
+[19:06:16] [Server thread/INFO]: Summoned new Creeper
+[19:06:16] [Server thread/INFO]: Summoned new Creeper
+[19:06:16] [Server thread/INFO]: Summoned new Creeper
+[19:06:17] [Server thread/INFO]: Summoned new Creeper
+[19:06:17] [Server thread/INFO]: Summoned new Creeper
+[19:06:17] [Server thread/INFO]: Summoned new Creeper
+[19:06:17] [Server thread/INFO]: Summoned new Creeper
+[19:06:18] [Server thread/INFO]: Summoned new Creeper
+[19:06:18] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:06:18] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:06:19] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:06:19] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:06:19] [Server thread/INFO]: Summoned new Creeper
+[19:06:19] [Server thread/INFO]: Summoned new Creeper
+[19:06:20] [Server thread/INFO]: Summoned new Creeper
+[19:06:20] [Server thread/INFO]: Summoned new Creeper
+[19:06:20] [Server thread/INFO]: Summoned new Creeper
+[19:06:21] [Server thread/INFO]: Summoned new Creeper
+[19:06:21] [Server thread/INFO]: Summoned new Creeper
+[19:06:23] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:06:23] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:06:23] [Server thread/INFO]: Summoned new Creeper
+[19:06:24] [Server thread/INFO]: Summoned new Creeper
+[19:06:24] [Server thread/INFO]: Summoned new Creeper
+[19:06:24] [Server thread/INFO]: Summoned new Creeper
+[19:06:25] [Server thread/INFO]: Summoned new Creeper
+[19:06:25] [Server thread/INFO]: Summoned new Creeper
+[19:06:25] [Server thread/INFO]: Summoned new Creeper
+[19:06:26] [Server thread/INFO]: Summoned new Creeper
+[19:06:26] [Server thread/INFO]: Summoned new Creeper
+[19:06:26] [Server thread/INFO]: Summoned new Creeper
+[19:06:26] [Server thread/INFO]: Summoned new Creeper
+[19:06:27] [Server thread/INFO]: Summoned new Creeper
+[19:06:27] [Server thread/INFO]: Summoned new Creeper
+[19:06:27] [Server thread/INFO]: Summoned new Creeper
+[19:06:28] [Server thread/INFO]: Summoned new Creeper
+[19:06:28] [Server thread/INFO]: Summoned new Creeper
+[19:06:28] [Server thread/INFO]: Summoned new Creeper
+[19:06:28] [Server thread/INFO]: Summoned new Creeper
+[19:06:29] [Server thread/INFO]: Summoned new Creeper
+[19:06:29] [Server thread/INFO]: Summoned new Creeper
+[19:06:29] [Server thread/INFO]: Summoned new Creeper
+[19:06:29] [Server thread/INFO]: Summoned new Creeper
+[19:06:30] [Server thread/INFO]: Summoned new Creeper
+[19:06:30] [Server thread/INFO]: Summoned new Creeper
+[19:06:30] [Server thread/INFO]: Summoned new Creeper
+[19:06:30] [Server thread/INFO]: Summoned new Creeper
+[19:06:31] [Server thread/INFO]: Summoned new Creeper
+[19:06:31] [Server thread/INFO]: Summoned new Creeper
+[19:06:31] [Server thread/INFO]: Summoned new Creeper
+[19:06:31] [Server thread/INFO]: Summoned new Creeper
+[19:06:32] [Server thread/INFO]: Summoned new Creeper
+[19:06:32] [Server thread/INFO]: Summoned new Creeper
+[19:06:32] [Server thread/INFO]: Summoned new Creeper
+[19:06:32] [Server thread/INFO]: Summoned new Creeper
+[19:06:33] [Server thread/INFO]: Summoned new Creeper
+[19:06:33] [Server thread/INFO]: Summoned new Creeper
+[19:06:34] [Server thread/INFO]: Summoned new Creeper
+[19:06:34] [Server thread/INFO]: Summoned new Creeper
+[19:06:34] [Server thread/INFO]: Summoned new Creeper
+[19:06:35] [Server thread/INFO]: Summoned new Creeper
+[19:06:35] [Server thread/INFO]: Summoned new Creeper
+[19:06:35] [Server thread/INFO]: Summoned new Creeper
+[19:06:35] [Server thread/INFO]: Summoned new Creeper
+[19:06:36] [Server thread/INFO]: Summoned new Creeper
+[19:06:36] [Server thread/INFO]: Summoned new Creeper
+[19:06:36] [Server thread/INFO]: Summoned new Creeper
+[19:06:36] [Server thread/INFO]: Summoned new Creeper
+[19:06:37] [Server thread/INFO]: Summoned new Creeper
+[19:06:37] [Server thread/INFO]: Summoned new Creeper
+[19:06:37] [Server thread/INFO]: Summoned new Creeper
+[19:06:37] [Server thread/INFO]: Summoned new Creeper
+[19:06:38] [Server thread/INFO]: Summoned new Creeper
+[19:06:38] [Server thread/INFO]: Summoned new Creeper
+[19:06:38] [Server thread/INFO]: Summoned new Creeper
+[19:06:38] [Server thread/INFO]: Summoned new Creeper
+[19:07:41] [Server thread/INFO]: [Not Secure] <Le0> almo de mrd
+[19:07:49] [Server thread/INFO]: [Not Secure] <ELPepsi> toma sopa
+[19:07:51] [Server thread/INFO]: [Not Secure] <Le0> pensaba q era un creeper de mrd cayendo del cielo
+[19:07:53] [Server thread/INFO]: [Not Secure] <ELPepsi> me diste pena
+[19:07:57] [Server thread/INFO]: [Not Secure] <Le0> pene
+[19:08:12] [Server thread/INFO]: [Not Secure] <Diegojg> oe qlo
+[19:08:17] [Server thread/INFO]: [Not Secure] <Diegojg> deja de robarme jasjasj
+[19:08:22] [Server thread/INFO]: [Not Secure] <ELPepsi> ahi volvio tu carne won
+[19:08:53] [Server thread/INFO]: Summoned new Creeper
+[19:08:56] [Server thread/INFO]: Summoned new Creeper
+[19:08:56] [Server thread/INFO]: Summoned new Creeper
+[19:08:57] [Server thread/INFO]: Summoned new Creeper
+[19:08:57] [Server thread/INFO]: Summoned new Creeper
+[19:08:57] [Server thread/INFO]: Summoned new Creeper
+[19:08:58] [Server thread/INFO]: Summoned new Creeper
+[19:08:58] [Server thread/INFO]: Summoned new Creeper
+[19:08:58] [Server thread/INFO]: Summoned new Creeper
+[19:08:59] [Server thread/INFO]: Summoned new Creeper
+[19:08:59] [Server thread/INFO]: Summoned new Creeper
+[19:08:59] [Server thread/INFO]: Summoned new Creeper
+[19:09:00] [Server thread/INFO]: Summoned new Creeper
+[19:09:00] [Server thread/INFO]: Summoned new Creeper
+[19:09:00] [Server thread/INFO]: Summoned new Creeper
+[19:09:01] [Server thread/INFO]: Summoned new Creeper
+[19:09:01] [Server thread/INFO]: Summoned new Creeper
+[19:09:01] [Server thread/INFO]: Summoned new Creeper
+[19:09:02] [Server thread/INFO]: Summoned new Creeper
+[19:09:02] [Server thread/INFO]: Summoned new Creeper
+[19:09:02] [Server thread/INFO]: Summoned new Creeper
+[19:09:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:09:02] [Server thread/INFO]: <--[HERE]
+[19:09:02] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:09:02] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:09:03] [Server thread/INFO]: Summoned new Creeper
+[19:09:03] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:09:03] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:09:05] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:09:05] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:09:06] [Server thread/INFO]: Summoned new Creeper
+[19:09:06] [Server thread/INFO]: Summoned new Creeper
+[19:09:06] [Server thread/INFO]: Summoned new Creeper
+[19:09:07] [Server thread/INFO]: Summoned new Creeper
+[19:09:07] [Server thread/INFO]: Summoned new Creeper
+[19:09:07] [Server thread/INFO]: Summoned new Creeper
+[19:09:08] [Server thread/INFO]: Summoned new Creeper
+[19:09:08] [Server thread/INFO]: Summoned new Creeper
+[19:09:08] [Server thread/INFO]: Summoned new Creeper
+[19:09:08] [Server thread/INFO]: Summoned new Creeper
+[19:09:09] [Server thread/INFO]: Summoned new Creeper
+[19:09:09] [Server thread/INFO]: Summoned new Creeper
+[19:09:09] [Server thread/INFO]: Summoned new Creeper
+[19:09:10] [Server thread/INFO]: Summoned new Creeper
+[19:09:10] [Server thread/INFO]: Summoned new Creeper
+[19:09:10] [Server thread/INFO]: Summoned new Creeper
+[19:09:10] [Server thread/INFO]: Summoned new Creeper
+[19:09:11] [Server thread/INFO]: Summoned new Creeper
+[19:09:11] [Server thread/INFO]: Summoned new Creeper
+[19:09:11] [Server thread/INFO]: Summoned new Creeper
+[19:09:12] [Server thread/INFO]: Summoned new Creeper
+[19:09:12] [Server thread/INFO]: Summoned new Creeper
+[19:09:12] [Server thread/INFO]: Summoned new Creeper
+[19:09:12] [Server thread/INFO]: Summoned new Creeper
+[19:09:13] [Server thread/INFO]: Summoned new Creeper
+[19:09:13] [Server thread/INFO]: Summoned new Creeper
+[19:09:13] [Server thread/INFO]: Summoned new Creeper
+[19:09:13] [Server thread/INFO]: Summoned new Creeper
+[19:09:14] [Server thread/INFO]: Summoned new Creeper
+[19:09:14] [Server thread/INFO]: Summoned new Creeper
+[19:09:14] [Server thread/INFO]: Summoned new Creeper
+[19:09:15] [Server thread/INFO]: Summoned new Creeper
+[19:09:15] [Server thread/INFO]: Summoned new Creeper
+[19:09:15] [Server thread/INFO]: Summoned new Creeper
+[19:09:15] [Server thread/INFO]: Summoned new Creeper
+[19:09:16] [Server thread/INFO]: Summoned new Creeper
+[19:09:16] [Server thread/INFO]: Summoned new Creeper
+[19:09:16] [Server thread/INFO]: Summoned new Creeper
+[19:09:17] [Server thread/INFO]: Summoned new Creeper
+[19:09:17] [Server thread/INFO]: Summoned new Creeper
+[19:09:17] [Server thread/INFO]: Summoned new Creeper
+[19:09:17] [Server thread/INFO]: Summoned new Creeper
+[19:09:18] [Server thread/INFO]: Summoned new Creeper
+[19:09:18] [Server thread/INFO]: Summoned new Creeper
+[19:09:18] [Server thread/INFO]: Summoned new Creeper
+[19:09:18] [Server thread/INFO]: Summoned new Creeper
+[19:09:19] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:09:19] [Server thread/INFO]: ...56 69 1297/summon creeper -1256 69 1297<--[HERE]
+[19:09:20] [Server thread/INFO]: Summoned new Creeper
+[19:09:20] [Server thread/INFO]: Summoned new Creeper
+[19:09:20] [Server thread/INFO]: Summoned new Creeper
+[19:09:21] [Server thread/INFO]: Summoned new Creeper
+[19:09:21] [Server thread/INFO]: Summoned new Creeper
+[19:09:21] [Server thread/INFO]: Summoned new Creeper
+[19:09:21] [Server thread/INFO]: Summoned new Creeper
+[19:09:22] [Server thread/INFO]: Summoned new Creeper
+[19:09:22] [Server thread/INFO]: Summoned new Creeper
+[19:09:22] [Server thread/INFO]: Summoned new Creeper
+[19:09:22] [Server thread/INFO]: Summoned new Creeper
+[19:09:23] [Server thread/INFO]: Summoned new Creeper
+[19:09:23] [Server thread/INFO]: Summoned new Creeper
+[19:09:23] [Server thread/INFO]: Summoned new Creeper
+[19:09:23] [Server thread/INFO]: Summoned new Creeper
+[19:09:24] [Server thread/INFO]: Summoned new Creeper
+[19:09:24] [Server thread/INFO]: Summoned new Creeper
+[19:09:24] [Server thread/INFO]: Summoned new Creeper
+[19:09:25] [Server thread/INFO]: Summoned new Creeper
+[19:09:25] [Server thread/INFO]: Summoned new Creeper
+[19:09:25] [Server thread/INFO]: Summoned new Creeper
+[19:09:25] [Server thread/INFO]: Summoned new Creeper
+[19:09:26] [Server thread/INFO]: Summoned new Creeper
+[19:09:26] [Server thread/INFO]: Summoned new Creeper
+[19:09:26] [Server thread/INFO]: Summoned new Creeper
+[19:09:41] [Server thread/INFO]: Summoned new Creeper
+[19:09:57] [Server thread/INFO]: Summoned new Skeleton
+[19:09:58] [Server thread/INFO]: Summoned new Skeleton
+[19:09:59] [Server thread/INFO]: Summoned new Skeleton
+[19:09:59] [Server thread/INFO]: Summoned new Skeleton
+[19:09:59] [Server thread/INFO]: Summoned new Skeleton
+[19:09:59] [Server thread/INFO]: Summoned new Skeleton
+[19:09:59] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:00] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:01] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:02] [Server thread/INFO]: Summoned new Skeleton
+[19:10:03] [Server thread/INFO]: Summoned new Skeleton
+[19:10:03] [Server thread/INFO]: Summoned new Skeleton
+[19:10:03] [Server thread/INFO]: Summoned new Skeleton
+[19:10:03] [Server thread/INFO]: Summoned new Skeleton
+[19:10:03] [Server thread/INFO]: Summoned new Skeleton
+[19:10:04] [Server thread/INFO]: Summoned new Skeleton
+[19:10:04] [Server thread/INFO]: Summoned new Skeleton
+[19:10:04] [Server thread/INFO]: Summoned new Skeleton
+[19:10:04] [Server thread/INFO]: Summoned new Skeleton
+[19:10:04] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:05] [Server thread/INFO]: Summoned new Skeleton
+[19:10:06] [Server thread/INFO]: Summoned new Skeleton
+[19:10:06] [Server thread/INFO]: Summoned new Skeleton
+[19:10:06] [Server thread/INFO]: Summoned new Skeleton
+[19:10:06] [Server thread/INFO]: Summoned new Skeleton
+[19:10:06] [Server thread/INFO]: Summoned new Skeleton
+[19:10:07] [Server thread/INFO]: Summoned new Skeleton
+[19:10:07] [Server thread/INFO]: Summoned new Skeleton
+[19:10:07] [Server thread/INFO]: Summoned new Skeleton
+[19:10:07] [Server thread/INFO]: Summoned new Skeleton
+[19:10:07] [Server thread/INFO]: Summoned new Skeleton
+[19:10:08] [Server thread/INFO]: Summoned new Skeleton
+[19:10:08] [Server thread/INFO]: Summoned new Skeleton
+[19:10:08] [Server thread/INFO]: Summoned new Skeleton
+[19:10:08] [Server thread/INFO]: Summoned new Skeleton
+[19:10:09] [Server thread/INFO]: Summoned new Skeleton
+[19:10:09] [Server thread/INFO]: Summoned new Skeleton
+[19:10:09] [Server thread/INFO]: Summoned new Skeleton
+[19:10:09] [Server thread/INFO]: Summoned new Skeleton
+[19:10:09] [Server thread/INFO]: Summoned new Skeleton
+[19:10:10] [Server thread/INFO]: Summoned new Skeleton
+[19:10:10] [Server thread/INFO]: Summoned new Skeleton
+[19:10:10] [Server thread/INFO]: Summoned new Skeleton
+[19:10:10] [Server thread/INFO]: Summoned new Skeleton
+[19:10:11] [Server thread/INFO]: Summoned new Skeleton
+[19:10:11] [Server thread/INFO]: Summoned new Skeleton
+[19:10:11] [Server thread/INFO]: Summoned new Skeleton
+[19:10:11] [Server thread/INFO]: Summoned new Skeleton
+[19:10:11] [Server thread/INFO]: Summoned new Skeleton
+[19:10:12] [Server thread/INFO]: Summoned new Skeleton
+[19:10:12] [Server thread/INFO]: Summoned new Skeleton
+[19:10:12] [Server thread/INFO]: Summoned new Skeleton
+[19:10:12] [Server thread/INFO]: Summoned new Skeleton
+[19:10:12] [Server thread/INFO]: Summoned new Skeleton
+[19:10:13] [Server thread/INFO]: Summoned new Skeleton
+[19:10:13] [Server thread/INFO]: Summoned new Skeleton
+[19:10:13] [Server thread/INFO]: Summoned new Skeleton
+[19:10:13] [Server thread/INFO]: Summoned new Skeleton
+[19:10:14] [Server thread/INFO]: Summoned new Skeleton
+[19:10:14] [Server thread/INFO]: Summoned new Skeleton
+[19:10:14] [Server thread/INFO]: Summoned new Skeleton
+[19:10:14] [Server thread/INFO]: Summoned new Skeleton
+[19:10:14] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:15] [Server thread/INFO]: Summoned new Skeleton
+[19:10:16] [Server thread/INFO]: Summoned new Skeleton
+[19:10:16] [Server thread/INFO]: Summoned new Skeleton
+[19:10:16] [Server thread/INFO]: Summoned new Skeleton
+[19:10:16] [Server thread/INFO]: Summoned new Skeleton
+[19:10:16] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:17] [Server thread/INFO]: Summoned new Skeleton
+[19:10:18] [Server thread/INFO]: Summoned new Skeleton
+[19:10:36] [Server thread/INFO]: [Not Secure] <ELPepsi> que mieda
+[19:10:39] [Server thread/INFO]: [Not Secure] <ELPepsi> esa esooooooooo
+[19:10:44] [Server thread/INFO]: [Not Secure] <Le0> xd
+[19:11:01] [Server thread/INFO]: [Not Secure] <Le0> viviendo en 1 metro cuadrao
+[19:11:18] [Server thread/INFO]: Summoned new Skeleton
+[19:11:18] [Server thread/INFO]: Summoned new Skeleton
+[19:11:19] [Server thread/INFO]: Summoned new Skeleton
+[19:11:19] [Server thread/INFO]: Summoned new Skeleton
+[19:11:19] [Server thread/INFO]: Summoned new Skeleton
+[19:11:19] [Server thread/INFO]: Summoned new Skeleton
+[19:11:19] [Server thread/INFO]: Summoned new Skeleton
+[19:11:20] [Server thread/INFO]: Summoned new Skeleton
+[19:11:20] [Server thread/INFO]: Summoned new Skeleton
+[19:11:20] [Server thread/INFO]: Summoned new Skeleton
+[19:11:20] [Server thread/INFO]: Summoned new Skeleton
+[19:11:20] [Server thread/INFO]: Summoned new Skeleton
+[19:11:21] [Server thread/INFO]: Summoned new Skeleton
+[19:11:21] [Server thread/INFO]: Summoned new Skeleton
+[19:11:21] [Server thread/INFO]: Summoned new Skeleton
+[19:11:21] [Server thread/INFO]: Summoned new Skeleton
+[19:11:21] [Server thread/INFO]: Summoned new Skeleton
+[19:11:22] [Server thread/INFO]: Summoned new Skeleton
+[19:11:22] [Server thread/INFO]: Summoned new Skeleton
+[19:11:33] [Server thread/INFO]: Summoned new Skeleton
+[19:11:34] [Server thread/INFO]: Summoned new Skeleton
+[19:11:34] [Server thread/INFO]: Summoned new Skeleton
+[19:11:34] [Server thread/INFO]: Summoned new Skeleton
+[19:11:34] [Server thread/INFO]: Summoned new Skeleton
+[19:11:34] [Server thread/INFO]: Summoned new Skeleton
+[19:11:35] [Server thread/INFO]: Summoned new Skeleton
+[19:11:35] [Server thread/INFO]: Summoned new Skeleton
+[19:11:35] [Server thread/INFO]: Summoned new Skeleton
+[19:11:35] [Server thread/INFO]: Summoned new Skeleton
+[19:11:36] [Server thread/INFO]: Summoned new Skeleton
+[19:11:36] [Server thread/INFO]: Summoned new Skeleton
+[19:11:36] [Server thread/INFO]: Summoned new Skeleton
+[19:11:36] [Server thread/INFO]: Summoned new Skeleton
+[19:11:36] [Server thread/INFO]: Summoned new Skeleton
+[19:11:37] [Server thread/INFO]: Summoned new Skeleton
+[19:11:37] [Server thread/INFO]: Summoned new Skeleton
+[19:11:37] [Server thread/INFO]: Summoned new Skeleton
+[19:11:37] [Server thread/INFO]: Summoned new Skeleton
+[19:11:37] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:38] [Server thread/INFO]: Summoned new Skeleton
+[19:11:39] [Server thread/INFO]: Summoned new Skeleton
+[19:11:39] [Server thread/INFO]: Summoned new Skeleton
+[19:11:39] [Server thread/INFO]: Summoned new Skeleton
+[19:11:39] [Server thread/INFO]: Summoned new Skeleton
+[19:11:39] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: [Not Secure] <Le0> oe almo
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:40] [Server thread/INFO]: Summoned new Skeleton
+[19:11:41] [Server thread/INFO]: Summoned new Skeleton
+[19:11:41] [Server thread/INFO]: Summoned new Skeleton
+[19:11:41] [Server thread/INFO]: Summoned new Skeleton
+[19:11:41] [Server thread/INFO]: Summoned new Skeleton
+[19:11:41] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:42] [Server thread/INFO]: Summoned new Skeleton
+[19:11:45] [Server thread/INFO]: [Not Secure] <Le0> hay esqueletos en tu casa
+[19:11:46] [Server thread/INFO]: [Not Secure] <ELPepsi> a
+[19:11:51] [Server thread/INFO]: [Not Secure] <Le0> por lo menos cambiaron de mobs
+[19:11:53] [Server thread/INFO]: [Not Secure] <ELPepsi> loeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[19:11:53] [Server thread/INFO]: [Not Secure] <Le0> xd
+[19:12:00] [Server thread/INFO]: [Not Secure] <Le0> csm son caleta
+[19:12:08] [Server thread/INFO]: [Not Secure] <ELPepsi> los mato a todo
+[19:12:09] [Server thread/INFO]: [Not Secure] <Le0> yo le tiro lava wons
+[19:12:15] [Server thread/INFO]: [Not Secure] <ELPepsi> oe el piso es de madera
+[19:12:17] [Server thread/INFO]: [Not Secure] <ELPepsi> xd
+[19:12:21] [Server thread/INFO]: [Not Secure] <Diegojg> oe
+[19:12:31] [Server thread/INFO]: [Not Secure] <Diegojg> hay creeperse igual
+[19:12:42] [Server thread/INFO]: [Not Secure] <ELPepsi> MIRA QUE WEONES
+[19:12:44] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDDD
+[19:13:06] [Server thread/INFO]: [Not Secure] <ELPepsi> SOPA QLO
+[19:13:08] [Server thread/INFO]: [Not Secure] <Le0> nosi sopa
+[19:13:19] [Server thread/INFO]: [Not Secure] <Diegojg> oe asjsaj
+[19:13:23] [Server thread/INFO]: [Not Secure] <Diegojg> yo lo arreglo
+[19:14:09] [Server thread/INFO]: ELPepsi was shot by Skeleton
+[19:15:06] [Server thread/INFO]: [Not Secure] <Le0> venecos de mierda armados
+[19:15:20] [Server thread/INFO]: [Not Secure] <ELPepsi> Una colecta para el almona
+[19:15:30] [Server thread/INFO]: [Not Secure] <Diegojg> no si el server de almo
+[19:15:33] [Server thread/INFO]: [Not Secure] <Diegojg> no tiene mods
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:05] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:06] [Server thread/INFO]: Summoned new Creeper
+[19:17:07] [Server thread/INFO]: Summoned new Creeper
+[19:17:07] [Server thread/INFO]: Summoned new Creeper
+[19:17:07] [Server thread/INFO]: Summoned new Creeper
+[19:17:07] [Server thread/INFO]: Summoned new Creeper
+[19:17:07] [Server thread/INFO]: Summoned new Creeper
+[19:17:08] [Server thread/INFO]: Summoned new Creeper
+[19:17:08] [Server thread/INFO]: Summoned new Creeper
+[19:17:08] [Server thread/INFO]: Summoned new Creeper
+[19:17:08] [Server thread/INFO]: Summoned new Creeper
+[19:17:08] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:09] [Server thread/INFO]: Summoned new Creeper
+[19:17:10] [Server thread/INFO]: Summoned new Creeper
+[19:17:10] [Server thread/INFO]: Summoned new Creeper
+[19:17:10] [Server thread/INFO]: Summoned new Creeper
+[19:17:10] [Server thread/INFO]: Summoned new Creeper
+[19:17:10] [Server thread/INFO]: Summoned new Creeper
+[19:17:11] [Server thread/INFO]: Summoned new Creeper
+[19:17:11] [Server thread/INFO]: Summoned new Creeper
+[19:17:11] [Server thread/INFO]: Summoned new Creeper
+[19:17:11] [Server thread/INFO]: Summoned new Creeper
+[19:17:11] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: Summoned new Creeper
+[19:17:12] [Server thread/INFO]: [Not Secure] <Le0> q weaaaa
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:13] [Server thread/INFO]: Summoned new Creeper
+[19:17:14] [Server thread/INFO]: Summoned new Creeper
+[19:17:14] [Server thread/INFO]: Summoned new Creeper
+[19:17:24] [Server thread/INFO]: [Not Secure] <Diegojg> jsajs
+[19:17:31] [Server thread/INFO]: [Not Secure] <Diegojg> oe leo
+[19:17:35] [Server thread/INFO]: [Not Secure] <Le0> oe almo de mierda
+[19:17:36] [Server thread/INFO]: [Not Secure] <Diegojg> los viste caer ahi
+[19:17:43] [Server thread/INFO]: [Not Secure] <Le0> se escucho caer
+[19:17:51] [Server thread/INFO]: [Not Secure] <Diegojg> oe si caen del cielo wn
+[19:17:54] [Server thread/INFO]: [Not Secure] <Le0> oe q mierda
+[19:17:55] [Server thread/INFO]: [Not Secure] <Diegojg> ahi los vi
+[19:18:07] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa convida pan
+[19:18:08] [Server thread/INFO]: [Not Secure] <Le0> jksjkjs sopa con su wea mirando
+[19:18:15] [Server thread/INFO]: [Not Secure] <ELPepsi> mirandome las wea
+[19:18:18] [Server thread/INFO]: [Not Secure] <Le0> XD
+[19:18:19] [Server thread/INFO]: Summoned new Creeper
+[19:18:19] [Server thread/INFO]: Summoned new Creeper
+[19:18:19] [Server thread/INFO]: Summoned new Creeper
+[19:18:19] [Server thread/INFO]: Summoned new Creeper
+[19:18:19] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:20] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:21] [Server thread/INFO]: [Not Secure] <Diegojg> oe es que se ve fino con esta wea
+[19:18:21] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:22] [Server thread/INFO]: Summoned new Creeper
+[19:18:23] [Server thread/INFO]: Summoned new Creeper
+[19:18:23] [Server thread/INFO]: Summoned new Creeper
+[19:18:23] [Server thread/INFO]: Summoned new Creeper
+[19:18:28] [Server thread/INFO]: [Not Secure] <ELPepsi> wn
+[19:18:28] [Server thread/INFO]: [Not Secure] <Diegojg> viste almona
+[19:18:34] [Server thread/INFO]: [Not Secure] <Diegojg> lo viste?
+[19:18:35] [Server thread/INFO]: [Not Secure] <Le0> oe estan respawneando XD
+[19:18:36] [Server thread/INFO]: [Not Secure] <ELPepsi> por que del cielo wn
+[19:18:41] [Server thread/INFO]: [Not Secure] <Diegojg> caen ahi wn
+[19:18:53] [Server thread/INFO]: [Not Secure] <ELPepsi> sopa no teni otro homunculo?
+[19:18:54] [Server thread/INFO]: [Not Secure] <Diegojg> no si almona
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:00] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:01] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:02] [Server thread/INFO]: Summoned new Creeper
+[19:19:03] [Server thread/INFO]: [Not Secure] <Diegojg> aprovecha cada milesima de segundo para robarme
+[19:19:14] [Server thread/INFO]: [Not Secure] <ELPepsi> presta el homunculoo
+[19:19:15] [Server thread/INFO]: [Not Secure] <Le0> hay q salirse y volver a entrar wons XD
