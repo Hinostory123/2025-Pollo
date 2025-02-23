@@ -567,6 +567,7 @@
       "cooked_chicken": "2025-02-21 17:29:45 +0000",
       "cooked_mutton": "2025-02-23 04:11:36 +0000",
       "cooked_beef": "2025-02-21 18:22:06 +0000",
+      "baked_potato": "2025-02-23 18:17:45 +0000",
       "melon_slice": "2025-02-18 23:40:43 +0000"
     },
     "done": false
@@ -2255,6 +2256,12 @@
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-23 18:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-23 18:17:01 +0000"
     },
     "done": true
   },
