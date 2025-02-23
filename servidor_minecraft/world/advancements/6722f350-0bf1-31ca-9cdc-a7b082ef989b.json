@@ -585,6 +585,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-19 01:19:53 +0000",
       "bread": "2025-02-23 17:18:12 +0000",
+      "cooked_chicken": "2025-02-23 17:29:55 +0000",
       "cooked_mutton": "2025-02-21 17:04:44 +0000",
       "potato": "2025-02-21 16:32:10 +0000",
       "melon_slice": "2025-02-21 18:42:00 +0000",
@@ -2314,6 +2315,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-02-23 17:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 17:31:51 +0000"
     },
     "done": true
   },
