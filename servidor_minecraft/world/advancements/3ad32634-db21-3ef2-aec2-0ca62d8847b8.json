@@ -342,7 +342,8 @@
       "bread": "2025-02-21 03:44:16 +0000",
       "rotten_flesh": "2025-02-18 23:08:35 +0000",
       "glow_berries": "2025-02-23 04:24:43 +0000",
-      "cooked_beef": "2025-02-21 17:24:08 +0000"
+      "cooked_beef": "2025-02-21 17:24:08 +0000",
+      "melon_slice": "2025-02-23 15:38:08 +0000"
     },
     "done": false
   },
@@ -2239,6 +2240,24 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-23 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-23 15:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-23 15:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-23 15:37:57 +0000"
     },
     "done": true
   },
