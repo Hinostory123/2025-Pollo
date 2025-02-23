@@ -2162,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-23 18:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-02-23 18:12:11 +0000"
@@ -2286,6 +2292,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 17:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-23 18:34:14 +0000"
     },
     "done": true
   },
