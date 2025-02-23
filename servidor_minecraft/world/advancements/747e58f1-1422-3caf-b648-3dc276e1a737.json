@@ -507,6 +507,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-02-23 03:35:18 +0000",
       "minecraft:skeleton": "2025-02-18 23:16:09 +0000",
       "minecraft:spider": "2025-02-22 04:14:38 +0000",
       "minecraft:zombie": "2025-02-18 23:31:55 +0000",
@@ -1985,6 +1986,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-22 04:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-23 03:35:34 +0000"
     },
     "done": true
   },
