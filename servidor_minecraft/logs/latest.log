@@ -1,95 +1,27 @@
-[02:59:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:59:32] [ServerMain/INFO]: Loaded 1337 recipes
-[02:59:32] [ServerMain/INFO]: Loaded 1448 advancements
-[02:59:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:59:32] [Server thread/INFO]: Loading properties
-[02:59:32] [Server thread/INFO]: Default game type: SURVIVAL
-[02:59:32] [Server thread/INFO]: Generating keypair
-[02:59:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:59:32] [Server thread/INFO]: Using epoll channel type
-[02:59:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:59:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:59:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:59:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:59:32] [Server thread/INFO]: Preparing level "world"
-[02:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:59:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:59:37] [Server thread/INFO]: Time elapsed: 4714 ms
-[02:59:37] [Server thread/INFO]: Done (5.059s)! For help, type "help"
-[03:00:28] [Server thread/INFO]: Diegojg[/127.93.160.204:54841] logged in with entity id 10 at (-1427.1348516218811, -12.0, 1227.3782992400534)
-[03:00:28] [Server thread/INFO]: Diegojg joined the game
-[03:00:58] [Server thread/INFO]: Diegojg lost connection: Disconnected
-[03:00:58] [Server thread/INFO]: Diegojg left the game
-[03:00:58] [Server thread/WARN]: handleDisconnection() called twice
-[03:01:18] [Server thread/INFO]: Diegojg[/127.93.160.204:37337] logged in with entity id 324 at (-1427.1348516218811, -12.0, 1227.3782992400534)
-[03:01:18] [Server thread/INFO]: Diegojg joined the game
-[03:01:27] [Server thread/INFO]: Diegojg lost connection: Disconnected
-[03:01:27] [Server thread/INFO]: Diegojg left the game
-[03:02:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:02:54] [Server thread/INFO]: Diegojg[/127.93.160.204:55463] logged in with entity id 631 at (-1427.1348516218811, -12.0, 1227.3782992400534)
-[03:02:54] [Server thread/INFO]: Diegojg joined the game
-[03:04:09] [Server thread/INFO]: Diegojg lost connection: Timed out
-[03:04:09] [Server thread/INFO]: Diegojg left the game
-[03:04:27] [Server thread/INFO]: Diegojg[/127.93.160.204:37039] logged in with entity id 1068 at (-1426.3204318712528, -12.0, 1232.6646998289816)
-[03:04:27] [Server thread/INFO]: Diegojg joined the game
-[03:06:42] [Server thread/INFO]: Diegojg lost connection: Timed out
-[03:06:42] [Server thread/INFO]: Diegojg left the game
-[03:07:11] [Server thread/INFO]: Diegojg[/127.93.160.204:58875] logged in with entity id 1815 at (-1437.5666396893014, -11.5, 1210.3558995577391)
-[03:07:11] [Server thread/INFO]: Diegojg joined the game
-[03:07:46] [Server thread/INFO]: Diegojg lost connection: Disconnected
-[03:07:46] [Server thread/INFO]: Diegojg left the game
-[03:08:04] [Server thread/INFO]: Diegojg[/127.93.160.204:51047] logged in with entity id 2103 at (-1437.5666396893014, -11.5, 1210.3558995577391)
-[03:08:04] [Server thread/INFO]: Diegojg joined the game
-[03:09:19] [Server thread/INFO]: Diegojg lost connection: Timed out
-[03:09:19] [Server thread/INFO]: Diegojg left the game
-[03:10:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:11:58] [Server thread/INFO]: Diegojg[/127.166.184.171:58893] logged in with entity id 2598 at (-1422.8363318005536, -7.0, 1234.6715547229537)
-[03:11:58] [Server thread/INFO]: Diegojg joined the game
-[03:41:36] [Server thread/INFO]: Diegojg has made the advancement [Ol' Betsy]
-[03:41:36] [Server thread/INFO]: Diegojg has made the advancement [Take Aim]
-[03:45:02] [Server thread/INFO]: Le0[/127.181.217.6:60933] logged in with entity id 9233 at (-1427.6032462037633, -12.0, 1223.7261140555927)
-[03:45:02] [Server thread/INFO]: Le0 joined the game
-[03:45:28] [Server thread/INFO]: [Not Secure] <Le0> pene pene diuca ñato
-[03:45:33] [Server thread/INFO]: [Not Secure] <Le0> gracias viñaaaaa
-[03:45:38] [Server thread/INFO]: [Not Secure] <Le0> asi se triunfa wons
-[03:49:29] [Server thread/INFO]: Diegojg has made the advancement [A Throwaway Joke]
-[03:49:43] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[03:49:49] [Server thread/INFO]: [Not Secure] <Diegojg> dio papa y pollo nomas
-[03:49:55] [Server thread/INFO]: [Not Secure] <Le0> xdddd
-[03:49:56] [Server thread/INFO]: [Not Secure] <Diegojg> pollito con papa eso me gusta a mi
-[03:50:04] [Server thread/INFO]: [Not Secure] <Diegojg> pollito con papa eso me usta ami
-[03:50:09] [Server thread/INFO]: [Not Secure] <Diegojg> primero se come el pollito
-[03:50:16] [Server thread/INFO]: [Not Secure] <Diegojg> y despues la papita
-[03:50:21] [Server thread/INFO]: [Not Secure] <Diegojg> mmmmque rico
-[03:50:23] [Server thread/INFO]: [Not Secure] <Le0> de ahi me comes el pene
-[03:50:26] [Server thread/INFO]: [Not Secure] <Diegojg> encima la coca cola
-[03:50:34] [Server thread/INFO]: [Not Secure] <Diegojg> oe ordinario
-[03:50:38] [Server thread/INFO]: [Not Secure] <Le0> XD
-[03:50:40] [Server thread/INFO]: [Not Secure] <Diegojg> oe es para aca
-[03:51:05] [Server thread/INFO]: [Not Secure] <Diegojg> oe ven
-[03:54:06] [Server thread/INFO]: [Not Secure] <Diegojg> oe klo
-[03:55:14] [Server thread/INFO]: [Not Secure] <Diegojg> oe toma las llaves
-[03:55:46] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[03:55:55] [Server thread/INFO]: [Not Secure] <Diegojg> te animas a usar el mal presagio?
-[03:56:03] [Server thread/INFO]: [Not Secure] <Diegojg> pero hay que ir a dejar las weas
-[03:56:08] [Server thread/INFO]: [Not Secure] <Le0> oe es una hora la wea
-[03:56:10] [Server thread/INFO]: [Not Secure] <Le0> XD
-[03:56:14] [Server thread/INFO]: [Not Secure] <Diegojg> y hay que hacer un bunker qlo
-[03:56:15] [Server thread/INFO]: [Not Secure] <Le0> casi 2 horas
-[03:56:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe no
-[03:56:35] [Server thread/INFO]: [Not Secure] <Diegojg> dura la wea de matar a los monos qlos nomas
-[03:56:56] [Server thread/INFO]: [Not Secure] <Diegojg> por ejemplo si uso la wea aca se van a reactivar estas cajas qlas
-[03:57:05] [Server thread/INFO]: [Not Secure] <Diegojg> y los wns son re brigidos si
-[03:57:13] [Server thread/INFO]: [Not Secure] <Le0> oe con almo
-[03:57:22] [Server thread/INFO]: [Not Secure] <Le0> me hicieron mrd la armadura xd
-[03:57:23] [Server thread/INFO]: [Not Secure] <Diegojg> y cuando los matas te dan una llave bacana
-[03:57:27] [Server thread/INFO]: [Not Secure] <Diegojg> dale
+[13:56:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:56:45] [ServerMain/INFO]: Loaded 1337 recipes
+[13:56:45] [ServerMain/INFO]: Loaded 1448 advancements
+[13:56:45] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[13:56:45] [Server thread/INFO]: Loading properties
+[13:56:45] [Server thread/INFO]: Default game type: SURVIVAL
+[13:56:45] [Server thread/INFO]: Generating keypair
+[13:56:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:56:45] [Server thread/INFO]: Using epoll channel type
+[13:56:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:56:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:56:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:56:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:56:45] [Server thread/INFO]: Preparing level "world"
+[13:56:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:56:49] [Server thread/INFO]: Time elapsed: 3428 ms
+[13:56:49] [Server thread/INFO]: Done (3.910s)! For help, type "help"
+[13:57:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:02:34] [Server thread/INFO]: ELPepsi[/127.157.107.220:49667] logged in with entity id 10 at (-1254.7901598183864, 68.9375, 1242.0623786740841)
+[14:02:34] [Server thread/INFO]: ELPepsi joined the game
