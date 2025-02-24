@@ -1,106 +1,51 @@
-[01:20:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:20:46] [ServerMain/INFO]: Loaded 1337 recipes
-[01:20:46] [ServerMain/INFO]: Loaded 1448 advancements
-[01:20:46] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:20:46] [Server thread/INFO]: Loading properties
-[01:20:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:20:46] [Server thread/INFO]: Generating keypair
-[01:20:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:20:47] [Server thread/INFO]: Using epoll channel type
-[01:20:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:20:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:20:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:20:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:20:47] [Server thread/INFO]: Preparing level "world"
-[01:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:50] [Server thread/INFO]: Time elapsed: 3072 ms
-[01:20:50] [Server thread/INFO]: Done (3.357s)! For help, type "help"
-[01:21:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:23:09] [Server thread/INFO]: Le0[/127.181.217.6:39807] logged in with entity id 10 at (-1265.5, 72.0, 1234.5)
-[01:23:09] [Server thread/INFO]: Le0 joined the game
-[01:48:44] [Server thread/INFO]: Diegojg[/127.93.160.204:39557] logged in with entity id 5369 at (-1254.124042085847, 69.0, 1247.0740485254623)
-[01:48:44] [Server thread/INFO]: Diegojg joined the game
-[01:48:50] [Server thread/INFO]: [Not Secure] <Diegojg> nosi
-[01:49:16] [Server thread/INFO]: [Not Secure] <Le0> nosiso
-[01:50:50] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[01:51:02] [Server thread/INFO]: [Not Secure] <Diegojg> con esta wea te haces el monocular
-[01:51:16] [Server thread/INFO]: [Not Secure] <Le0> nosi sopa
-[01:51:59] [Server thread/INFO]: [Not Secure] <Le0> con esta wea lo usa solis pa verse la pixula y mear
-[01:52:04] [Server thread/INFO]: [Not Secure] <Diegojg> jsjjs
-[01:52:31] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[01:52:33] [Server thread/INFO]: [Not Secure] <Le0> sopa queri leche
-[01:52:35] [Server thread/INFO]: [Not Secure] <Diegojg> se te salio un trnero
-[01:52:48] [Server thread/INFO]: [Not Secure] <Diegojg> 2 qlo
-[01:52:48] [Server thread/INFO]: [Not Secure] <Le0> esas mierdas nose como se salen
-[01:53:17] [Server thread/INFO]: [Not Secure] <Diegojg> salen por esta wea parece
-[01:53:44] [Server thread/INFO]: [Not Secure] <Diegojg> oe y de que sirve la leche wn
-[01:53:49] [Server thread/INFO]: [Not Secure] <Diegojg> pq no cura ninguna mrd
-[01:53:54] [Server thread/INFO]: [Not Secure] <Le0> queri lacteo
-[01:54:01] [Server thread/INFO]: [Not Secure] <Diegojg> leche de toro
-[01:54:07] [Server thread/INFO]: [Not Secure] <Le0> si
-[01:57:55] [Server thread/INFO]: Le0 has made the advancement [Minecraft: Trial(s) Edition]
-[01:58:01] [Server thread/INFO]: [Not Secure] <Le0> q wea
-[01:58:10] [Server thread/INFO]: [Not Secure] <Le0> pille una wea sopa
-[01:58:10] [Server thread/INFO]: [Not Secure] <Diegojg> que wea aceptaste leo
-[01:58:15] [Server thread/INFO]: [Not Secure] <Diegojg> aonde
-[01:58:22] [Server thread/INFO]: [Not Secure] <Le0> baja al inframundo
-[01:58:30] [Server thread/INFO]: [Not Secure] <Diegojg> oe es la sala qla de los desafios
-[01:58:40] [Server thread/INFO]: [Not Secure] <Le0> no tengo esa pico de hierro YIAH
-[01:58:47] [Server thread/INFO]: [Not Secure] <Diegojg> oe ontai
-[01:58:47] [Server thread/INFO]: [Not Secure] <Le0> Quizas xd
-[01:58:52] [Server thread/INFO]: [Not Secure] <Le0> baja
-[01:59:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe nose ontas
-[02:00:10] [Server thread/INFO]: [Not Secure] <Le0> oe aonde estai
-[02:00:25] [Server thread/INFO]: [Not Secure] <Diegojg> baje en esa wea del bosque qlo
-[02:00:34] [Server thread/INFO]: [Not Secure] <Le0> oe no tan abajo xd
-[02:00:39] [Server thread/INFO]: [Not Secure] <Le0> sube
-[02:01:10] [Server thread/INFO]: [Not Secure] <Diegojg> aaah
-[02:01:13] [Server thread/INFO]: [Not Secure] <Diegojg> si si
-[02:01:24] [Server thread/INFO]: [Not Secure] <Diegojg> en esta wea hay unos spawns de hadrtas weas
-[02:01:29] [Server thread/INFO]: [Not Secure] <Diegojg> no destruyas ninguna caja wn
-[02:01:35] [Server thread/INFO]: [Not Secure] <Diegojg> hay que matar a los que salgan
-[02:01:37] [Server thread/INFO]: [Not Secure] <Le0> de aqui salen los creepers de mierda
-[02:01:39] [Server thread/INFO]: [Not Secure] <Diegojg> y te dan llaves
-[02:01:41] [Server thread/INFO]: Diegojg has made the advancement [Minecraft: Trial(s) Edition]
-[02:03:25] [Server thread/INFO]: [Not Secure] <Diegojg> nos dieron 2
-[02:03:26] [Server thread/INFO]: [Not Secure] <Diegojg> toma 1
-[02:04:19] [Server thread/INFO]: [Not Secure] <Diegojg> toma won
-[02:04:44] [Server thread/INFO]: [Not Secure] <Diegojg> hay que matar a los wns que aparecieron
-[02:04:52] [Server thread/INFO]: [Not Secure] <Diegojg> mientras no se maten a todos no te dan llaves
-[02:04:58] [Server thread/INFO]: [Not Secure] <Le0> quede sin comia
-[02:04:59] [Server thread/INFO]: [Not Secure] <Diegojg> toma 1 llave wn
-[02:05:05] [Server thread/INFO]: [Not Secure] <Diegojg> oe yo tengo
-[02:05:18] [Server thread/INFO]: [Not Secure] <Le0> wena wons
-[02:05:25] [Server thread/INFO]: [Not Secure] <Diegojg> oe mira
-[02:05:29] [Server thread/INFO]: [Not Secure] <Le0> digamosle a almo XD
-[02:05:43] [Server thread/INFO]: [Not Secure] <Diegojg> oe mira asi se ocupa la llave qla
-[02:06:06] [Server thread/INFO]: Diegojg has made the advancement [Under Lock and Key]
-[02:06:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe maricon
-[02:06:20] [Server thread/INFO]: [Not Secure] <Le0> mal presagio
-[02:06:20] [Server thread/INFO]: [Not Secure] <Diegojg> te quedaste mis cosas
-[02:06:22] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj
-[02:06:27] [Server thread/INFO]: [Not Secure] <Le0> jsjs saltaron de la caja
-[02:06:29] [Server thread/INFO]: [Not Secure] <Diegojg> oee
-[02:06:32] [Server thread/INFO]: [Not Secure] <Diegojg> las tomaste
-[02:06:42] [Server thread/INFO]: [Not Secure] <Diegojg> ocupa tu llave en otra de estas mismas cajas
-[02:06:45] [Server thread/INFO]: [Not Secure] <Le0> oe toy viendo q wea era XD
-[02:07:00] [Server thread/INFO]: [Not Secure] <Le0> te pase mi llave xd
-[02:07:08] [Server thread/INFO]: [Not Secure] <Diegojg> oe toma
-[02:07:15] [Server thread/INFO]: [Not Secure] <Diegojg> oe y que wea mas te dio?
-[02:07:18] [Server thread/INFO]: Le0 has made the advancement [Under Lock and Key]
-[02:07:32] [Server thread/INFO]: [Not Secure] <Le0> sopa de mrd
-[02:07:40] [Server thread/INFO]: [Not Secure] <Le0> me hurtaste D:
-[02:07:42] [Server thread/INFO]: [Not Secure] <Le0> XDDDDD
-[02:07:46] [Server thread/INFO]: [Not Secure] <Le0> q wea eso
-[02:09:43] [Server thread/INFO]: [Not Secure] <Diegojg> oe cuidao
-[02:09:50] [Server thread/INFO]: [Not Secure] <Le0> ta oscuro
-[02:09:51] [Server thread/INFO]: [Not Secure] <Diegojg> ahi hay 1 de arañas venenosas
-[02:10:48] [Server thread/INFO]: [Not Secure] <Diegojg> mocosso qlo ese
-[02:10:54] [Server thread/INFO]: [Not Secure] <Le0> Ulloa
+[02:59:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:59:32] [ServerMain/INFO]: Loaded 1337 recipes
+[02:59:32] [ServerMain/INFO]: Loaded 1448 advancements
+[02:59:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:59:32] [Server thread/INFO]: Loading properties
+[02:59:32] [Server thread/INFO]: Default game type: SURVIVAL
+[02:59:32] [Server thread/INFO]: Generating keypair
+[02:59:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:59:32] [Server thread/INFO]: Using epoll channel type
+[02:59:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:59:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:59:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:59:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:59:32] [Server thread/INFO]: Preparing level "world"
+[02:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:59:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:59:37] [Server thread/INFO]: Time elapsed: 4714 ms
+[02:59:37] [Server thread/INFO]: Done (5.059s)! For help, type "help"
+[03:00:28] [Server thread/INFO]: Diegojg[/127.93.160.204:54841] logged in with entity id 10 at (-1427.1348516218811, -12.0, 1227.3782992400534)
+[03:00:28] [Server thread/INFO]: Diegojg joined the game
+[03:00:58] [Server thread/INFO]: Diegojg lost connection: Disconnected
+[03:00:58] [Server thread/INFO]: Diegojg left the game
+[03:00:58] [Server thread/WARN]: handleDisconnection() called twice
+[03:01:18] [Server thread/INFO]: Diegojg[/127.93.160.204:37337] logged in with entity id 324 at (-1427.1348516218811, -12.0, 1227.3782992400534)
+[03:01:18] [Server thread/INFO]: Diegojg joined the game
+[03:01:27] [Server thread/INFO]: Diegojg lost connection: Disconnected
+[03:01:27] [Server thread/INFO]: Diegojg left the game
+[03:02:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:02:54] [Server thread/INFO]: Diegojg[/127.93.160.204:55463] logged in with entity id 631 at (-1427.1348516218811, -12.0, 1227.3782992400534)
+[03:02:54] [Server thread/INFO]: Diegojg joined the game
+[03:04:09] [Server thread/INFO]: Diegojg lost connection: Timed out
+[03:04:09] [Server thread/INFO]: Diegojg left the game
+[03:04:27] [Server thread/INFO]: Diegojg[/127.93.160.204:37039] logged in with entity id 1068 at (-1426.3204318712528, -12.0, 1232.6646998289816)
+[03:04:27] [Server thread/INFO]: Diegojg joined the game
+[03:06:42] [Server thread/INFO]: Diegojg lost connection: Timed out
+[03:06:42] [Server thread/INFO]: Diegojg left the game
+[03:07:11] [Server thread/INFO]: Diegojg[/127.93.160.204:58875] logged in with entity id 1815 at (-1437.5666396893014, -11.5, 1210.3558995577391)
+[03:07:11] [Server thread/INFO]: Diegojg joined the game
+[03:07:46] [Server thread/INFO]: Diegojg lost connection: Disconnected
+[03:07:46] [Server thread/INFO]: Diegojg left the game
+[03:08:04] [Server thread/INFO]: Diegojg[/127.93.160.204:51047] logged in with entity id 2103 at (-1437.5666396893014, -11.5, 1210.3558995577391)
+[03:08:04] [Server thread/INFO]: Diegojg joined the game
